@@ -1,27 +1,5 @@
 {
   "products": [
-      {
-      "id": "testing",
-      "name": "Testing",
-      "category": "Soils & Bark",
-      "subcategory": "",
-      "price": 1.0,
-      "wasPrice": null,
-      "unit": "per bulk",
-      "sku": "45BLK0912P",
-      "rating": null,
-      "reviews": null,
-      "stock": "in",
-      "delivery": true,
-      "pickup": true,
-      "isNew": false,
-      "isSale": false,
-      "featuredRank": null,
-      "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/White+Ice+2.jpg",
-      "url": "https://krc-rock-5.dudasites.com/product/testing",
-      "shortDesc": "testing.",
-      "bestFor": ""
-    },
     {
       "id": "amended-top-soil",
       "name": "Amended Top Soil",
