@@ -23,28 +23,6 @@
       "bestFor": ""
     },
     {
-      "id": "amended-top-soil",
-      "name": "Amended Top Soil",
-      "category": "Soils & Bark",
-      "subcategory": "",
-      "price": 1.0,
-      "wasPrice": null,
-      "unit": "per bulk",
-      "sku": "45BLK0912P",
-      "rating": null,
-      "reviews": null,
-      "stock": "in",
-      "delivery": true,
-      "pickup": true,
-      "isNew": false,
-      "isSale": false,
-      "featuredRank": null,
-      "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Topsoil.jpg",
-      "url": "https://krc-rock-5.dudasites.com/product/amended-top-soil",
-      "shortDesc": "Rich and dark, our screened Topsoil is perfect for garden beds, sod prep, and general planting. Blended for optimal drainage and nutrient content, it creates the perfect base for healthy growth.",
-      "bestFor": ""
-    },
-    {
       "id": "apache-brown",
       "name": "Apache Brown",
       "category": "Crushed Decorative Rock",
