@@ -264,7 +264,7 @@
     "color": "<p><strong>Color</strong></p><p>Deep black with consistent, rich color throughout</p>",
     "bestUses": "<p><strong>Best Uses</strong></p><p>Planting beds, decorative ground cover, and areas where strong contrast is desired</p>",
     "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over weed barrier; spread evenly and avoid excessive disturbance to maintain color appearance</p>",
-    "stoneType": "<p><strong>Stone Type</strong></p><p>Dyed Wood Mulch</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Dyed Wood Mulch</p>",
     "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; lightweight (approx. 500–900 lbs per cubic yard)</p>",
     "sizeRange": "<p><strong>Size Range</strong></p><p>Shredded wood pieces, typically 1”–3”</p>",
     "durability": "<p><strong>Durability</strong></p><p>Long-lasting color compared to natural mulches; will gradually fade over time and require refreshing</p>"
@@ -283,7 +283,7 @@
     "color": "<p><strong>Color</strong></p><p>Deep brown with rich, consistent color and subtle natural tones</p>",
     "bestUses": "<p><strong>Best Uses</strong></p><p>Planting beds, decorative ground cover, and areas where a natural but enhanced look is desired</p>",
     "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over weed barrier; spread evenly and minimize disturbance to maintain color consistency</p>",
-    "stoneType": "<p><strong>Stone Type</strong></p><p>Dyed Wood Mulch</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Dyed Wood Mulch</p>",
     "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; lightweight (approx. 500–900 lbs per cubic yard)</p>",
     "sizeRange": "<p><strong>Size Range</strong></p><p>Shredded wood pieces, typically 1”–3”</p>",
     "durability": "<p><strong>Durability</strong></p><p>Color-treated for longer-lasting appearance; fades gradually and may need refreshing over time</p>"
@@ -679,7 +679,7 @@
     "color": "<p><strong>Color</strong></p><p>Dark brown with earthy tones and natural organic variation</p>",
     "bestUses": "<p><strong>Best Uses</strong></p><p>Planting beds, garden areas, soil conditioning, and moisture retention</p>",
     "installationTips": "<p><strong>Installation Tips</strong></p><p>Spread evenly around plants and trees; keep slightly away from stems and trunks to prevent moisture buildup</p>",
-    "stoneType": "<p><strong>Stone Type</strong></p><p>Composted Mulch Blend</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Composted Mulch Blend</p>",
     "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; approx. 700–1,000 lbs per cubic yard depending on moisture content</p>",
     "sizeRange": "<p><strong>Size Range</strong></p><p>Fine to medium organic material with small shredded pieces</p>",
     "durability": "<p><strong>Durability</strong></p><p>Breaks down quickly to improve soil health; ideal for enriching soil but requires more frequent replenishment</p>"
@@ -967,7 +967,7 @@
     "color": "<p><strong>Color</strong></p><p>Rich reddish-brown with dark brown tones and natural variation</p>",
     "bestUses": "<p><strong>Best Uses</strong></p><p>Slopes, hillsides, erosion control areas, and decorative ground cover where material needs to stay in place</p>",
     "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over weed barrier; spread evenly and lightly compact or water to help fibers knit together and resist movement</p>",
-    "stoneType": "<p><strong>Stone Type</strong></p><p>Shredded Bark Mulch (Fibrous)</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Shredded Bark Mulch (Fibrous)</p>",
     "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; lightweight (approx. 500–900 lbs per cubic yard)</p>",
     "sizeRange": "<p><strong>Size Range</strong></p><p>Stringy, fibrous strands with mixed shredded pieces</p>",
     "durability": "<p><strong>Durability</strong></p><p>Excellent for erosion control due to interlocking fibers; slowly decomposes and enriches soil over time</p>"
@@ -1055,7 +1055,7 @@
     "color": "<p><strong>Color</strong></p><p>Natural brown with reddish and tan tones and organic variation</p>",
     "bestUses": "<p><strong>Best Uses</strong></p><p>Planting beds, decorative ground cover, and general landscape applications</p>",
     "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over weed barrier; spread evenly and rake smooth for a clean, finished appearance</p>",
-    "stoneType": "<p><strong>Stone Type</strong></p><p>Decorative Bark</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Decorative Bark</p>",
     "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; lightweight (approx. 500–900 lbs per cubic yard)</p>",
     "sizeRange": "<p><strong>Size Range</strong></p><p>Chunky bark pieces, typically 1”–3”</p>",
     "durability": "<p><strong>Durability</strong></p><p>Longer-lasting than finer mulches; breaks down gradually while maintaining a decorative look</p>"
@@ -1243,7 +1243,7 @@
     "color": "<p><strong>Color</strong></p><p>Natural blend of light tan, honey, and brown wood tones with organic variation</p>",
     "bestUses": "<p><strong>Best Uses</strong></p><p>Playgrounds, play areas, walking paths, and general ground cover for safety surfacing</p>",
     "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a leveled surface; maintain proper depth for impact absorption and replenish as material breaks down</p>",
-    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Wood Chips</p><p><br></p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Natural Wood Chips</p><p><br></p>",
     "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; lightweight compared to rock materials (approx. 500–900 lbs per cubic yard)</p>",
     "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular shredded wood pieces, </p>",
     "durability": "<p><strong>Durability</strong></p><p>Soft underfoot and ideal for safety applications; will naturally decompose over time and require replenishment</p>"
@@ -1313,7 +1313,7 @@
     "color": "<p><strong>Color</strong></p><p>Rich red with warm wood tones and consistent color throughout</p>",
     "bestUses": "<p><strong>Best Uses</strong></p><p>Planting beds, decorative ground cover, and areas where bold color contrast is desired</p>",
     "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over weed barrier; spread evenly and avoid excessive disturbance to preserve color consistency</p>",
-    "stoneType": "<p><strong>Stone Type</strong></p><p>Dyed Wood Mulch</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Dyed Wood Mulch</p>",
     "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; lightweight (approx. 500–900 lbs per cubic yard)</p>",
     "sizeRange": "<p><strong>Size Range</strong></p><p>Shredded wood pieces, typically 1”–3”</p>",
     "durability": "<p><strong>Durability</strong></p><p>Color-enhanced for longer-lasting appearance; will gradually fade and may require refreshing over time</p>"
@@ -1432,7 +1432,7 @@
     "color": "<p><strong>Color</strong></p><p>Deep brown with lighter tan wood accents and natural variation</p>",
     "bestUses": "<p><strong>Best Uses</strong></p><p>Garden pathways, planting beds, and general ground cover for a clean, natural look</p>",
     "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over weed barrier; spread evenly and rake smooth for a consistent walking surface</p>",
-    "stoneType": "<p><strong>Stone Type</strong></p><p>Shredded Bark Mulch</p><p><br></p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Shredded Bark Mulch</p><p><br></p>",
     "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; lightweight (approx. 500–900 lbs per cubic yard)</p>",
     "sizeRange": "<p><strong>Size Range</strong></p><p>Mixed shredded pieces, typically 1”–3” with some finer material</p>",
     "durability": "<p><strong>Durability</strong></p><p>Breaks down over time to enrich soil; holds in place better than loose bark but may need periodic refreshing</p>"
@@ -1462,7 +1462,7 @@
     "color": "<p><strong>Color</strong></p><p>Natural brown with tan and reddish tones and organic variation</p>",
     "bestUses": "<p><strong>Best Uses</strong></p><p>Planting beds, small areas, pathways, and ground cover where a finer, more uniform look is desired</p>",
     "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over weed barrier; spread evenly and rake smooth for a clean, finished surface</p>",
-    "stoneType": "<p><strong>Stone Type</strong></p><p>Decorative Bark</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Decorative Bark</p>",
     "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; lightweight (approx. 500–900 lbs per cubic yard)</p>",
     "sizeRange": "<p><strong>Size Range</strong></p><p>Small bark pieces, typically 1/2”–2”</p>",
     "durability": "<p><strong>Durability</strong></p><p>Breaks down faster than larger bark but provides better coverage and a more uniform appearance</p>"
