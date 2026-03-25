@@ -1,0 +1,1617 @@
+{
+  "amended-top-soil": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per cubic yard depending on depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Dark brown to nearly black with rich, organic appearance</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Planting, grading, lawn prep, filling low areas, and general soil improvement</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Spread evenly and lightly compact; mix with existing soil or compost for improved plant performance</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Screened Topsoil Blend</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; approx. 1.0–1.3 tons (2,000–2,600 lbs) per cubic yard depending on moisture</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Fine soil with small organic particles and minimal debris</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Nutrient-rich and ideal for plant growth; may settle over time and require additional material for leveling</p>"
+  },
+  "apache-brown": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Rich Brown • Cocoa Tones • Warm Earthy Highlights • Subtle Tan Variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Pathways • Accent Areas • Natural Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Spread evenly over weed barrier fabric or compacted base for best appearance and easy maintenance.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8\" to 7/8\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable decorative stone that performs well in high-visibility landscape beds and walkable areas.</p>"
+  },
+  "apache-gold": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Warm Gold • Honey Tan • Cream Highlights • Soft Earth Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Accent Areas • Pathways • Xeriscape Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric or a compacted base for best weed control and separation from soil.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1/2\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Hard decorative stone that holds color well and performs reliably in landscape applications.</p>"
+  },
+  "arizona-buckskin": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 80–120 sq ft per ton depending on thickness and joint spacing.</p>",
+    "color": "<p><strong>Color</strong></p><p>Golden Tan • Buckskin Brown • Warm Sand • Subtle Cream Highlights</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios • Walkways • Garden Paths • Courtyards • Stepping Stone Paths</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Ideal for sand-set patios with decomposed granite or polymeric joints, or mortar-set installations for long-term outdoor surfaces.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Sandstone Flagstone</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,000–2,400 lbs per pallet depending on thickness.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular patio pieces typically ranging from small stepping pieces to large patio slabs.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Strong natural sandstone with reliable weather resistance and a naturally textured cleft surface that helps provide traction for walking areas.</p>"
+  },
+  "arizona-chocolate": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 80–120 sq ft per ton depending on thickness and joint spacing.</p>",
+    "color": "<p><strong>Color</strong></p><p>Rich Chocolate Brown • Deep Earth Brown • Rustic Clay • Subtle Charcoal Accents</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios • Walkways • Garden Paths • Courtyards • Stepping Stone Paths</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Performs well in sand-set installations with decomposed granite or polymeric joints, and can also be mortar-set for long-term outdoor patios and walkways.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Sandstone Flagstone</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,000–2,400 lbs per pallet depending on thickness.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular patio pieces typically ranging from small stepping pieces to large patio slabs.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Dense natural sandstone with strong weather resistance and a naturally textured surface that provides dependable traction for outdoor walking areas.</p>"
+  },
+  "arizona-classic-oak": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 80–120 sq ft per ton depending on thickness and joint spacing.</p>",
+    "color": "<p><strong>Color</strong></p><p>Warm Tan • Sandstone Beige • Light Taupe • Subtle Gray Undertones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios • Walkways • Garden Paths • Courtyards • Stepping Stone Paths</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Ideal for sand-set installations with decomposed granite or polymeric joints, or mortar-set for permanent patios and walkways.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Sandstone Flagstone</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,000–2,400 lbs per pallet depending on thickness.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular patio pieces typically ranging from small stepping pieces to large patio slabs.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable natural sandstone with excellent outdoor performance and a naturally textured surface that helps provide traction in walking areas.</p>"
+  },
+  "arizona-coral": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Rose Tan • Coral Pink • Soft Cream • Warm Desert Undertones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Accent Areas • Pathways • Desert Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric for clean separation and compacted base where a firmer walking surface is needed.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/4\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Decorative crushed stone with reliable performance and attractive warm desert color tones.</p>"
+  },
+  "arizona-river-rock": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 90–100 sq ft per ton at 2” depth • Coverage may vary by size and installation depth</p><p><br></p>",
+    "color": "<p><strong>Color Range</strong></p><p>Gray • Blue-Gray • Taupe • Brown • Natural Stone Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Dry Creek Beds • Drainage Areas • Decorative Ground Cover • Landscape Accents • Water Features</p><p><br></p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Use landscape fabric • Install edging to contain stone • Rinse to remove dust</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded River Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately&nbsp;<strong>2,700–3,000 lbs per cubic yard</strong>&nbsp;(varies by rock size)</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Available in multiple screened sizes (¼–½” • ½–1” • ¾–1½” • 1½–3” • 3–8” • 6”+)</p>"
+  },
+  "arizona-rosa": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 80–120 sq ft per ton depending on thickness and joint spacing.</p>",
+    "color": "<p><strong>Color</strong></p><p>Rose • Dusty Red • Terracotta • Warm Clay Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios • Walkways • Garden Paths • Courtyard Flooring • Stepping Stone Paths</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Ideal for sand-set patios, decomposed granite joints, or mortar-set installations for permanent outdoor living spaces.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Sandstone Flagstone</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,000–2,400 lbs per pallet depending on thickness.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular patio pieces typically ranging from small stepping pieces to large patio slabs.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Strong natural stone with good weather resistance and a naturally textured surface that provides grip underfoot.</p>"
+  },
+  "arizona-sedona-red": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 80–120 sq ft per ton depending on thickness and joint spacing.</p>",
+    "color": "<p><strong>Color</strong></p><p>Deep Red • Rust • Terracotta • Earthy Clay Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios • Walkways • Garden Paths • Courtyards • Stepping Stone Paths</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Works well for sand-set installations with decomposed granite or polymeric joints, and can also be mortar-set for permanent outdoor surfaces.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Sandstone Flagstone</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,000–2,400 lbs per pallet depending on thickness.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular patio pieces typically ranging from small stepping pieces to large patio slabs.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable natural sandstone with strong weather resistance and a naturally textured surface that provides good traction for outdoor walking areas.</p>"
+  },
+  "autumn-gold": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per ton depending on thickness and layout</p>",
+    "color": "<p><strong>Color</strong></p><p>Rich gold, amber, and rust tones with warm natural variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, walkways, garden paths, and warm rustic landscape designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base or sand; blend pieces to enhance warm color movement</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Sandstone</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,000–2,400 lbs per pallet depending on thickness.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular pieces, typically 12”–36”+</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable for residential use; best suited for light to moderate traffic areas</p>"
+  },
+  "autumn-leaves-pool-coping": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies by piece size; typically sold by the piece or pallet for linear applications</p>",
+    "color": "<p><strong>Color</strong></p><p>Warm Walnut • Rust • Golden Brown • Natural Variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Pool Coping • Step Treads • Wall Caps • Outdoor Kitchens • Seating Walls • Water Features</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared concrete base using thin-set mortar or setting bed; ensure proper slope for drainage and seal for enhanced color and longevity</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Stone Coping (Travertine)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 16–20 lbs per piece (12”x24” 3CM) • 25–35 lbs per piece (12”x24” 5CM) • Heavier for 16”x24” formats</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>12” x 24” • 16” x 24” • Available in 3CM and 5CM thickness</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Highly durable • Weather resistant • Freeze-thaw stable • Ideal for exterior applications</p>"
+  },
+  "baja-brown": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100 square feet per cubic yard at 3” depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Rich Redwood Brown • Warm Rust Tones • Subtle Earthy Undertones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Garden Pathways • Natural Trails • Ground Cover • Patio Base • Xeriscape Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base and use a plate compactor with light moisture to achieve a firm surface.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Decomposed Granite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,700–3,000 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>¼” Minus Decomposed Granite</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Compacts tightly for stable surfaces while maintaining natural drainage.</p>"
+  },
+  "baja-gray": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by the ton or selected by individual piece • Sizes and weights vary • Coverage depends on spacing and design layout</p>",
+    "color": "<p><strong>Color Range</strong></p><p>Light Gray • Silver • Blue-Gray • Natural Weathered Stone Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Statement Landscape Boulders • Dry Creek Beds • Natural Retaining Accents • Water Features • Desert &amp; Modern Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Excavate and partially bury base for natural appearance • Use compacted base material for stability • Place with equipment for safe positioning</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Granite Boulder</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by piece • hundreds of pounds to several tons</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1–5 ft landscape boulders</p>"
+  },
+  "baja-red": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by the ton or selected by individual piece • Sizes vary by pallet and quarry cut • Coverage depends on placement spacing</p>",
+    "color": "<p><strong>Color Range</strong></p><p>Rust Red • Warm Brown • Tan • Natural Earth Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Accent Boulders • Desert Landscape Features • Dry Creek Beds • Focal Points • Natural Stone Groupings</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Set partially below grade for stability • Use base rock or DG for leveling • Arrange in groups for a natural landscape look</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Granite Boulder</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by piece • hundreds of pounds to several tons</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1–5 ft landscape boulders</p>"
+  },
+  "barkwood": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Warm Brown • Tan • Soft Walnut Tones • Natural Earth Blend</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Pathways • Natural Landscapes • Accent Areas</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric or compacted soil to keep the area neat and reduce soil migration.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/4\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Natural crushed stone that offers dependable performance and a warm earthy appearance.</p>"
+  },
+  "basalt": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Deep Charcoal • Graphite Gray • Subtle Black Undertones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Modern Landscapes • Ground Cover • Pathways • Accent Areas • Decorative Borders</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base or landscape fabric for a clean, durable decorative finish.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Basalt Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,700–3,000 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/4\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Dense volcanic stone with excellent hardness and long-lasting color retention.</p>"
+  },
+  "beach-pebble-black": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately&nbsp;<strong>80–100 sq ft per cubic yard at 3” depth</strong>&nbsp;• coverage varies by pebble size</p>",
+    "color": "<p><strong>Color</strong></p><p>Deep charcoal • slate gray • soft graphite tones • natural stone variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Modern landscape beds • water features • dry creek beds • decorative borders • contemporary hardscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric to prevent sinking • use edging to contain pebbles in pathways and beds • rinse after installation to reveal natural color tones</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded Beach Pebble</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately&nbsp;<strong>3,000 lbs per Super Bag</strong>&nbsp;(1.5 tons)</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>½”–1” • 1”–2” • 2”–3” • 3”–5” • 8”–10”</p>"
+  },
+  "beach-pebble-buff": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately&nbsp;<strong>80–100 sq ft per cubic yard at 3” depth</strong>&nbsp;• coverage varies by pebble size</p>",
+    "color": "<p><strong>Color</strong></p><p>Warm beige • sand • light tan • natural cream stone tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Garden beds • pathway accents • desert landscapes • water features • decorative borders</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base or landscape fabric • contain with edging for clean borders • rinse pebbles after placement to remove dust and enhance color</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded Beach Pebble</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately&nbsp;<strong>3,000 lbs per Super Bag</strong>&nbsp;(1.5 tons)</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>½”–1” • 1”–2” • 2”–3” • 3”–5” • 8”–10”</p>"
+  },
+  "beach-pebble-la-paz": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately&nbsp;<strong>90–110 sq ft per cubic yard at 2–3” depth</strong>&nbsp;• coverage varies by pebble size</p>",
+    "color": "<p><strong>Color</strong></p><p>Soft gray • tan • muted blue-gray • natural multicolor pebble blend</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Zen gardens • modern landscape beds • water features • decorative ground cover • pathway accents</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric to prevent settling • maintain even depth for consistent appearance • rinse pebbles after installation to enhance natural tones</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded Beach Pebble</p>",
+    "weight": "<p><strong>Weight</strong></p><p><strong>Approximately&nbsp;3,000 lbs per Super Bag</strong>&nbsp;(1.5 tons)</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>⅛”–¼” • ¼”–½” • ⅜”–⅝” • ⅝”–⅞”</p>"
+  },
+  "beach-pebble-mix": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately&nbsp;<strong>80–100 sq ft per cubic yard at 3” depth</strong>&nbsp;• coverage varies by pebble size</p>",
+    "color": "<p><strong>Color</strong></p><p>Blue-gray • tan • soft brown • natural river stone tones with subtle variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Natural landscape beds • dry creek beds • water features • garden borders • decorative ground cover</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Place over landscape fabric for weed control • spread evenly for consistent depth • rinse lightly after installation to bring out natural colors</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded Beach Pebble</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately&nbsp;<strong>3,000 lbs per Super Bag</strong>&nbsp;(1.5 tons)</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>½”–1” • 1”–2” • 2”–3” • 3”–5”</p>"
+  },
+  "beach-pebble-red": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately&nbsp;<strong>80–100 sq ft per cubic yard at 3” depth</strong>&nbsp;• coverage varies by pebble size</p>",
+    "color": "<p><strong>Color</strong></p><p>Deep burgundy • muted red • charcoal accents • natural stone variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Accent landscape beds • decorative borders • dry creek beds • modern landscape features • water features</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric or compacted base • maintain 2–3” depth for best coverage • rinse pebbles to remove dust and highlight color variation</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded Beach Pebble</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately&nbsp;<strong>3,000 lbs per Super Bag</strong>&nbsp;(1.5 tons)</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>½”–1” • 1”–2” • 2”–3” • 3”–5”</p>"
+  },
+  "big-horn": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per ton depending on thickness and layout</p>",
+    "color": "<p><strong>Color</strong></p><p>Warm brown, rust, and tan tones with natural layered variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, walkways, stepping stones, and rustic landscape designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base or sand; stagger pieces to enhance natural layering</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Quartzite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>~1 ton = 2,000 lbs</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular pieces, typically 12”–36”+</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Extremely durable, dense, and suitable for heavy foot traffic and long-term use</p>"
+  },
+  "big-horn-stone-veneer": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Coverage based upon a 1/2” mortar joint. Approximately 13–15 lbs per square foot.</p>",
+    "color": "<p><strong>Color</strong></p><p>Rust, gray, and earthy tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Fireplaces, exterior facades, feature walls, and architectural stonework</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared surface using the method recommended for the application. Follow manufacturer guidelines for mortar type and joint style. Adjust installation method based on dry stack or grouted applications.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Argillite</p><p><br></p>",
+    "weight": "<p><strong>Pallet Weight</strong></p><p>Veneer pallets weigh approximately 2,600 – 3,000 lbs. Corner pallets weigh approximately 1,600 – 1,800 lbs.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Thickness, 1” – 1 1/2”</p><p>Height, 2” – 7”</p><p>Length, 6” – 16”+</p>"
+  },
+  "birdseye-brown": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 100–120 sq ft per ton at 2” depth.</p>",
+    "color": "<p><strong>Color</strong></p><p>Earth Brown • Warm Tan • Soft Gray • Cream Accents • Natural Riverstone Blend</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Dry Creek Beds • Pathways • Drainage Areas • Accent Rock</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric to help prevent soil mixing and weed growth. Ideal for decorative beds, pathways, and drainage areas where natural rounded stone is desired.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded River Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,500–2,800 lbs per cubic yard.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Approx. 3/8” – 3/4” rounded pebbles with smooth river-worn edges.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Highly durable natural river rock that resists fading and weathering while maintaining its smooth texture and natural color variation.</p>"
+  },
+  "bitterroot-stone-veneer": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Coverage based upon a 1/2” mortar joint. Approximately 13–15 lbs per square foot.</p>",
+    "color": "<p><strong>Color</strong></p><p>Burgundy, rust, gold, and bronze tones set against a neutral background of grays and browns</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Fireplaces, exterior facades, feature walls, and architectural stonework</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared surface using the method recommended for the application. Follow manufacturer guidelines for mortar type and joint style. Adjust installation method based on dry stack or grouted applications.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Argillite</p>",
+    "weight": "<p><strong>Pallet Weight</strong></p><p>Veneer pallets weigh approximately 2,600 – 3,000 lbs. Corner pallets weigh approximately 1,600 – 1,800 lbs.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Thickness, 1” – 1 1/2”</p><p>Height, 2” – 7”+</p><p>Length, 6” – 16”+</p>"
+  },
+  "black-cinder": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 90–110 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Charcoal Black • Volcanic Gray • Deep Ash Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Ground Cover • Xeriscape Landscapes • Accent Beds • Drainage Areas • Volcanic-Themed Designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric to help prevent soil mixing and preserve the clean volcanic look.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Volcanic Lava Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 1,200–1,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8\" to 3/4\" Lava Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Lightweight volcanic rock with excellent drainage and strong long-term performance in landscape settings.</p>"
+  },
+  "black-dye-mulch": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 90–110 sq ft per cubic yard depending on depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Deep black with consistent, rich color throughout</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Planting beds, decorative ground cover, and areas where strong contrast is desired</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over weed barrier; spread evenly and avoid excessive disturbance to maintain color appearance</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Dyed Wood Mulch</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; lightweight (approx. 500–900 lbs per cubic yard)</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Shredded wood pieces, typically 1”–3”</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Long-lasting color compared to natural mulches; will gradually fade over time and require refreshing</p>"
+  },
+  "blue-moon": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by the ton or selected by individual piece • Sizes and weights vary by boulder • Coverage depends on spacing and landscape design</p>",
+    "color": "<p><strong>Color Range</strong></p><p>Blue-Gray • Charcoal Gray • Slate Blue • Natural Weathered Stone Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Landscape Focal Points • Dry Creek Beds • Water Features • Natural Boulder Groupings • Modern &amp; Rustic Landscape Designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Use machinery for safe placement • Partially bury base for a natural appearance • Position to highlight natural texture and color variation</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Granite Boulder</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by piece • hundreds of pounds to several tons</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1–5 ft landscape boulders</p>"
+  },
+  "brown-dye-mulch": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 90–110 sq ft per cubic yard depending on depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Deep brown with rich, consistent color and subtle natural tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Planting beds, decorative ground cover, and areas where a natural but enhanced look is desired</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over weed barrier; spread evenly and minimize disturbance to maintain color consistency</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Dyed Wood Mulch</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; lightweight (approx. 500–900 lbs per cubic yard)</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Shredded wood pieces, typically 1”–3”</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Color-treated for longer-lasting appearance; fades gradually and may need refreshing over time</p>"
+  },
+  "burgundy": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Burgundy Red • Plum Tones • Soft Mauve • Earthy Charcoal Accents</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Accent Beds • Xeriscape Landscapes • Garden Borders • Color Contrast Areas</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Use over landscape fabric for a clean decorative surface and to keep rich color tones visible.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Volcanic Lava Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 1,200–1,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/4\" Lava Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Lightweight volcanic rock that provides strong drainage and long-lasting landscape color.</p>"
+  },
+  "california-gold": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Golden Tan • Cream • Light Brown</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Accent Areas</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric and keep depth consistent.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8\"to 3/4\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Popular decorative stone with classic California desert tones.</p>"
+  },
+  "california-gold-boulder": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by the ton or individually selected pieces • Size and weight vary • Coverage determined by design spacing</p>",
+    "color": "<p><strong>Color Range</strong></p><p>Golden Tan • Warm Brown • Cream • Natural Quartz Veining</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Premium Landscape Accents • Waterfall Features • Garden Focal Points • Natural Retaining Elements • Rustic Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install with machinery for safe placement • Slightly bury base to anchor boulder • Rotate stone to highlight natural character</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Granite Boulder</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by piece • hundreds of pounds to several tons</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1–5 ft landscape boulders</p>"
+  },
+  "cameron-brown": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per ton depending on thickness and layout</p>",
+    "color": "<p><strong>Color</strong></p><p>Warm gold, tan, and rust tones with rich natural variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, walkways, garden paths, and warm, rustic landscape designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base or sand; stagger pieces to highlight natural texture and color variation</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Sandstone</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,000–2,400 lbs per pallet depending on thickness.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular pieces, typically 12”–36”+</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable for residential use; ideal for natural, low-traffic to moderate-traffic areas</p>"
+  },
+  "campo-gold": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100 square feet per cubic yard at 3” depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Natural Tan • Light Gold • Subtle Earthy Browns</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Garden Paths • Landscape Trails • Decorative Ground Cover • Patio Foundations</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Compact in thin layers over a stable base for best long-term performance.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Decomposed Granite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,700–3,000 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>¼” Minus Decomposed Granite</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Strong compacting granite blend that holds well under light foot traffic.</p>"
+  },
+  "canyon-creek-veneer": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Coverage based upon a 1/2” mortar joint. Approximately 13–15 lbs per square foot.</p>",
+    "color": "<p><strong>Color</strong></p><p>Chocolate brown, tans, and blue/gray tones with natural variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Fireplaces, exterior facades, feature walls, and architectural stonework</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared surface using the method recommended for the application. Follow manufacturer guidelines for mortar type and joint style. Adjust installation method based on dry stack or grouted applications.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p><strong>Argillite</strong></p>",
+    "weight": "<p><strong>Pallet Weight</strong></p><p>Veneer pallets weigh approximately 2,600 – 3,000 lbs. Corner pallets weigh approximately 1,600 – 1,800 lbs.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Thickness, 1” – 1 1/2”</p><p>Height, 2” – 7”+</p><p>Length, 6” – 16”+</p>"
+  },
+  "carroll-canyon": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Brown • Tan • Gray Mixed Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Accent Areas</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric and distribute evenly.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8\" to 34\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Mixed tone decorative crushed rock offering natural landscape variation.</p>"
+  },
+  "castle-ridge": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per ton depending on thickness and layout</p>",
+    "color": "<p><strong>Color</strong></p><p>Cool blue-gray with subtle charcoal and occasional tan undertones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, walkways, stepping stones, and modern or transitional landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base or sand; keep joints tight for a clean, uniform appearance</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Quartzite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,000–2,400 lbs per pallet depending on thickness.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular pieces, typically 12”–36”+</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Extremely durable, dense, and well-suited for heavy foot traffic and outdoor use</p>"
+  },
+  "chamois-beige": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Beige • Cream • Light Tan</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Pathways</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric and level base before installation.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Light decorative crushed stone with soft beige tones.</p>"
+  },
+  "champagne-gold": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Champagne • Light Gold • Cream • Soft Sand Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Accent Areas</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric and keep consistent coverage depth.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8\" to 3/4\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Elegant decorative stone with soft champagne colored highlights.</p>"
+  },
+  "cherokee-charcoal": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per ton depending on thickness and layout</p>",
+    "color": "<p><strong>Color</strong></p><p>Charcoal gray with subtle silver and cool-toned variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Modern patios, walkways, stepping stones, and contemporary landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install on compacted base or sand bed; keep joints tight for a clean modern look</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Quartzite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>~1 ton = 2,000 lbs</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Large irregular pieces, typically 12”–36”+</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Extremely durable, dense, and resistant to weathering and wear</p>"
+  },
+  "concrete-mix": {},
+  "concrete-mix-4500-psi": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 0.6 cubic feet per 90 lb bag; coverage varies based on application depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Gray with a uniform, cement-based appearance</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Sidewalks, patios, steps, footings, and post setting for high-strength applications</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Mix with water to proper consistency; place and finish promptly, and allow adequate curing time for maximum strength</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Ready-to-Use Concrete Mix</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold in bags; typically 90 lb format</p><p><br></p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Blend of cement, sand, and aggregate</p>",
+    "durability": "<p><strong>Durability</strong></p><p>High-strength mix designed to reach up to 4500 PSI; ideal for structural and load-bearing applications</p>"
+  },
+  "concrete-sand": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per cubic yard depending on depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Light tan with fine, consistent grain and subtle natural variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Concrete mixing, paver base, leveling, and bedding for paving stones and flagstone</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Spread evenly and compact or screed smooth for a stable, level surface prior to installation</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Washed Concrete Sand</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; approx. 1.3–1.5 tons (2,600–3,000 lbs) per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Fine sand with small granular particles</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Provides a stable, compactable base; ideal for structural support when properly installed</p>"
+  },
+  "copper-canyon": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Copper • Rust • Brown • Desert Earth Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Accent Areas • Garden Beds • Pathways</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric and maintain uniform depth for best appearance.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8\" to 8\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Decorative crushed stone featuring deep copper desert tones.</p>"
+  },
+  "cordoba-cream-pool-coping": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies by piece size; typically sold by the piece or pallet for linear applications</p>",
+    "color": "<p><strong>Color</strong></p><p>Soft Cream • Light Beige • Subtle Warm Undertones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Pool Coping • Step Treads • Wall Caps • Outdoor Kitchens • Seating Walls • Water Features</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a stable concrete base using thin-set mortar; maintain consistent spacing and seal to protect from staining</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Stone Coping (Travertine)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 16–20 lbs per piece (12”x24” 3CM) • 25–35 lbs per piece (12”x24” 5CM) • Heavier for 16”x24” formats</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>12” x 24” • 16” x 24” • Available in 3CM and 5CM thickness</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Highly durable • Weather resistant • Freeze-thaw stable • Ideal for exterior applications</p>"
+  },
+  "cordova-platinum": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per ton depending on thickness and layout</p>",
+    "color": "<p><strong>Color</strong></p><p>Soft gray with warm tan and subtle gold veining</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, walkways, stepping stones, and natural transitional landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base or sand; rotate pieces to blend natural color variation</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Quartzite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>~1 ton = 2,000 lbs</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular pieces, typically 12”–36”+</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Highly durable, dense, and resistant to weathering and heavy foot traffic</p>"
+  },
+  "coyote-gold": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Warm Gold • Tan • Rust • Natural Desert Blend</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Accent Areas • Pathways</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric and level base before spreading evenly.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8\" to 1\"  Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Reliable decorative crushed rock with warm natural desert color variation.</p>"
+  },
+  "coyote-gold-dg": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100 square feet per cubic yard at 3” depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Warm Desert Gold • Light Honey Tones • Natural Sand Highlights</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Walkways • Patio Foundations • Garden Paths • Decorative Ground Cover</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Moisten lightly and compact in layers for the most stable walking surface.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Decomposed Granite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,700–3,000 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>¼” Minus Decomposed Granite</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Naturally compacting granite that forms a stable surface with proper installation.</p>"
+  },
+  "decco-rio": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 90–110 sq ft per ton at 2” depth.</p>",
+    "color": "<p><strong>Color</strong></p><p>Cool Gray • Slate Blue • Soft Tan • Cream • Natural Riverstone Blend</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Dry Creek Beds • Drainage Areas • Accent Landscaping • Water Features</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric to reduce weed growth and prevent soil mixing. Works well for decorative beds, creek beds, and drainage areas where rounded natural stone is desired.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded River Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,500–2,800 lbs per cubic yard.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Approx. 1” – 2” rounded river stones with smooth, naturally worn surfaces.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Highly durable natural river rock that resists weathering and fading while maintaining its smooth texture and natural color variation.</p>"
+  },
+  "del-rio": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 80–100 sq ft per ton at 2” depth.</p>",
+    "color": "<p><strong>Color</strong></p><p>Cool Gray • Blue Gray • Soft Tan • Cream • Charcoal Accents</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Dry Creek Beds • Drainage Areas • Landscape Borders • Water Features</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric to minimize weed growth and keep stone separated from soil. Works well for decorative beds, creek beds, and drainage applications.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded River Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,500–2,800 lbs per cubic yard.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8” • 1–3” • 1.5” rounded river stones with smooth, naturally worn surfaces.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Dense natural river rock with excellent weather resistance and long-lasting color variation that performs well in decorative and drainage landscapes.</p>"
+  },
+  "desert-gold": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Golden Tan • Light Brown • Cream • Desert Gold Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Pathways • Desert Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric and maintain consistent depth for best coverage.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/4\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable crushed stone with classic desert tones suited for landscape applications.</p>"
+  },
+  "desert-gold-dg": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100 square feet per cubic yard at 3” depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Golden Tan • Warm Amber Tones • Soft Desert Sand Highlights</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Landscape Pathways • Patio Base • Decorative Ground Cover • Natural Garden Trails</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Spread evenly and compact with a plate compactor to create a dense walking surface.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Decomposed Granite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,700–3,000 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>¼” Minus Decomposed Granite</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Forms a dense, durable surface when compacted while allowing natural drainage.</p>"
+  },
+  "desert-marble": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by the ton or by individual selection • Size varies by quarry block • Coverage depends on placement and layout</p>",
+    "color": "<p><strong>Color Range</strong></p><p>Soft Cream • Beige • Light Tan • Subtle White Marble Veins</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Elegant Landscape Accents • Modern Desert Designs • Entry Features • Garden Focal Points • Decorative Groupings</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Prepare compacted base before placement • Set partially below grade for stability • Highlight natural veining when positioning</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Granite Boulder</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by piece • hundreds of pounds to several tons</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1–5 ft landscape boulders</p>"
+  },
+  "desert-sand-pool-coping": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies by piece size; typically sold by the piece or pallet for linear applications</p>",
+    "color": "<p><strong>Color</strong></p><p>Light Tan • Sandy Beige • Soft Earth Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Pool Coping • Step Treads • Wall Caps • Outdoor Kitchens • Seating Walls • Water Features</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install on a properly prepared base with thin-set mortar; ensure slope away from pool and seal for added protection</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Stone Coping (Limestone / Travertine Blend)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 16–20 lbs per piece (12”x24” 3CM) • 25–35 lbs per piece (12”x24” 5CM) • Heavier for 16”x24” formats</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>12” x 24” • 16” x 24” • Available in 3CM and 5CM thickness</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable • Weather resistant • Suitable for outdoor environments • Handles temperature variation well</p>"
+  },
+  "desert-select": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by the ton or individually selected pieces • Sizes vary • Coverage determined by project layout</p>",
+    "color": "<p><strong>Color Range</strong></p><p>Natural Tan • Warm Brown • Cream • Subtle Desert Stone Variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>General Landscape Boulders • Dry Creek Beds • Retaining Accents • Garden Focal Points • Natural Desert Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Excavate shallow pocket before placement • Use base material for leveling • Group multiple boulders for natural effect</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Granite Boulder</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by piece • hundreds of pounds to several tons</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1–5 ft landscape boulders</p>"
+  },
+  "earthtone": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per ton depending on thickness and layout</p>",
+    "color": "<p><strong>Color</strong></p><p>Blend of gray, tan, gold, and subtle rust tones with natural variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, walkways, stepping stones, and versatile landscape designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base or sand; mix pieces for a natural, balanced color blend</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Quartzite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>~1 ton = 2,000 lbs</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular pieces, typically 12”–36”+</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Extremely durable, dense, and well-suited for heavy foot traffic and outdoor use</p>"
+  },
+  "ez-mix-common-cement-riverside-94lb": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies by mix design</p>",
+    "color": "<p><strong>Color</strong></p><p>Gray</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Concrete, mortar, grout, and general construction applications requiring versatile cement performance</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Mix with aggregates and water per application requirements; suitable for a wide range of structural uses</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Portland cement (Type I/II/V)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>94 lbs per bag</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>94 lb bag (42.63 kg)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>High-strength cement with sulfate resistance and long-term structural reliability</p>"
+  },
+  "ez-mix-lehigh-white-cement-94lb": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies by mix design</p>",
+    "color": "<p><strong>Color</strong></p><p>Bright white</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative concrete, masonry, grout, stucco, and architectural finishes requiring a clean white base</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Mix with sand and aggregates as needed; ideal for colored or decorative applications</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Portland cement (Type I)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>94 lbs per bag</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>94 lb bag (42 kg)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>High-strength cement offering consistent color and excellent long-term structural performance</p>"
+  },
+  "ez-mix-lime-50lb": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Dependent on mix design</p>",
+    "color": "<p><strong>Color</strong></p><p>White / off-white powder</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Mortar mixing, plaster, stucco, and improving workability and water retention in cement blends</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Blend with cement and sand per mix ratios; improves plasticity and bonding in mortar mixes</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Hydrated lime (Type S)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>50 lbs per bag</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>50 lb bag (22.68 kg)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Enhances flexibility, bond strength, and longevity of mortar and stucco applications</p>"
+  },
+  "ez-mix-mortar-xp500-white-50lb": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 6–8 sq ft per bag depending on application thickness</p>",
+    "color": "<p><strong>Color</strong></p><p>Gray</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Thin stone veneer, manufactured stone, adhered masonry, and vertical veneer installations</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply to properly prepared substrates; maintain proper thickness and coverage for strong adhesion</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Polymeric performance mortar</p>",
+    "weight": "<p><br></p><p><strong>Weight</strong></p><p>50 lbs per bag</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>50 lb bag (22.7 kg)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Engineered for high bond strength, flexibility, and long-lasting veneer performance</p>"
+  },
+  "ez-mix-plastic-cement-cal-portland-94lb": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies by mix design and application thickness</p>",
+    "color": "<p><strong>Color</strong></p><p>Gray cement blend</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Stucco applications, plastering, and masonry where improved workability and flexibility are needed</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Mix with sand and water; ideal for stucco scratch and brown coats; follow proper curing practices</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Plastic cement (Portland cement with additives)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>94 lbs per bag</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>94 lb bag (42.63 kg)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Designed for enhanced workability, crack resistance, and long-term stucco performance</p>"
+  },
+  "ez-mix-rapid-set-mortar-55lb": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies by application thickness and repair size</p>",
+    "color": "<p><strong>Color</strong></p><p>Gray</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Structural repairs, masonry work, and projects requiring fast set times</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Work quickly after mixing; ideal for time-sensitive repairs; do not overwater</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Rapid-setting mortar mix</p>",
+    "weight": "<p><strong>Weight</strong></p><p>55 lbs per bag</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>55 lb bag (25 kg)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>High early strength with excellent long-term performance and bonding capability</p>"
+  },
+  "ez-mix-scratch---brown-94lb": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 10–12 sq ft per bag at 3/8” thickness</p>",
+    "color": "<p><strong>Color</strong></p><p>Gray cement base</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Stucco base coats (scratch and brown), exterior wall systems, and vertical cement applications</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply in layers; score scratch coat properly; allow proper curing between coats</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Fiber-reinforced stucco mix</p>",
+    "weight": "<p><strong>Weight</strong></p><p>94 lbs per bag</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>94 lb bag (42.6 kg)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Engineered for crack resistance, strong adhesion, and long-lasting stucco performance</p>"
+  },
+  "ez-mix-spec-type-s-mortar-gray-94lb": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 40–50 standard bricks per bag depending on joint size</p>",
+    "color": "<p><strong>Color</strong></p><p>Standard gray</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Brick, block, and stone laying where higher strength mortar is required</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Just add water; mix thoroughly to desired consistency; ideal for consistent jobsite performance</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Pre-blended masonry mortar (Type S)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>94 lbs per bag</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>94 lb bag (42.6 kg)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>High compressive strength mortar designed for structural masonry and load-bearing applications</p>"
+  },
+  "ez-mix-stone-veneer-mortar-svm-300-gray-94lb": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies by application thickness; typically 6–8 sq ft per bag for veneer applications</p>",
+    "color": "<p><strong>Color</strong></p><p>Natural gray cement blend</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Stone veneer installation, vertical applications, adhered masonry, and high-bond structural mortar work</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Mix to a workable consistency; apply with proper substrate prep; follow ANSI standards for veneer installation</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Polymer-modified mortar</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 94 lbs per bag</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>94 lb bag (42.7 kg)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>High-strength, engineered for superior bond, flexibility, and long-term performance in demanding installations</p>"
+  },
+  "ez-mix-stone-veneer-mortar-svm-500-gray-94lb": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 6–8 sq ft per bag depending on application</p>",
+    "color": "<p><strong>Color</strong></p><p>Gray</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>High-performance stone veneer, structural veneer applications, and demanding bonding environments</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply to clean, prepared surfaces; maintain proper thickness and coverage for optimal bond</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Polymer-modified mortar</p>",
+    "weight": "<p><strong>Weight</strong></p><p>94 lbs per bag</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>94 lb bag (42.7 kg)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Enhanced strength and flexibility for heavy-duty veneer and masonry applications</p>"
+  },
+  "ez-mix-stone-veneer-mortar-svm-gray-94lb": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 6–8 sq ft per bag depending on thickness</p>",
+    "color": "<p><strong>Color</strong></p><p>Gray</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Stone veneer, adhered masonry, vertical installations, and high-performance bonding applications</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Use on properly prepared substrates; mix to workable consistency; follow veneer installation standards</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Polymer-modified mortar</p>",
+    "weight": "<p><strong>Weight</strong></p><p>94 lbs per bag</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>94 lb bag (42.7 kg)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>High-strength, flexible mortar designed for superior adhesion and long-term durability</p>"
+  },
+  "ez-mix-type-s-medium-tan-94lb": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 40–50 standard bricks per bag depending on joint size</p>",
+    "color": "<p><strong>Color</strong></p><p>Medium tan</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Brick, block, and stone masonry where a colored mortar finish is desired</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Add water only; maintain consistent mixing for uniform color; ideal for decorative masonry</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Pre-blended colored masonry mortar (Type S)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>94 lbs per bag</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>94 lb bag (42.63 kg)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>High-strength mortar with consistent color and long-term structural performance</p>"
+  },
+  "falls-creek-veneer": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Coverage based upon a 1/2” mortar joint. Approximately 13–15 lbs per square foot.</p>",
+    "color": "<p><strong>Color</strong></p><p>Light tones ranging from soft grays to warm golds with subtle natural variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Fireplaces, exterior facades, feature walls, and architectural stonework</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared surface using the method recommended for the application. Follow manufacturer guidelines for mortar type and joint style. Adjust installation method based on dry stack or grouted applications.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Argillite</p>",
+    "weight": "<p><strong>Pallet Weight</strong></p><p>Veneer pallets weigh approximately 2,600 – 3,000 lbs. Corner pallets weigh approximately 1,600 – 1,800 lbs.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Thickness, 1” – 1 1/2”</p><p>Height, 2” – 7”+</p><p>Length, 6” – 16”+</p>"
+  },
+  "forest-floor-mulch": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 90–110 sq ft per cubic yard depending on depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Dark brown with earthy tones and natural organic variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Planting beds, garden areas, soil conditioning, and moisture retention</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Spread evenly around plants and trees; keep slightly away from stems and trunks to prevent moisture buildup</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Composted Mulch Blend</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; approx. 700–1,000 lbs per cubic yard depending on moisture content</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Fine to medium organic material with small shredded pieces</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Breaks down quickly to improve soil health; ideal for enriching soil but requires more frequent replenishment</p>"
+  },
+  "fossil-brown": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Brown • Tan • Earthy Natural Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Pathways</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric and compact base for pathways.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable decorative rock with natural fossil-like color tones.</p>"
+  },
+  "fossil-creek": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per ton depending on thickness and layout</p>",
+    "color": "<p><strong>Color</strong></p><p>Soft beige, cream, and light tan tones with subtle natural variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, walkways, pool decks, and light, natural landscape designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base or sand; maintain even spacing for a natural layout</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Sandstone</p>",
+    "weight": "<p><strong>Weight</strong></p><p>~1 ton = 2,000 lbs</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular pieces, typically 12”–36”+</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable for standard foot traffic; best suited for residential and light-use areas</p>"
+  },
+  "glacier-mountain-veneer": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Coverage based upon a 1/2” mortar joint. Approximately 13–15 lbs per square foot.</p>",
+    "color": "<p><strong>Color</strong></p><p>Cream base with gold, black, and light gray tones throughout</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Fireplaces, exterior facades, feature walls, and architectural stonework</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared surface using the method recommended for the application. Follow manufacturer guidelines for mortar type and joint style. Adjust installation method based on dry stack or grouted applications.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Argillite</p>",
+    "weight": "<p><strong>Pallet Weight</strong></p><p>Veneer pallets weigh approximately 2,600 – 3,000 lbs. Corner pallets weigh approximately 1,600 – 1,800 lbs.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Thickness, 1” – 1 1/2”</p><p>Height, 2” – 7”+</p><p>Length, 6” – 16”+</p>"
+  },
+  "glacier-turquoise": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Turquoise • Aqua Green • White • Soft Seafoam</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Accent Areas • Modern Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric for clean separation and use a compacted base if installing in pathways.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1/8-1/4\" to 8\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Decorative crushed stone with vibrant turquoise coloring and strong long-term durability.</p>"
+  },
+  "glacier-turquoise-boulder": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by individual piece or ton • Size and weight vary greatly • Coverage depends on placement and project design</p>",
+    "color": "<p><strong>Color Range</strong></p><p>Turquoise Green • Blue-Green • Earthy Brown • Natural Mineral Veining</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Premium Statement Boulders • Water Features • Artistic Landscape Accents • Focal Points</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Use machinery for safe placement • Position to highlight natural color variation • Set partially below grade for stability</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Granite Boulder</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by piece • hundreds of pounds to several tons</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1–5 ft landscape boulders</p>"
+  },
+  "gns-acrylic-floor-polish": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 300–500 sq ft per gallon depending on surface porosity and application method</p>",
+    "color": "<p><strong>Color Enhancement</strong></p><p>Enhances color with a rich, wet-look appearance</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Interior stone, tile, and concrete floors; maintenance top coat over sealed surfaces</p>",
+    "installationTips": "<p><strong>Application</strong></p><p>Apply with mop or applicator in thin, even coats; multiple coats recommended for best finish</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Acrylic Sealer (Floor Finish / High Gloss)</p>"
+  },
+  "gns-efflorescence-remover": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies by dilution; typically 200–800 sq ft per gallon</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear liquid</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Removing white, chalky residue (efflorescence), grout haze, and cement stains from concrete, brick, and masonry</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Dilute as directed, apply to affected area, scrub if needed, and rinse thoroughly; test before full application</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Cleaner (Efflorescence Remover)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 8–10 lbs per gallon</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 gallon</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Fast-acting formula designed for heavy-duty cleaning and surface restoration prior to sealing</p>",
+    "dryTime": "<p><strong>Dry Time</strong></p><p>Allow 24 hours before sealing or further treatment</p>",
+    "surfaceCompatibility": "<p><strong>Surface Compatibility</strong></p><p>Concrete • Brick • Block • Stone • Masonry</p>",
+    "useCase": "<p><strong>Use Case</strong></p><p>Removes efflorescence, grout haze, and cement residue from masonry surfaces</p>"
+  },
+  "gns-extra-strength-penetrating": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 150–300 sq ft per gallon depending on surface and joint depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear with low gloss finish</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Sealing interlocking pavers and bricks while stabilizing joint sand</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply to clean, dry pavers with properly filled joints; locks sand and seals in one step</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Penetrating Sealer (High Performance)</p><p><br></p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 8–10 lbs per gallon</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 gallon (3.785 liters)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Locks joint sand while protecting against stains, oil, weeds, mildew, and efflorescence for long-term performance</p>"
+  },
+  "gns-ez-stain-cafe": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 200–400 sq ft per gallon depending on surface and application method</p>",
+    "color": "<p><strong>Color</strong></p><p>Varies by pigment (rich, natural-looking tones)</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Enhancing and coloring concrete surfaces including patios, driveways, walkways, and vertical surfaces</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply to clean, prepped concrete using sprayer, roller, or brush; seal after application for best results</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Colorant / Additive</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 8–10 lbs per gallon</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 gallon (3.785 liters)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Fade-resistant, long-lasting color designed for both interior and exterior concrete applications</p>"
+  },
+  "gns-grip-n-seal-quart": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies by mix ratio; typically added directly into sealers or coatings</p>",
+    "color": "<p><strong>Color</strong></p><p>Translucent granular additive</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Improving slip resistance on sealed or coated surfaces like concrete, tile, and stone</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Mix into coating-type sealers or paints before application; stir frequently to maintain even distribution</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Bonding Agent / Primer</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 0.75 lbs</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>12 oz (340 grams)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Enhances traction without significantly altering appearance; ideal for safety on walkways and patios</p>"
+  },
+  "gns-grout-sealer": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 500–1,500 sq ft per gallon depending on surface porosity</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear, non-yellowing finish</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Sealing grout joints in tile, pavers, and natural stone to prevent staining and moisture penetration</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply to clean, dry grout using a brush, roller, or applicator bottle; wipe excess from tile surface and allow to cure fully</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Penetrating Sealer (Grout Protection)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 8–10 lbs per gallon</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 gallon (3.785 liters)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Stain-resistant, breathable protection that helps extend grout life and maintain appearance</p>"
+  },
+  "gns-heavy-duty-cleaner": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies by dilution; typically 200–800 sq ft per gallon depending on soil level</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear to light amber liquid</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Removing grease, oil, wax, and heavy buildup from concrete, tile, brick, and stone surfaces</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Dilute as needed, apply to surface, scrub if necessary, and rinse thoroughly; always test in a small area first</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Cleaner (Heavy Duty)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 8–10 lbs per gallon</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 gallon</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Powerful, fast-acting formula designed for tough cleaning and surface prep before sealing or staining</p>"
+  },
+  "gns-matte-floor-polish": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 300–500 sq ft per gallon depending on application</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear matte finish</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Protecting and maintaining stone, tile, and concrete floors while improving slip resistance</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply thin, even coats over clean surface; ideal for maintenance over sealed floors</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Acrylic Sealer (Matte Finish)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 8–10 lbs per gallon</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 gallon (3.785 liters)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Extends the life of existing sealers while adding abrasion resistance and a low-gloss finish</p>"
+  },
+  "gns-multi-purpose-sealer": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 200–400 sq ft per gallon depending on surface</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear with medium gloss finish</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Sealing concrete, tile, masonry, brick, slate, quarry tile, and stamped concrete</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply evenly to clean, dry surface; suitable for both indoor and outdoor use</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Penetrating Sealer (General Purpose)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 8–10 lbs per gallon</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 gallon (3.785 liters)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Non-yellowing protection with strong stain resistance and long-lasting finish</p>"
+  },
+  "gns-natural-look-paver-sealer": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 200–400 sq ft per gallon depending on surface</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear natural (no color enhancement)</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Sealing interlocking pavers and bricks while stabilizing joint sand</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply to clean, dry pavers; ensure joints are properly filled before sealing</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Penetrating Sealer (Natural Finish)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 8–10 lbs per gallon</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 gallon (3.785 liters)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Locks joint sand, resists stains, weeds, mildew, and reduces efflorescence while maintaining natural appearance</p>"
+  },
+  "gns-natural-look-penetrating-sealer-1-gal": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 150–300 sq ft per gallon depending on porosity</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear, natural (non-gloss) finish</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Sealing concrete, brick, stone, stucco, and pavers without altering surface appearance</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply to a clean, dry surface; ideal for preserving the original look while adding protection</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Penetrating Sealer (Natural Finish)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 8–10 lbs per gallon</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 gallon (3.785 liters)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Penetrates deep to repel water, dirt, and stains while maintaining a natural appearance; long-lasting protection with minimal surface buildup</p>"
+  },
+  "gns-neutral-cleaner": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies based on dilution and application method</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear solution</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Routine cleaning of concrete, tile, natural stone, and vinyl surfaces</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Dilute as needed; no rinse required, making it ideal for maintenance cleaning</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Cleaner (Neutral / Maintenance)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 8–10 lbs per gallon</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 gallon (3.785 liters)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Safe daily-use cleaner that lifts dirt and grease without damaging sealed surfaces</p>"
+  },
+  "gns-neutralizing-rinse-2-lbs": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Makes up to 10 gallons of solution depending on dilution</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear solution (concentrate)</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Neutralizing surfaces after acid cleaning and preparing concrete, brick, tile, and stone before sealing</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Dilute as directed and apply after acid washing to restore proper pH balance before sealing</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Cleaner (Neutralizer)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>2 lbs container (concentrate)</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>2 lbs (907 grams)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Ensures proper surface conditions for long-lasting sealer performance by restoring pH balance</p>"
+  },
+  "gns-ole-mexican-tile-sealer": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 200–400 sq ft per gallon depending on porosity</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear with high-gloss finish</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Sealing porous surfaces like Saltillo, terra cotta, Tecate pavers, and Mexican tile for enhanced color and protection</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply to clean, dry surface using roller or sprayer; multiple coats may be needed for high-gloss finish</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Penetrating Sealer (Color Enhancing)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 8–10 lbs per gallon</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 gallon (3.785 liters)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Provides durable, breathable protection that resists dirt, oil, and food stains while enhancing surface color</p>"
+  },
+  "gns-paver-sealer-enhanced-look": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 150–300 sq ft per gallon depending on surface and joint depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear with color-enhancing (wet look) finish</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Sealing interlocking pavers and bricks while enhancing color and stabilizing joint sand</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply to clean, dry pavers with properly filled joints; ideal for one-step sealing and sand stabilization</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Water-based paver sealer with sand lock and color enhancement</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 8–10 lbs per gallon</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 gallon (3.785 liters)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Deepens color while protecting against oil, grease, stains, weeds, mildew, and efflorescence for long-lasting performance</p>"
+  },
+  "gns-phosphoric-acid-cleaner": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies based on dilution and surface condition</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear solution</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Removing efflorescence, grout haze, cement residue, hard water stains, lime, and rust from concrete and masonry surfaces</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Dilute as directed; apply to surface, scrub if needed, and rinse thoroughly; test on small area first</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Cleaner (Acid-Based)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 8–10 lbs per gallon</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 gallon (3.785 liters)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Powerful deep-cleaning formula ideal for surface prep and restoring heavily stained or mineral-affected surfaces</p>"
+  },
+  "gns-poultice-paste-12-1-lb": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies based on stain size and application thickness</p>",
+    "color": "<p><strong>Color</strong></p><p>Off-white paste</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Removing deep-set stains like oil, wine, coffee, smoke, and organic stains from stone and masonry</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply thick layer over stain, cover, and allow to dwell before removal</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Cleaner (Stain Extraction)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>2 lbs container</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>2 lbs (907 grams)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Draws out deep stains from porous surfaces without damaging the material</p>"
+  },
+  "gns-slate-sealer": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 200–400 sq ft per gallon depending on surface</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear with low-gloss finish</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Sealing slate, quarry tile, flagstone, and terrazzo surfaces</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply to clean, dry surface; multiple coats may be needed for porous materials</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Penetrating Stone Sealer (Low Gloss)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 8–10 lbs per gallon</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 gallon (3.785 liters)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Non-yellowing protection with excellent stain resistance while preserving a natural low-sheen look</p>"
+  },
+  "gns-stain-defense-sealer-1-quart": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 250–1,000 sq ft per quart depending on surface porosity</p><p><br></p>",
+    "color": "<p><strong>Color</strong></p><p>Clear, natural (non-gloss) finish</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Protecting natural stone, grout, concrete, brick, and masonry without altering appearance</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply evenly to clean, dry surface; allow penetration and wipe off excess to maintain natural look</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Penetrating Sealer (Stain Protection)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2–3 lbs per quart</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 quart (946 mL)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Deep-penetrating protection with strong water resistance; helps prevent staining, mildew, and efflorescence</p>"
+  },
+  "gns-stone-color-enhancer-sealer-ex-1-quart": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 150–300 sq ft per quart depending on porosity</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear with color-enhancing (wet look) finish</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Enhancing and sealing natural stone including flamed, honed, textured, and tumbled finishes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply to clean, dry surface; test first to confirm desired color enhancement effect</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Penetrating Sealer (Color Enhancing)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2–3 lbs per quart</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 quart (946 mL)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Deep penetrating formula enhances color while protecting against stains, moisture, and efflorescence</p>"
+  },
+  "gns-stone-sealant-impregnator": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 150–300 sq ft per gallon depending on porosity</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear, natural (non-gloss) finish</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Protecting decorative and plain concrete, masonry, and stone from oil and staining</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply to clean, dry surface; ideal for maintaining natural appearance while adding deep protection</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Penetrating Sealer (General Purpose)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 8–10 lbs per gallon</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 gallon (3.785 liters)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Provides superior oil and stain resistance while maintaining a completely natural, non-coated look</p>"
+  },
+  "gns-wet-look-paver-sealer-lacquer": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 200–400 sq ft per gallon depending on surface</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear with high gloss “wet look” finish</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Enhancing and sealing concrete, pavers, brick, slate, flagstone, and exposed aggregate</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply to clean, dry surface; ideal for achieving a rich, darkened wet appearance</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Acrylic Sealer (Wet Look / High Gloss)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 8–10 lbs per gallon</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 gallon (3.785 liters)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>High-gloss, durable coating that enhances color while protecting against moisture and wear</p>"
+  },
+  "gns-wet-look-wb-sealer": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 200–400 sq ft per gallon depending on surface</p>",
+    "color": "<p><strong>Color</strong></p><p>Clear with high-gloss “wet look” finish</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Enhancing decorative concrete, stamped concrete, and exposed aggregate</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Apply evenly to clean, dry surface; ideal for indoor and outdoor applications</p>",
+    "stoneType": "<p><strong>Sealer Type</strong></p><p>Water-Based Acrylic Sealer (Wet Look)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 8–10 lbs per gallon</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1 gallon (3.785 liters)</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Provides high-gloss finish with strong stain resistance and non-blushing protection</p>"
+  },
+  "gorilla-hair": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 90–110 sq ft per cubic yard depending on depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Rich reddish-brown with dark brown tones and natural variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Slopes, hillsides, erosion control areas, and decorative ground cover where material needs to stay in place</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over weed barrier; spread evenly and lightly compact or water to help fibers knit together and resist movement</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Shredded Bark Mulch (Fibrous)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; lightweight (approx. 500–900 lbs per cubic yard)</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Stringy, fibrous strands with mixed shredded pieces</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Excellent for erosion control due to interlocking fibers; slowly decomposes and enriches soil over time</p>"
+  },
+  "gray-granite": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Gray • Charcoal • Silver Granite Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Driveways • Pathways • Decorative Ground Cover</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric and compact base for high traffic areas.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Granite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Very durable granite material ideal for structural landscape use.</p>"
+  },
+  "honey-onyx": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by the ton or selected by individual piece • Sizes and weights vary by boulder • Coverage depends on spacing and landscape design</p>",
+    "color": "<p><strong>Color Range</strong></p><p>Cream • Honey Gold • Soft White • Rust Veining • Natural Onyx Stone Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Premium Landscape Focal Points • Decorative Garden Features • Water Features • Accent Boulder Groupings • High-End Landscape Designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Use machinery for safe placement • Partially bury base for a natural appearance • Position to highlight natural color banding and veining</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Onyx Marble Boulder</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by piece • hundreds of pounds to several tons</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1–5 ft landscape boulders</p>"
+  },
+  "honey-quartz": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Honey Gold • Cream • Light Amber • Quartz Highlights</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Accent Areas • Modern Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric and use edging to help maintain clean borders.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Quartz Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/4\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Hard quartz-based decorative stone offering long-lasting color and excellent durability.</p>"
+  },
+  "honey-quartz-boulder": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by the ton or individually selected pieces • Sizes vary by quarry cut • Coverage determined by spacing</p>",
+    "color": "<p><strong>Color Range</strong></p><p>Golden Honey • Amber • Tan • Quartz Crystal Veining</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Accent Boulders • Garden Features • Entryway Focal Points • Water Feature Accents</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install on compacted base • Rotate to highlight quartz veining • Group with complementary stones for natural look</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Quartzite Boulder</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by piece • hundreds of pounds to several tons</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1–5 ft landscape boulders</p>"
+  },
+  "honey-quartz-gravel": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2” depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Honey Gold • Cream • Light Amber • Quartz Highlights</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Accent Areas • Modern Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric and use edging to help maintain clean borders.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Quartz Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/4” Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Hard quartz-based decorative stone offering long-lasting color and excellent durability.</p>"
+  },
+  "imperial-gray": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Gray • Charcoal • Silver • Neutral Granite Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Driveways • Pathways • Decorative Ground Cover • Drainage Areas</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric and compact the base layer for areas with heavier traffic.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Granite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/4\" to 3\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Very durable granite rock with strong structural performance and long lifespan.</p>"
+  },
+  "lava-pot-rock": {},
+  "logic-pro-polymeric-sand": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies based on joint size and paver dimensions; typically used for joints up to 1”</p>",
+    "color": "<p><strong>Color</strong></p><p>Neutral grey with a consistent, clean finish designed to blend with pavers and natural stone</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Paver joints, natural stone installations, patios, walkways, and hardscape surfaces</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Sweep into joints, compact, and activate with water per manufacturer instructions; ensure surface is clean to avoid haze</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Polymeric Joint Sand</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold in bags; typically available in 50 lb format</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Fine sand blended with polymer binders</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Forms strong, flexible joints that resist weeds, erosion, and washout when properly installed</p>"
+  },
+  "loon-lake-veneer": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Coverage based upon a 1/2” mortar joint. Approximately 13–15 lbs per square foot.</p>",
+    "color": "<p><strong>Color</strong></p><p>Blues, greens, bronze, browns, tans, and slate grays with subtle sedimentary striations</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Fireplaces, exterior facades, feature walls, and architectural stonework</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared surface using the method recommended for the application. Follow manufacturer guidelines for mortar type and joint style. Adjust installation method based on dry stack or grouted applications.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Argillite</p>",
+    "weight": "<p><strong>Pallet Weight</strong></p><p>Veneer pallets weigh approximately 2,600 – 3,000 lbs. Corner pallets weigh approximately 1,600 – 1,800 lbs.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Thickness, 1” – 1 1/2”</p><p>Height, 2” – 7”+</p><p>Length, 6” – 16”+</p>"
+  },
+  "medium-bark": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 90–110 sq ft per cubic yard depending on depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Natural brown with reddish and tan tones and organic variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Planting beds, decorative ground cover, and general landscape applications</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over weed barrier; spread evenly and rake smooth for a clean, finished appearance</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Decorative Bark</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; lightweight (approx. 500–900 lbs per cubic yard)</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Chunky bark pieces, typically 1”–3”</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Longer-lasting than finer mulches; breaks down gradually while maintaining a decorative look</p>"
+  },
+  "mexican-sunburst": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 80–100 sq ft per ton at 2” depth depending on stone size.</p>",
+    "color": "<p><strong>Color</strong></p><p>Golden Tan • Rust Brown • Warm Sand • Copper • Subtle Earth Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Dry Creek Beds • Landscape Accents • Drainage Areas • Water Features</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric to prevent soil mixing and reduce weed growth. Ideal for decorative beds, dry creek features, and natural landscape accents where rounded stone texture is desired.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded River Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,500–2,800 lbs per cubic yard depending on stone size.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1/2”–1” • 1”–2” • 2”–3” • 3”–5” • 5”–8” rounded river stones.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Dense natural river rock with excellent resistance to weathering and fading, maintaining its warm natural color tones over time.</p>"
+  },
+  "mini-black-pearl": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 90–110 sq ft per ton at 2” depth depending on compaction.</p>",
+    "color": "<p><strong>Color</strong></p><p>Charcoal Black • Graphite Gray • Slate Blue • Subtle Natural Stone Flecks</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Pathways • Bonsai &amp; Planter Accents • Water Features • Japanese Garden Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base or landscape fabric. Lightly mist and compact for pathways or use between pavers and flagstone joints for a tight, natural finish.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded Beach Pebble</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,500–2,700 lbs per cubic yard.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Approx. 1/8” minus small rounded pebbles.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Naturally dense river pebbles with smooth edges and excellent resistance to weathering, maintaining their color and texture over time.</p>"
+  },
+  "mission-mountain": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 90–110 sq ft per ton at 2” depth depending on stone size.</p>",
+    "color": "<p><strong>Color</strong></p><p>Rose Pink • Dusty Mauve • Soft Gray • Sage Green • Cream Highlights</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Pathways • Planter Accents • Water Features • Japanese-Style Gardens</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric to help reduce weed growth and keep the pebbles separated from soil. Works well for decorative beds, pathways, and water features where smooth natural pebbles are desired.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded River Pebble</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,500–2,800 lbs per cubic yard depending on stone size.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8” • 3/4” • 1/2” • 1–3” • 1/4” • 3–6” • 6–10” rounded river stones.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Naturally dense river pebbles with smooth edges that resist weathering and maintain their natural color variation over time.</p>"
+  },
+  "mojave-gold": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Golden Tan • Cream • Light Brown • Desert Gold Blend</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Accent Areas • Pathways • Desert Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric and maintain consistent depth for even coverage and color appearance.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8\" to 3/4\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable crushed stone with classic Mojave desert tones that resist fading and weathering.</p>"
+  },
+  "montana-moss": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by the ton or selected by piece • Sizes vary • Coverage depends on spacing and layout</p>",
+    "color": "<p><strong>Color Range</strong></p><p>Moss Green • Gray • Earth Brown • Natural Weathered Stone</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Natural Landscape Designs • Woodland Gardens • Water Features • Dry Creek Beds</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Partially bury base for natural appearance • Combine with smaller accent stones • Place to highlight natural moss coloration</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Granite Boulder</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by piece • hundreds of pounds to several tons</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1–5 ft landscape boulders</p>"
+  },
+  "napa-canyon": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by the ton or individually selected pieces • Size varies by quarry block • Coverage depends on project layout</p>",
+    "color": "<p><strong>Color Range</strong></p><p>Warm Tan • Brown • Subtle Rust • Natural Canyon Stone Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Rustic Landscape Accents • Dry Creek Beds • Retaining Features • Garden Focal Points</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install on compacted base material • Set slightly below grade for natural look • Arrange in clusters for realistic landscape placement</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Granite Boulder</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by piece • hundreds of pounds to several tons</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1–5 ft landscape boulders</p>"
+  },
+  "native-gray": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2” depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Cool Gray • Silver • Soft Tan Highlights • Natural Granite Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Driveways • Pathways • Garden Beds • Modern Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric or a compacted base for improved stability and weed control.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/4” to 6\"  Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Hard crushed stone with excellent durability and neutral tones that blend well in many landscape styles.</p>"
+  },
+  "noche-pool-coping": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies by piece size; typically sold by the piece or pallet for linear applications</p>",
+    "color": "<p><strong>Color</strong></p><p>Deep Brown • Walnut • Rich Earth Tones • Subtle Veining</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Pool Coping • Step Treads • Wall Caps • Outdoor Kitchens • Seating Walls • Water Features</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install using thin-set over concrete base; darker stones benefit from sealing to maintain color consistency</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Stone Coping (Travertine)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 16–20 lbs per piece (12”x24” 3CM) • 25–35 lbs per piece (12”x24” 5CM) • Heavier for 16”x24” formats</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>12” x 24” • 16” x 24” • Available in 3CM and 5CM thickness</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Highly durable • Weather resistant • Freeze-thaw stable • Ideal for exterior applications</p>"
+  },
+  "oc-block-6x8x16": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 1.125 blocks per sq ft depending on joint spacing</p>",
+    "color": "<p><strong>Color</strong></p><p>Light gray with a uniform concrete finish</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Structural walls, garden walls, and general masonry applications where a lower profile block is preferred</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Lay with mortar in a staggered pattern; ensure a level base and consistent joint spacing for stability</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Concrete Masonry Unit (CMU)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 25–30 lbs per block</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Nominal size 6” x 8” x 16”</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable and load-bearing; suitable for long-term structural and non-structural applications</p>"
+  },
+  "oc-block-6x8x8-1": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 1.125 blocks per sq ft of wall area</p>",
+    "color": "<p><strong>Color</strong></p><p>Light gray</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Walls, structural masonry, partitions, and general construction projects</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Lay with mortar joints; ensure level courses and proper alignment; reinforce as needed</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Concrete masonry unit (CMU)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies (approx. 30–40 lbs each)</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Nominal 6” x 8” x 8”</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Strong, fire-resistant, and long-lasting building material for structural and non-structural applications</p>"
+  },
+  "oc-block-8x8x16": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 1.125 blocks per sq ft depending on joint spacing</p>",
+    "color": "<p><strong>Color</strong></p><p>Light gray with a uniform concrete finish</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Structural walls, retaining walls, foundations, and general masonry construction</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Lay with mortar in staggered pattern; ensure level base and proper alignment for structural integrity</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Concrete Masonry Unit (CMU)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 30–35 lbs per block</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Nominal size 8” x 8” x 16”</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Highly durable and load-bearing; designed for long-term structural applications</p>"
+  },
+  "oc-block-8x8x8": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 2.25 blocks per sq ft depending on joint spacing</p>",
+    "color": "<p><strong>Color</strong></p><p>Light gray with a uniform concrete finish</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Columns, piers, small walls, and structural or decorative masonry applications</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Lay with mortar in a staggered pattern; ensure proper alignment and level base for stability</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Concrete Masonry Unit (CMU)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 25–30 lbs per block</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Nominal size 8” x 8” x 8”</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable and load-bearing; ideal for both structural support and smaller-scale masonry projects</p>"
+  },
+  "palm-springs-gold": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Golden Tan • Cream • Warm Sand • Desert Gold Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Accent Areas • Pathways • Desert Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric and keep a uniform depth for the most consistent appearance.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8\" to 3/4\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Reliable decorative crushed stone with warm desert tones suited for residential landscaping.</p>"
+  },
+  "palm-springs-gold-dg": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100 square feet per cubic yard at 3” depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Bright Desert Gold • Warm Tan • Soft Sandy Undertones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Desert Landscapes • Walkways • Garden Paths • Decorative Ground Cover</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base and compact with light moisture for best results.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Decomposed Granite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,700–3,000 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>¼” Minus Decomposed Granite</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable decomposed granite that compacts firmly and performs well in dry climates.</p>"
+  },
+  "paradise-gold": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100 square feet per cubic yard at 3” depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Warm Golden Tan • Soft Honey Tones • Natural Sand Highlights</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Landscape Pathways • Garden Trails • Patio Base • Decorative Ground Cover</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Compact in layers with moisture to achieve the smoothest finish.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Decomposed Granite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,700–3,000 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>¼” Minus Decomposed Granite</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Naturally compacting granite that creates stable walking surfaces.</p>"
+  },
+  "pewter-gray": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100 square feet per cubic yard at 3” depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Cool Pewter Gray • Charcoal Highlights • Natural Granite Undertones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Modern Pathways • Courtyard Surfaces • Landscape Ground Cover • Patio Foundations</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Compact with a plate compactor after lightly wetting the material.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Decomposed Granite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,700–3,000 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>¼” Minus Decomposed Granite</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Strong granite material that compacts tightly for long-lasting surfaces.</p>"
+  },
+  "platinum-blend": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per ton depending on thickness and layout</p>",
+    "color": "<p><strong>Color</strong></p><p>Blend of silver-gray, soft gold, and warm rust tones with natural variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, walkways, stepping stones, and versatile landscape designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base or sand; mix pieces to evenly distribute color variation</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Quartzite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,000–2,400 lbs per pallet depending on thickness.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular pieces, typically 12”–36”+</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Extremely durable, dense, and ideal for long-lasting outdoor applications</p>"
+  },
+  "platinum-gold": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per ton depending on thickness and layout</p>",
+    "color": "<p><strong>Color</strong></p><p>Blend of silver-gray, soft gold, and warm tan with natural veining</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, walkways, stepping stones, and elegant landscape designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base or sand; rotate pieces to balance gold and gray tones</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Quartzite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>~1 ton = 2,000 lbs</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular pieces, typically 12”–36”+</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Extremely durable, dense, and ideal for long-lasting outdoor applications</p>"
+  },
+  "playground-chips": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 sq ft per cubic yard depending on depth (deeper install recommended for play areas)</p>",
+    "color": "<p><strong>Color</strong></p><p>Natural blend of light tan, honey, and brown wood tones with organic variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Playgrounds, play areas, walking paths, and general ground cover for safety surfacing</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a leveled surface; maintain proper depth for impact absorption and replenish as material breaks down</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Wood Chips</p><p><br></p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; lightweight compared to rock materials (approx. 500–900 lbs per cubic yard)</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular shredded wood pieces, </p>",
+    "durability": "<p><strong>Durability</strong></p><p>Soft underfoot and ideal for safety applications; will naturally decompose over time and require replenishment</p>"
+  },
+  "playground-sand": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per cubic yard depending on depth (deeper install recommended for play areas)</p>",
+    "color": "<p><strong>Color</strong></p><p>Light gray to off-white with soft, uniform appearance and subtle natural variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Play areas, sandboxes, playground surfacing, and recreational spaces</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a contained area; level evenly and maintain adequate depth for safety and comfort</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Washed Playground Sand</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; approx. 1.2–1.4 tons (2,400–2,800 lbs) per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Fine, soft sand with small uniform grains</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Soft and safe for play; may require periodic topping off due to displacement and use</p>"
+  },
+  "prospector": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Gold • Tan • Brown • Subtle Gray Highlights</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Accent Areas • Pathways • Natural Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric and level the base surface prior to spreading rock evenly.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable decorative crushed rock with natural color variation and reliable long-term performance.</p>"
+  },
+  "quartz-silver": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per ton depending on thickness and layout</p>",
+    "color": "<p><strong>Color</strong></p><p>Light silver-gray with subtle white and cool-toned variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, walkways, stepping stones, and clean modern landscape designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base or sand; keep joints consistent for a clean, uniform look</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Quartzite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>~1 ton = 2,000 lbs</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular pieces, typically 12”–36”+</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Extremely durable, dense, and resistant to weathering and heavy use</p>"
+  },
+  "rainbow-pebble": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 60–80 sq ft per ton depending on stone size and spacing.</p>",
+    "color": "<p><strong>Color</strong></p><p>Warm Sand • Cream • Rust Red • Golden Tan • Natural Layered Stone Bands</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Dry Creek Beds • Landscape Accents • Water Features • Garden Beds • Natural Rock Borders</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric or compacted soil base to prevent sinking. Larger pieces work well for dry creek beds, landscape accents, and natural border features.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded River Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,500–2,800 lbs per cubic yard depending on stone size.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1½–4” • 4–8” rounded river stones.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Dense natural river rock with distinctive banded color patterns that resist weathering and maintain their natural appearance in landscape applications.</p>"
+  },
+  "rebar": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies by spacing and structural requirements</p>",
+    "color": "<p><strong>Color</strong></p><p>Steel gray with ribbed texture</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Concrete reinforcement, foundations, footings, slabs, retaining walls, and structural support applications</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Place in grid patterns within forms; use proper spacing, chairs, and ties to maintain positioning before pouring concrete</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Deformed reinforcing steel bar</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by size and length</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Available in multiple diameters (#3, #4, #5, etc.) and 20ft lengths</p>",
+    "durability": "<p><strong>Durability</strong></p><p>High tensile strength steel designed to reinforce concrete and resist cracking under load</p>"
+  },
+  "rebar-tie-wire": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies based on project size and number of ties</p>",
+    "color": "<p><strong>Color</strong></p><p>Black / dark steel</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Tying rebar intersections, securing reinforcement grids, and general construction fastening</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Use with rebar tying tool or pliers; ensure tight, secure connections at all intersections</p>",
+    "stoneType": "<p><strong>Material Type</strong></p><p>Annealed steel wire</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by coil size</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Typically sold in coils or spools</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Flexible yet strong; designed for easy tying without breaking</p>"
+  },
+  "red-dye-mulch": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 90–110 sq ft per cubic yard depending on depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Rich red with warm wood tones and consistent color throughout</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Planting beds, decorative ground cover, and areas where bold color contrast is desired</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over weed barrier; spread evenly and avoid excessive disturbance to preserve color consistency</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Dyed Wood Mulch</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; lightweight (approx. 500–900 lbs per cubic yard)</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Shredded wood pieces, typically 1”–3”</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Color-enhanced for longer-lasting appearance; will gradually fade and may require refreshing over time</p>"
+  },
+  "red-mountain": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per ton depending on thickness and layout</p>",
+    "color": "<p><strong>Color</strong></p><p>Cool gray with warm rust and subtle brown undertones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, walkways, stepping stones, and natural rustic landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base or sand; blend pieces to balance gray and rust tones</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Quartzite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,000–2,400 lbs per pallet depending on thickness.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular pieces, typically 12”–36”+</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Extremely durable, dense, and ideal for long-lasting outdoor applications</p>"
+  },
+  "red-sockeye": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per ton depending on thickness and layout</p>",
+    "color": "<p><strong>Color</strong></p><p>Warm gold, rust, and tan tones with natural mottling</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, walkways, garden accents, and natural landscape features</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Lay on sand or decomposed granite base; allow spacing for natural fit</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Quartzite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>~1 ton = 2,000 lbs</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular pieces, typically 12”–36”+</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Highly durable and weather-resistant with long-lasting color retention</p>"
+  },
+  "road-base": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 sq ft per cubic yard depending on depth and compaction</p>",
+    "color": "<p><strong>Color</strong></p><p>Neutral gray blend with fine dust and mixed aggregate tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Base layer for driveways, patios, walkways, pavers, and general construction projects</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install in lifts and compact thoroughly with a plate compactor; moisture helps achieve proper compaction and stability</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Aggregate Base (with fines)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; approx. 1.4–1.6 tons (2,800–3,200 lbs) per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Mixed material from fines up to approximately 3/4”–1”</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Highly durable and compacts into a firm, stable base ideal for load-bearing applications</p>"
+  },
+  "robbins-eggs": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 80–100 sq ft per ton at 2” depth depending on stone size.</p>",
+    "color": "<p><strong>Color</strong></p><p>Light Granite Gray • Soft White • Charcoal Flecks • Natural Speckled Stone</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Dry Creek Beds • Landscape Accents • Drainage Areas • Modern Landscape Designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric or compacted soil base to reduce weed growth and keep stones separated from soil. Larger pieces work well for dry creek beds and decorative accents.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded Granite River Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,500–2,800 lbs per cubic yard depending on stone size.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1–3” • 2–4” • 4–8” rounded river stones.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Dense granite river rock with excellent resistance to weathering and fading, maintaining its natural speckled appearance over time.</p>"
+  },
+  "rocky-mountain-gold-veneer": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Coverage based upon a 1/2” mortar joint. Approximately 13–15 lbs per square foot.</p>",
+    "color": "<p><strong>Color</strong></p><p>Warm blend of browns, gold tones, bronze, tans, and grays with natural variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Fireplaces, exterior facades, feature walls, and architectural stonework</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared surface using the method recommended for the application. Follow manufacturer guidelines for mortar type and joint style. Adjust installation method based on dry stack or grouted applications.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Argillite</p>",
+    "weight": "<p><strong>Pallet Weight</strong></p><p>Veneer pallets weigh approximately 2,600 – 3,000 lbs. Corner pallets weigh approximately 1,600 – 1,800 lbs.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Thickness, 1” – 1 1/2”</p><p>Height, 2” – 7”+</p><p>Length, 6” – 16”+</p>"
+  },
+  "rustic-pink": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Rose Pink • Mauve • Tan • Warm Desert Undertones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Accent Areas • Southwestern Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric and lightly compact the base for improved stability.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Decorative crushed rock featuring natural pink desert tones and long-lasting durability.</p>"
+  },
+  "salmon-bay": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 90–110 sq ft per ton at 2” depth.</p>",
+    "color": "<p><strong>Color</strong></p><p>Warm Tan • Cream • Soft Gold • Rose • Light Brown • Natural Multicolor River Mix</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Pathways • Drainage Areas • Planters • Modern Landscape Accents</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric to prevent soil mixing and reduce weed growth. Ideal for shallow decorative applications or areas needing smooth, rounded stone.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded River Pebble</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,600–2,800 lbs per cubic yard.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>½” smooth rounded pebbles.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Naturally weathered river stone with excellent durability and long-lasting color that holds up well in outdoor environments.</p>"
+  },
+  "salt-and-pepper": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 90–110 sq ft per ton at 2” depth depending on stone size.</p>",
+    "color": "<p><strong>Color</strong></p><p>Soft White • Light Gray • Charcoal • Natural Salt &amp; Pepper Mix</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Pathways • Drainage Areas • Modern Landscapes • Planters</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric or compacted soil base to help prevent soil mixing and reduce weed growth. Smaller sizes work well for pathways and tight landscape areas.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded River Pebble</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,600–2,800 lbs per cubic yard.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8”–5/8” • 1/2”–3/4” rounded pebbles.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Naturally weathered river stone with strong durability and long-lasting color that performs well in outdoor environments.</p>"
+  },
+  "salt-river": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 80–100 sq ft per ton at 2” depth depending on stone size.</p>",
+    "color": "<p><strong>Color</strong></p><p>Slate Gray • Blue Gray • Taupe • Soft Brown • Natural Multicolor River Mix</p>",
+    "bestUses": "<p><strong>Color</strong></p><p>Slate Gray • Blue Gray • Taupe • Soft Brown • Natural Multicolor River Mix</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric or compacted base to reduce soil mixing and help prevent weed growth. Larger sizes work especially well for dry creek beds and drainage areas.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded River Pebble</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,600–2,800 lbs per cubic yard.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1” • 1–3” rounded river stones.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Naturally weathered river stone known for strong durability and long-lasting color in outdoor environments.</p>"
+  },
+  "tan-cobble": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 70–90 sq ft per ton at 2” depth depending on stone size.</p>",
+    "color": "<p><strong>Color</strong></p><p>Warm Tan • Sandy Brown • Soft Taupe • Natural Earth Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Dry Creek Beds • Landscape Accents • Garden Borders • Decorative Ground Cover • Natural Landscape Designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric or compacted base to prevent soil mixing and reduce weed growth. Larger cobbles work especially well for dry creek beds and erosion control areas.</p><p><br></p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded River Cobble</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,600–2,800 lbs per cubic yard.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>2–5” rounded cobble stones.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Naturally weathered river cobble with excellent durability and long-lasting natural color suitable for a variety of outdoor landscape applications.</p>"
+  },
+  "san-joaquin-tan": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 80–100 sq ft per ton at 2” depth depending on stone size.</p>",
+    "color": "<p><strong>Color</strong></p><p>Soft Blue Gray • Light Tan • Warm Taupe • Natural River Stone Blend</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Dry Creek Beds • Garden Beds • Water Features • Natural Landscape Designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric or a compacted base to prevent soil mixing and reduce weed growth. Larger stones are ideal for dry creek beds and decorative drainage areas.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded River Pebble</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,600–2,800 lbs per cubic yard.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1–1½” • 2–4” rounded river stones.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Naturally weathered river rock with excellent durability and long-lasting color that performs well in outdoor landscapes.</p>"
+  },
+  "shredded-bark": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 90–110 sq ft per cubic yard depending on depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Deep brown with lighter tan wood accents and natural variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Garden pathways, planting beds, and general ground cover for a clean, natural look</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over weed barrier; spread evenly and rake smooth for a consistent walking surface</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Shredded Bark Mulch</p><p><br></p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; lightweight (approx. 500–900 lbs per cubic yard)</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Mixed shredded pieces, typically 1”–3” with some finer material</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Breaks down over time to enrich soil; holds in place better than loose bark but may need periodic refreshing</p>"
+  },
+  "sierra-cobble": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–120 sq ft per cubic yard depending on depth and stone size</p>",
+    "color": "<p><strong>Color</strong></p><p>Blend of gray, taupe, brown, and subtle earth tones with natural variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Dry creek beds, drainage areas, decorative ground cover, and natural landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over weed barrier; spread evenly and use edging to contain material</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>River Cobble (Mixed Natural Stone)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; approx. 1.2–1.5 tons (2,400–3,000 lbs) per cubic yard&nbsp;</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Rounded stones, typically 2”–6”</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Highly durable, naturally weathered, and ideal for erosion control and long-term use</p>"
+  },
+  "silver-pool-coping": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies by piece size; typically sold by the piece or pallet for linear applications</p>",
+    "color": "<p><strong>Color</strong></p><p>Cool Gray • Silver • Charcoal Accents • Subtle Movement</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Pool Coping • Step Treads • Wall Caps • Outdoor Kitchens • Seating Walls • Water Features</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a solid base using thin-set; lighter grouts recommended for a seamless look; seal for protection</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Stone Coping (Travertine)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 16–20 lbs per piece (12”x24” 3CM) • 25–35 lbs per piece (12”x24” 5CM) • Heavier for 16”x24” formats</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>12” x 24” • 16” x 24” • Available in 3CM and 5CM thickness</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Highly durable • Weather resistant • Freeze-thaw stable • Ideal for exterior applications</p>"
+  },
+  "small-bark": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per cubic yard depending on depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Natural brown with tan and reddish tones and organic variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Planting beds, small areas, pathways, and ground cover where a finer, more uniform look is desired</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over weed barrier; spread evenly and rake smooth for a clean, finished surface</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Decorative Bark</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; lightweight (approx. 500–900 lbs per cubic yard)</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Small bark pieces, typically 1/2”–2”</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Breaks down faster than larger bark but provides better coverage and a more uniform appearance</p>"
+  },
+  "sonora-shine": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 80–100 sq ft per ton at 2” depth depending on stone size.</p>",
+    "color": "<p><strong>Color</strong></p><p>Golden Tan • Warm Brown • Cream • Charcoal Accents</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Pathways • Dry Creek Beds • Accent Landscaping</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric or a compacted base to help prevent weeds and keep stones from settling into soil.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded River Pebble</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,600–2,800 lbs per cubic yard.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>½–1” • ½–3” rounded river stones.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Naturally weathered river rock with strong durability and long-lasting color that holds up well in outdoor environments.</p>"
+  },
+  "southwest-brown": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Rich Brown • Rust • Earthy Red • Warm Desert Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Garden Beds • Accent Areas • Pathways • Desert Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric for clean separation and compact the base layer where a firmer walking surface is needed.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Decorative crushed stone with deep natural brown tones and dependable performance in desert environments.</p>"
+  },
+  "sunburst-pebble": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–120 sq ft per cubic yard depending on depth and stone size</p>",
+    "color": "<p><strong>Color</strong></p><p>Blend of tan, rust, brown, and soft gray tones with natural variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Dry creek beds, drainage areas, decorative ground cover, erosion control, and natural landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over weed barrier; spread evenly and use edging to contain material; larger pieces may require hand placement</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Mixed River Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; approx. 1.2–1.5 tons (2,400–3,000 lbs) per cubic yard depending on moisture and compaction</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Rounded stones, typically 1”–9”</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Highly durable, naturally weathered, and ideal for erosion control and long-term use</p>"
+  },
+  "sunrise": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by the ton or selected by individual piece • Sizes and weights vary by boulder • Coverage depends on spacing and landscape design</p>",
+    "color": "<p><strong>Color Range</strong></p><p>Warm Tan • Sandy Beige • Light Brown • Cream • Natural Desert Stone Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Landscape Focal Points • Natural Boulder Groupings • Dry Creek Beds • Desert &amp; Mediterranean Landscapes • Garden Accents</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Use machinery for safe placement • Partially bury base for a natural appearance • Rotate boulder during placement to highlight natural shape and color variation</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Granite Boulder</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by piece • hundreds of pounds to several tons</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1–5 ft landscape boulders</p>"
+  },
+  "sunset-gold": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per ton depending on thickness and layout</p>",
+    "color": "<p><strong>Color</strong></p><p>Soft gold, cream, and light gray tones with subtle warm veining</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, walkways, stepping stones, and warm, inviting landscape designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base or sand; rotate pieces to highlight natural color variation</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Quartzite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,000–2,400 lbs per pallet depending on thickness.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular pieces, typically 12”–36”+</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Extremely durable, dense, and resistant to weathering and long-term use</p>"
+  },
+  "tundra-marble-pool-coping": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies by piece size; typically sold by the piece or pallet for linear applications</p>",
+    "color": "<p><strong>Color</strong></p><p>Light Gray • Soft White • Cool Undertones • Natural Variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Pool Coping • Step Treads • Wall Caps • Outdoor Kitchens • Seating Walls • Water Features</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install with proper drainage slope; use thin-set mortar and seal to minimize moisture absorption</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Stone Coping (Marble)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 16–20 lbs per piece (12”x24” 3CM) • 25–35 lbs per piece (12”x24” 5CM) • Heavier for 16”x24” formats</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>12” x 24” • 16” x 24” • Available in 3CM and 5CM thickness</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable • Weather resistant • Suitable for exterior use • Performs well in modern designs</p>"
+  },
+  "twin-oaks": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by the ton or selected by individual piece • Sizes and weights vary by boulder • Coverage depends on spacing and landscape design</p>",
+    "color": "<p><strong>Color Range</strong></p><p>Golden Tan • Sandy Beige • Warm Brown • Soft Gray Undertones • Natural Granite Stone Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Landscape Focal Points • Natural Boulder Groupings • Retaining Wall Accents • Dry Creek Beds • Rustic &amp; Natural Landscape Designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Use machinery for safe placement • Partially bury base for a natural appearance • Arrange in clusters for a natural hillside or creek-style look</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Granite Boulder</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by piece • hundreds of pounds to several tons</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>1–5 ft landscape boulders</p>"
+  },
+  "verona-marble-pool-coping": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies by piece size; typically sold by the piece or pallet for linear applications</p>",
+    "color": "<p><strong>Color</strong></p><p>Beige • Cream • Soft Gray Veining • Natural Stone Variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Pool Coping • Step Treads • Wall Caps • Outdoor Kitchens • Seating Walls • Water Features</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install on a stable base with thin-set mortar; maintain proper spacing and seal for long-term performance</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Stone Coping (Limestone)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 16–20 lbs per piece (12”x24” 3CM) • 25–35 lbs per piece (12”x24” 5CM) • Heavier for 16”x24” formats</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>12” x 24” • 16” x 24” • Available in 3CM and 5CM thickness</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable • Weather resistant • Suitable for exterior applications • Handles temperature changes well</p>"
+  },
+  "washed-plaster-sand": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per cubic yard depending on depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Light tan to beige with a clean, uniform appearance</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Plaster applications, masonry work, sandbox use, and fine leveling projects</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Spread evenly and keep dry for best handling; ideal for applications requiring a smooth, fine finish</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Washed Fine Sand</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; approx. 1.3–1.5 tons (2,600–3,000 lbs) per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Very fine, uniform sand with minimal coarse particles</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Consistent and clean material; ideal for precision applications where fine texture is required</p>"
+  },
+  "whiskey-ridge": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per ton depending on thickness and layout</p>",
+    "color": "<p><strong>Color</strong></p><p>Deep rust, brown, and charcoal tones with bold natural contrast</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Statement patios, walkways, accent areas, and rustic landscape designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over compacted base or sand; blend pieces for a natural, high-contrast layout</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Quartzite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>~1 ton = 2,000 lbs</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular pieces, typically 12”–36”+</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Extremely durable, dense, and ideal for high-traffic outdoor applications</p>"
+  },
+  "white-criva": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 90–110 sq ft per ton at 2” depth depending on installation.</p>",
+    "color": "<p><strong>Color</strong></p><p>Soft White • Light Cream • Subtle Tan Accents</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Zen Gardens • Decorative Ground Cover • Pathways • Dog Runs • Drainage Areas • Modern Landscape Designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric or a compacted base to reduce weed growth and keep the material from mixing with soil. Ideal for raking patterns in Zen or meditation gardens.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Small Rounded Decorative Pebble</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,600–2,800 lbs per cubic yard.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>⅛” minus to very small pebble.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Dense decorative pebble that provides long-lasting color and works well in decorative landscape settings.</p>"
+  },
+  "white-ice": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
+    "color": "<p><strong>Color</strong></p><p>White • Light Gray • Silver • Quartz Highlights</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Decorative Ground Cover • Modern Landscapes • Garden Beds • Accent Areas</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric to keep the lighter stone clean and maintain crisp separation from soil.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Crushed Quartz Decorative Rock</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,500–2,800 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>3/8\"-3/4\" Crushed Rock</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Strong quartz decorative stone with bright coloration and excellent resistance to fading.</p>"
+  },
+  "white-ice-dg": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–120 sq ft per cubic yard depending on depth</p>",
+    "color": "<p><strong>Color</strong></p><p>Light blend of soft white, pale gray, and cool silver tones with natural variation</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Pathways, garden trails, patios, xeriscapes, modern landscapes, and decorative ground cover</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a compacted base for best results; use edging to help contain material and consider stabilizer for improved firmness on pathways</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Decomposed Granite</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 2,700–3,000 lbs per cubic yard</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>¼” Minus Decomposed Granite</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable decomposed granite that compacts firmly and performs well in dry climates.</p>"
+  },
+  "white-marble-pool-coping": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Varies by piece size; typically sold by the piece or pallet for linear applications</p>",
+    "color": "<p><strong>Color</strong></p><p>Bright White • Soft Gray Veining • Clean Modern Look</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Pool Coping • Step Treads • Wall Caps • Outdoor Kitchens • Seating Walls • Water Features</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install with white thin-set mortar to prevent discoloration; seal to protect against staining</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Stone Coping (Marble)</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approximately 16–20 lbs per piece (12”x24” 3CM) • 25–35 lbs per piece (12”x24” 5CM) • Heavier for 16”x24” formats</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>12” x 24” • 16” x 24” • Available in 3CM and 5CM thickness</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Durable • Weather resistant • Suitable for exterior use • Ideal for high-end modern applications</p>"
+  },
+  "yellowstone-veneer": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Coverage based upon a 1/2” mortar joint. Approximately 13–15 lbs per square foot.</p>",
+    "color": "<p><strong>Color</strong></p><p>Greens, bronze, browns, blues, tans, and slate grays with subtle sedimentary striations</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Fireplaces, exterior facades, feature walls, and architectural stonework</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared surface using the method recommended for the application. Follow manufacturer guidelines for mortar type and joint style. Adjust installation method based on dry stack or grouted applications.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Argillite</p>",
+    "weight": "<p><strong>Pallet Weight</strong></p><p>Veneer pallets weigh approximately 2,600 – 3,000 lbs. Corner pallets weigh approximately 1,600 – 1,800 lbs.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Thickness, 1” – 1.5”</p><p>Height, 2” – 12”+</p><p>Length, 3” – 36”</p>"
+  }
+}
