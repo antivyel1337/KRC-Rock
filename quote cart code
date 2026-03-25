@@ -1,0 +1,2062 @@
+<section id="krcCompactQuoteCalc">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+  <div class="krc-cqc-card">
+   <div class="krc-cqc-head">
+    <h3>
+     Material Calculator
+    </h3>
+    <div class="krc-cqc-tip" id="krcCqcTip">
+     <span class="krc-cqc-tip-arrow krc-cqc-tip-arrow-left" aria-hidden="true">
+      &gt;&gt;
+     </span>
+     <span class="krc-cqc-tip-text">
+      Estimate material, then add it directly to your quote.
+     </span>
+     <span class="krc-cqc-tip-arrow krc-cqc-tip-arrow-right" aria-hidden="true">
+      &lt;&lt;
+     </span>
+    </div>
+   </div>
+   <div class="krc-cqc-block" id="krcCqcAreaWrap">
+    <label for="krcCqcArea">
+     Area (sq ft)
+    </label>
+    <input id="krcCqcArea" type="number" min="0" step="0.1" placeholder="Ex: 200">
+   </div>
+   <div class="krc-cqc-block" id="krcCqcSealerWrap" style="display:none;">
+    <div class="krc-cqc-row" style="grid-template-columns:1fr 1fr;">
+     <div class="krc-cqc-block">
+      <label for="krcCqcSealerSurface">
+       Surface Type
+      </label>
+      <select id="krcCqcSealerSurface">
+       <option value="200">
+        Dense Concrete (200 sqft/gal)
+       </option>
+       <option value="150" selected="">
+        Pavers / Standard Stone (150 sqft/gal)
+       </option>
+       <option value="100">
+        Porous Stone / Masonry (100 sqft/gal)
+       </option>
+       <option value="75">
+        Very Porous Surface (75 sqft/gal)
+       </option>
+      </select>
+     </div>
+     <div class="krc-cqc-block">
+      <label for="krcCqcSealerCoats">
+       Coats
+      </label>
+      <select id="krcCqcSealerCoats">
+       <option value="1">
+        1 Coat
+       </option>
+       <option value="2" selected="">
+        2 Coats
+       </option>
+      </select>
+     </div>
+    </div>
+    <div class="krc-cqc-row" style="grid-template-columns:1fr 110px;">
+     <div class="krc-cqc-block">
+      <label for="krcCqcSealerWaste">
+       Waste Factor
+      </label>
+      <select id="krcCqcSealerWaste">
+       <option value="0">
+        0%
+       </option>
+       <option value="5" selected="">
+        5%
+       </option>
+       <option value="10">
+        10%
+       </option>
+       <option value="15">
+        15%
+       </option>
+      </select>
+     </div>
+     <div class="krc-cqc-block">
+      <label>
+       Unit
+      </label>
+      <div class="krc-cqc-unit">
+       GALLONS
+      </div>
+     </div>
+    </div>
+    <div class="krc-cqc-boulder-note" style="margin-top:4px;">
+     <strong>
+      Coverage Estimate
+     </strong>
+     <span>
+      Actual coverage varies by surface texture, porosity, product type, and application method. This is a planning estimate only.
+     </span>
+    </div>
+   </div>
+   <div class="krc-cqc-row" id="krcCqcStandardRow">
+    <div class="krc-cqc-block">
+     <label for="krcCqcDepth">
+      Depth
+     </label>
+     <select id="krcCqcDepth">
+      <option value="1">
+       1 inch
+      </option>
+      <option value="2">
+       2 inches
+      </option>
+      <option value="3">
+       3 inches
+      </option>
+      <option value="4">
+       4 inches
+      </option>
+      <option value="6">
+       6 inches
+      </option>
+     </select>
+    </div>
+    <div class="krc-cqc-block">
+     <label>
+      Unit
+     </label>
+     <div class="krc-cqc-unit" id="krcCqcUnitBadge">
+      YARDS
+     </div>
+    </div>
+   </div>
+   <div class="krc-cqc-block" id="krcCqcFlagstoneThicknessWrap" style="display:none;">
+    <label for="krcCqcFlagThickness">
+     Flagstone Thickness
+    </label>
+    <select id="krcCqcFlagThickness">
+     <option value="150">
+      3/4" (150 sqft/ton)
+     </option>
+     <option value="130">
+      1" (130 sqft/ton)
+     </option>
+     <option value="110">
+      1.5" (110 sqft/ton)
+     </option>
+     <option value="100">
+      2" (100 sqft/ton)
+     </option>
+     <option value="80">
+      3" (80 sqft/ton)
+     </option>
+     <option value="60">
+      4" (60 sqft/ton)
+     </option>
+    </select>
+   </div>
+   <div class="krc-cqc-block" id="krcCqcCopingWrap" style="display:none;">
+    <div class="krc-cqc-row" style="grid-template-columns:1fr 1fr;">
+     <div class="krc-cqc-block">
+      <label for="krcCqcCopingLf">
+       Total Linear Feet
+      </label>
+      <input id="krcCqcCopingLf" type="number" min="0" step="0.1" placeholder="Ex: 88">
+     </div>
+     <div class="krc-cqc-block">
+      <label for="krcCqcCopingWaste">
+       Waste
+      </label>
+      <select id="krcCqcCopingWaste">
+       <option value="5">
+        5%
+       </option>
+       <option value="10" selected="">
+        10%
+       </option>
+       <option value="15">
+        15%
+       </option>
+      </select>
+     </div>
+    </div>
+    <div class="krc-cqc-row" style="grid-template-columns:1fr 1fr;">
+     <div class="krc-cqc-block">
+      <label for="krcCqcCopingSize">
+       Coping Size
+      </label>
+      <select id="krcCqcCopingSize">
+       <option value="24">
+        12" x 24"
+       </option>
+       <option value="24">
+        16" x 24"
+       </option>
+      </select>
+     </div>
+     <div class="krc-cqc-block">
+      <label>
+       Unit
+      </label>
+      <div class="krc-cqc-unit">
+       PIECES
+      </div>
+     </div>
+    </div>
+    <div class="krc-cqc-boulder-note" style="margin-top:4px;">
+     <strong>
+      Coping Estimate
+     </strong>
+     <span>
+      Estimate pieces from total linear feet. Final quantities may vary based on cuts, curves, corners, layout, and installation method.
+     </span>
+    </div>
+   </div>
+   <div id="krcCqcBoulderNote" class="krc-cqc-boulder-note" style="display:none;">
+    <strong>
+     Boulder Ordering
+    </strong>
+    <span>
+     Boulders are typically selected by size, weight, and placement rather than square-foot coverage. Add your estimated quantity to the quote cart and our team can help confirm the right amount for your project.
+    </span>
+   </div>
+   <div class="krc-cqc-block" id="krcCqcEzMixWrap" style="display:none;">
+    <div class="krc-cqc-row" style="grid-template-columns:1fr 1fr;">
+     <div class="krc-cqc-block">
+      <label for="krcCqcEzMixLength">
+       Length (ft)
+      </label>
+      <input id="krcCqcEzMixLength" type="number" min="0" step="0.1" placeholder="Ex: 10">
+     </div>
+     <div class="krc-cqc-block">
+      <label for="krcCqcEzMixWidth">
+       Width (ft)
+      </label>
+      <input id="krcCqcEzMixWidth" type="number" min="0" step="0.1" placeholder="Ex: 10">
+     </div>
+    </div>
+    <div class="krc-cqc-row" style="grid-template-columns:1fr 1fr;">
+     <div class="krc-cqc-block">
+      <label for="krcCqcEzMixThickness">
+       Thickness
+      </label>
+      <select id="krcCqcEzMixThickness">
+       <option value="2">
+        2 inches
+       </option>
+       <option value="3">
+        3 inches
+       </option>
+       <option value="4" selected="">
+        4 inches
+       </option>
+       <option value="5">
+        5 inches
+       </option>
+       <option value="6">
+        6 inches
+       </option>
+      </select>
+     </div>
+     <div class="krc-cqc-block">
+      <label for="krcCqcEzMixWaste">
+       Waste
+      </label>
+      <select id="krcCqcEzMixWaste">
+       <option value="0">
+        0%
+       </option>
+       <option value="5" selected="">
+        5%
+       </option>
+       <option value="10">
+        10%
+       </option>
+       <option value="15">
+        15%
+       </option>
+      </select>
+     </div>
+    </div>
+    <div class="krc-cqc-boulder-note" style="margin-top:4px;">
+     <strong>
+      EZ Mix Estimate
+     </strong>
+     <span>
+      Estimates 90 lb bags for slab-style pours only. Coverage is based on approximately 0.675 cubic feet per 90 lb bag. Final needs may vary by subgrade, waste, and application conditions.
+     </span>
+    </div>
+   </div>
+   <div class="krc-cqc-block" id="krcCqcOcBlockWrap" style="display:none;">
+    <div class="krc-cqc-row" style="grid-template-columns:1fr 1fr;">
+     <div class="krc-cqc-block">
+      <label for="krcCqcOcBlockLength">
+       Wall Length (ft)
+      </label>
+      <input id="krcCqcOcBlockLength" type="number" min="0" step="0.1" placeholder="Ex: 20">
+     </div>
+     <div class="krc-cqc-block">
+      <label for="krcCqcOcBlockHeight">
+       Wall Height (ft)
+      </label>
+      <input id="krcCqcOcBlockHeight" type="number" min="0" step="0.1" placeholder="Ex: 4">
+     </div>
+    </div>
+    <div class="krc-cqc-row" style="grid-template-columns:1fr 1fr;">
+     <div class="krc-cqc-block">
+      <label for="krcCqcOcBlockWaste">
+       Waste
+      </label>
+      <select id="krcCqcOcBlockWaste">
+       <option value="0">
+        0%
+       </option>
+       <option value="5" selected="">
+        5%
+       </option>
+       <option value="10">
+        10%
+       </option>
+       <option value="15">
+        15%
+       </option>
+      </select>
+     </div>
+     <div class="krc-cqc-block">
+      <label>
+       Unit
+      </label>
+      <div class="krc-cqc-unit">
+       BLOCKS
+      </div>
+     </div>
+    </div>
+    <div class="krc-cqc-boulder-note" style="margin-top:4px;">
+     <strong>
+      Block Estimate
+     </strong>
+     <span>
+      Based on standard 8" x 8" x 16" block coverage (approx. 0.89 sq ft per block). Final quantities may vary based on block type, layout, cuts, corners, bond beams, caps, and wall openings.
+     </span>
+    </div>
+   </div>
+   <div class="krc-cqc-actions" id="krcCqcCalcActions">
+    <button type="button" id="krcCqcCalcBtn">
+     Calculate
+    </button>
+    <button type="button" id="krcCqcResetBtn" class="krc-cqc-reset">
+     Reset
+    </button>
+   </div>
+   <div class="krc-cqc-result" id="krcCqcResult" style="display:none;">
+    <span id="krcCqcResultLabel">
+     Estimated Cubic Yards
+    </span>
+    <strong id="krcCqcResultValue">
+     0
+    </strong>
+    <div class="krc-cqc-subresult" id="krcCqcSubResult" style="display:none;">
+     <span id="krcCqcSubResultLabel">
+      Estimated Pallets
+     </span>
+     <strong id="krcCqcSubResultValue">
+      0
+     </strong>
+    </div>
+   </div>
+   <button type="button" id="krcCqcAddEstimateBtn" class="krc-cqc-estimate-btn" style="display:none;">
+    Add Estimate to Quote
+   </button>
+                                                                                                                                                                                                        <div class="krc-cqc-divider" id="krcCqcDivider">
+                                                                                                                                                                                                        </div>
+                                                                                                                                                                                                        <div class="krc-cqc-block" id="krcCqcQtyWrap">
+                                                                                                                                                                                                          <label for="krcCqcQty" id="krcCqcQtyLabel">
+                                                                                                                                                                                                            Custom Quantity
+                                                                                                                                                                                                          </label>
+    <div class="krc-cqc-stepper">
+     <button type="button" id="krcCqcMinus" class="krc-cqc-stepper-btn" aria-label="Decrease quantity">
+      −
+     </button>
+     <input id="krcCqcQty" class="krc-cqc-stepper-input" type="number" min="0.5" step="0.5" value="1" inputmode="decimal">
+     <button type="button" id="krcCqcPlus" class="krc-cqc-stepper-btn" aria-label="Increase quantity">
+      +
+     </button>
+    </div>
+   </div>
+   <button type="button" id="krcCqcAddCustomBtn" class="krc-cqc-main-btn">
+    Add Custom Quantity to Quote
+   </button>
+   <div class="krc-cqc-msg" id="krcCqcMsg" aria-live="polite">
+   </div>
+  </div>
+  <style>
+   #krcCompactQuoteCalc,
+    #krcCompactQuoteCalc *{
+      box-sizing:border-box;
+      font-family:"Cinzel",serif !important;
+    }
+    #krcCompactQuoteCalc{
+      width:100%;
+      max-width:420px;
+      margin:0;
+      position:relative;
+      z-index:1;
+    }
+    #krcCompactQuoteCalc .krc-cqc-card{
+      background:linear-gradient(180deg,#ffffff 0%,#fcfbf8 100%);
+      border:1px solid rgba(23,33,38,.10);
+      border-radius:16px;
+      padding:12px;
+      box-shadow:0 8px 20px rgba(8,15,20,.05);
+    }
+    #krcCompactQuoteCalc .krc-cqc-head{
+      margin-bottom:10px;
+    }
+    #krcCompactQuoteCalc .krc-cqc-head h3{
+      margin:0 0 3px;
+      font-size:16px;
+      line-height:1.2;
+      font-weight:700;
+      color:#172126;
+    }
+    #krcCompactQuoteCalc .krc-cqc-tip{
+      position:relative;
+      margin:0 0 8px;
+      padding:0 28px;
+      font-size:11px;
+      line-height:1.45;
+      color:#6d7880;
+      text-align:center;
+    }
+    #krcCompactQuoteCalc .krc-cqc-tip-arrow{
+      position:absolute;
+      top:50%;
+      transform:translateY(-50%);
+      font-size:12px;
+      color:#0b1629;
+      display:inline-block;
+      will-change:transform, opacity;
+      line-height:1;
+    }
+    #krcCompactQuoteCalc .krc-cqc-tip-arrow-left{
+      left:0;
+    }
+    #krcCompactQuoteCalc .krc-cqc-tip-arrow-right{
+      right:0;
+    }
+    #krcCompactQuoteCalc.is-attention .krc-cqc-tip-arrow-left{
+      animation:krcCqcArrowLeft 1s ease-in-out infinite;
+    }
+    #krcCompactQuoteCalc.is-attention .krc-cqc-tip-arrow-right{
+      animation:krcCqcArrowRight 1s ease-in-out infinite;
+    }
+    #krcCompactQuoteCalc.is-attention .krc-cqc-tip-text{
+      animation:krcCqcGlowPulse 1.2s ease-in-out infinite;
+      color:#172126;
+    }
+    #krcCompactQuoteCalc.is-attention #krcCqcAreaWrap{
+      position:relative;
+    }
+    #krcCompactQuoteCalc.is-attention #krcCqcAreaWrap::after{
+      content:"";
+      position:absolute;
+      inset:-5px;
+      border-radius:14px;
+      pointer-events:none;
+      box-shadow:0 0 0 0 rgba(11,22,41,0);
+      animation:krcCqcInputGlow 1.2s ease-in-out infinite;
+    }
+    @keyframes krcCqcArrowLeft{
+      0%,100%{ transform:translateY(-50%) translateX(0); opacity:1; }
+      50%{ transform:translateY(-50%) translateX(8px); opacity:1; }
+    }
+    @keyframes krcCqcArrowRight{
+      0%,100%{ transform:translateY(-50%) translateX(0); opacity:1; }
+      50%{ transform:translateY(-50%) translateX(-8px); opacity:1; }
+    }
+    @keyframes krcCqcGlowPulse{
+      0%,100%{ opacity:1; }
+      50%{ opacity:.45; }
+    }
+   @keyframes krcCqcInputGlow{
+  0%,100%{ box-shadow:0 0 0 0 rgba(11,22,41,0); }
+  50%{ box-shadow:0 0 0 4px rgba(11,22,41,.08); }
+}
+    #krcCompactQuoteCalc .krc-cqc-row{
+      display:grid;
+      grid-template-columns:1fr 110px;
+      gap:8px;
+    }
+    #krcCompactQuoteCalc .krc-cqc-block{
+      margin-bottom:8px;
+    }
+    #krcCompactQuoteCalc label{
+      display:block;
+      margin-bottom:4px;
+      font-size:9px;
+      font-weight:600;
+      letter-spacing:.05em;
+      text-transform:uppercase;
+      color:#172126;
+    }
+    #krcCompactQuoteCalc input,
+    #krcCompactQuoteCalc select{
+      width:100%;
+      height:34px;
+      border:1px solid rgba(23,33,38,.10);
+      border-radius:10px;
+      background:#fff;
+      padding:0 10px;
+      font-size:13px;
+      color:#223a35;
+      position:relative;
+      z-index:2;
+      pointer-events:auto;
+    }
+    #krcCompactQuoteCalc input:focus,
+    #krcCompactQuoteCalc select:focus{
+      outline:none;
+      border-color:#b9cec7;
+      box-shadow:0 0 0 4px rgba(40,69,63,.06);
+    }
+    #krcCompactQuoteCalc .krc-cqc-unit{
+      height:34px;
+      border-radius:10px;
+      border:1px solid #d6d8dc;
+      background:#f2f3f5;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      font-size:9px;
+      font-weight:600;
+      letter-spacing:.05em;
+      text-transform:uppercase;
+      color:#2a2e33;
+    }
+    #krcCompactQuoteCalc .krc-cqc-boulder-note{
+      margin:4px 0 10px;
+      padding:10px 12px;
+      border:1px solid rgba(23,33,38,.10);
+      border-radius:12px;
+      background:#f8f8f6;
+      color:#172126;
+    }
+    #krcCompactQuoteCalc .krc-cqc-boulder-note strong{
+      display:block;
+      margin-bottom:4px;
+      font-size:10px;
+      text-transform:uppercase;
+      letter-spacing:.05em;
+    }
+    #krcCompactQuoteCalc .krc-cqc-boulder-note span{
+      display:block;
+      font-size:10px;
+      line-height:1.5;
+    }
+    #krcCompactQuoteCalc .krc-cqc-actions{
+      display:grid;
+      grid-template-columns:1fr 84px;
+      gap:8px;
+      margin:4px 0 8px;
+    }
+    #krcCompactQuoteCalc button{
+      position:relative;
+      z-index:3;
+      pointer-events:auto;
+      transition:transform .18s ease, background-color .18s ease, box-shadow .18s ease, opacity .18s ease;
+    }
+    #krcCompactQuoteCalc #krcCqcCalcBtn,
+    #krcCompactQuoteCalc .krc-cqc-main-btn,
+    #krcCompactQuoteCalc .krc-cqc-estimate-btn{
+      min-height:34px;
+      border:none;
+      border-radius:999px;
+      background:#0b1629;
+      color:#fff;
+      font-size:9px;
+      font-weight:600;
+      letter-spacing:.05em;
+      text-transform:uppercase;
+      cursor:pointer;
+      box-shadow:0 8px 18px rgba(11,22,41,.16);
+        #krcCompactQuoteCalc .krc-cqc-main-btn{
+          min-height:30px;
+          font-size:8px;
+          letter-spacing:.04em;
+          padding:0 14px;
+        }
+    }
+    #krcCompactQuoteCalc #krcCqcCalcBtn:hover,
+    #krcCompactQuoteCalc .krc-cqc-main-btn:hover,
+    #krcCompactQuoteCalc .krc-cqc-estimate-btn:hover{
+      background:#11213c;
+      transform:translateY(-1px);
+    }
+    #krcCompactQuoteCalc .krc-cqc-reset{
+      min-height:34px;
+      border-radius:999px;
+      border:1px solid #e5e7eb;
+      background:#f3f4f6;
+      color:#111827;
+      font-size:9px;
+      font-weight:600;
+      letter-spacing:.05em;
+      text-transform:uppercase;
+      cursor:pointer;
+    }
+    #krcCompactQuoteCalc .krc-cqc-result{
+      background:#f9fafb;
+      border:1px solid #e5e7eb;
+      border-radius:12px;
+      padding:10px;
+      text-align:center;
+      margin-bottom:8px;
+    }
+    #krcCompactQuoteCalc .krc-cqc-result span{
+      display:block;
+      margin-bottom:3px;
+      font-size:8px;
+      font-weight:600;
+      letter-spacing:.06em;
+      text-transform:uppercase;
+      color:#6b7280;
+    }
+    #krcCompactQuoteCalc .krc-cqc-result strong{
+      display:block;
+      font-size:22px;
+      line-height:1;
+      font-weight:800;
+      color:#172126;
+    }
+    #krcCompactQuoteCalc .krc-cqc-subresult{
+      margin-top:10px;
+      padding-top:10px;
+      border-top:1px solid rgba(23,33,38,.08);
+    }
+    #krcCompactQuoteCalc .krc-cqc-subresult strong{
+      font-size:18px;
+    }
+    #krcCompactQuoteCalc .krc-cqc-estimate-btn{
+      width:100%;
+      margin-bottom:10px;
+      background:#d8e7df;
+      color:#172126;
+      box-shadow:none;
+    }
+    #krcCompactQuoteCalc .krc-cqc-estimate-btn:hover{
+      background:#cddfd6;
+    }
+    #krcCompactQuoteCalc .krc-cqc-divider{
+      height:1px;
+      background:rgba(23,33,38,.08);
+      margin:10px 0;
+    }
+        #krcCompactQuoteCalc .krc-cqc-stepper{
+      display:grid;
+      grid-template-columns:34px 1fr 34px;
+      gap:6px;
+      align-items:center;
+    }
+    #krcCompactQuoteCalc .krc-cqc-stepper-btn{
+      width:34px;
+      height:34px;
+      border:1px solid rgba(23,33,38,.10);
+      border-radius:10px;
+      background:#fff;
+      color:#223a35;
+      font-size:18px;
+      line-height:1;
+      cursor:pointer;
+      padding:0;
+    }
+    #krcCompactQuoteCalc .krc-cqc-stepper-input{
+      text-align:center;
+      font-weight:700;
+      appearance:textfield;
+      -moz-appearance:textfield;
+    }
+    #krcCompactQuoteCalc .krc-cqc-stepper-input::-webkit-outer-spin-button,
+    #krcCompactQuoteCalc .krc-cqc-stepper-input::-webkit-inner-spin-button{
+      -webkit-appearance:none;
+      margin:0;
+    }
+    #krcCompactQuoteCalc .krc-cqc-main-btn{
+      width:100%;
+    }
+    #krcCompactQuoteCalc .krc-cqc-msg{
+      margin-top:8px;
+      display:none;
+      padding:8px 10px;
+      border-radius:10px;
+      border:1px solid #c4d7d0;
+      background:#eef6f2;
+      color:#1f5f46;
+      font-size:11px;
+      font-weight:600;
+    }
+    #krcCompactQuoteCalc .krc-cqc-msg.is-visible{
+      display:block;
+    }
+    #krcCompactQuoteCalc .krc-cqc-msg.is-error{
+      border-color:#e3c1c1;
+      background:#fbefef;
+      color:#8b2f2f;
+    }
+    #krcCompactQuoteCalc .krc-cqc-btn-success{
+      background:#2f7a55 !important;
+      color:#fff !important;
+      box-shadow:0 10px 22px rgba(47,122,85,.26) !important;
+      transform:translateY(-1px) scale(1.02);
+    }
+    #krcCompactQuoteCalc .krc-cqc-btn-pop{
+      animation:krcCqcBtnPop .36s ease;
+    }
+    @keyframes krcCqcBtnPop{
+      0%{ transform:scale(1); }
+      35%{ transform:scale(1.05); }
+      100%{ transform:scale(1); }
+    }
+    .krc-quote-count-pulse,
+    .krc-quote-cart-pulse{
+      animation:krcQuotePulse .7s ease;
+    }
+    @keyframes krcQuotePulse{
+      0%{ transform:scale(1); }
+      35%{ transform:scale(1.18); }
+      70%{ transform:scale(.96); }
+      100%{ transform:scale(1); }
+    }
+    @media (max-width:767px){
+      #krcCompactQuoteCalc{
+        max-width:none;
+      }
+    }
+    @media (max-width:1024px){
+      #krcCompactQuoteCalc{
+        max-width:none;
+      }
+      #krcCompactQuoteCalc .krc-cqc-row{
+        grid-template-columns:1fr 100px;
+      }
+      #krcCompactQuoteCalc .krc-cqc-actions{
+        grid-template-columns:1fr 90px;
+      }
+    }
+  </style>
+  <script>
+   (function(){
+      var calcRoot = document.getElementById("krcCompactQuoteCalc");
+      var tip = document.getElementById("krcCqcTip");
+      var ATTENTION_SESSION_KEY = "krc_cqc_attention_seen";
+      function stopTipAttention(){
+        if(calcRoot){
+          calcRoot.classList.remove("is-attention");
+        }
+        try{
+          sessionStorage.setItem(ATTENTION_SESSION_KEY, "1");
+        }catch(e){}
+      }
+      try{
+        if(calcRoot && sessionStorage.getItem(ATTENTION_SESSION_KEY) !== "1"){
+          calcRoot.classList.add("is-attention");
+        }
+      }catch(e){
+        if(calcRoot){
+          calcRoot.classList.add("is-attention");
+        }
+      }
+      [
+        "krcCqcArea",
+        "krcCqcSealerSurface",
+        "krcCqcSealerCoats",
+        "krcCqcSealerWaste",
+        "krcCqcDepth",
+        "krcCqcFlagThickness",
+        "krcCqcCopingLf",
+        "krcCqcCopingWaste",
+        "krcCqcCopingSize",
+        "krcCqcCalcBtn",
+        "krcCqcResetBtn",
+        "krcCqcMinus",
+        "krcCqcPlus",
+        "krcCqcQty",
+        "krcCqcAddCustomBtn",
+        "krcCqcAddEstimateBtn"
+      ].forEach(function(id){
+        var el = document.getElementById(id);
+        if(!el) return;
+        ["focus","input","change","click","touchstart"].forEach(function(evt){
+          el.addEventListener(evt, stopTipAttention, { passive:true });
+        });
+      });
+    })();
+  </script>
+ </section>
+ <script>
+  (function(){
+    var STORAGE_KEY = "krc_quote_cart_v1";
+    var FALLBACK_IMG = "https://dummyimage.com/1200x900/f1eee6/8a8478&text=KRC+Rock";
+    var TONS_PER_CUBIC_YARD = 1.35;
+    var FLAGSTONE_TONS_PER_PALLET = 1.5;
+    var areaInput = document.getElementById("krcCqcArea");
+    var areaWrap = document.getElementById("krcCqcAreaWrap");
+    var sealerWrap = document.getElementById("krcCqcSealerWrap");
+    var sealerSurfaceInput = document.getElementById("krcCqcSealerSurface");
+    var sealerCoatsInput = document.getElementById("krcCqcSealerCoats");
+    var sealerWasteInput = document.getElementById("krcCqcSealerWaste");
+    var depthInput = document.getElementById("krcCqcDepth");
+    var flagThicknessInput = document.getElementById("krcCqcFlagThickness");
+    var calcBtn = document.getElementById("krcCqcCalcBtn");
+    var resetBtn = document.getElementById("krcCqcResetBtn");
+    var resultWrap = document.getElementById("krcCqcResult");
+    var resultLabel = document.getElementById("krcCqcResultLabel");
+    var resultValue = document.getElementById("krcCqcResultValue");
+    var subResultWrap = document.getElementById("krcCqcSubResult");
+    var subResultLabel = document.getElementById("krcCqcSubResultLabel");
+    var subResultValue = document.getElementById("krcCqcSubResultValue");
+    var addEstimateBtn = document.getElementById("krcCqcAddEstimateBtn");
+    var unitBadge = document.getElementById("krcCqcUnitBadge");
+    var standardRow = document.getElementById("krcCqcStandardRow");
+    var flagThicknessWrap = document.getElementById("krcCqcFlagstoneThicknessWrap");
+    var boulderNote = document.getElementById("krcCqcBoulderNote");
+    var calcActions = document.getElementById("krcCqcCalcActions");
+    var qtyLabel = document.getElementById("krcCqcQtyLabel");
+    var qtyInput = document.getElementById("krcCqcQty");
+    var minusBtn = document.getElementById("krcCqcMinus");
+    var plusBtn = document.getElementById("krcCqcPlus");
+    var addCustomBtn = document.getElementById("krcCqcAddCustomBtn");
+    var msg = document.getElementById("krcCqcMsg");
+    var copingWrap = document.getElementById("krcCqcCopingWrap");
+    var copingLfInput = document.getElementById("krcCqcCopingLf");
+    var copingWasteInput = document.getElementById("krcCqcCopingWaste");
+    var copingSizeInput = document.getElementById("krcCqcCopingSize");
+    var tip = document.getElementById("krcCqcTip");
+    var ezMixLengthInput = document.getElementById("krcCqcEzMixLength");
+      var divider = document.getElementById("krcCqcDivider");
+      var qtyWrap = document.getElementById("krcCqcQtyWrap");
+      var calcTitle = document.querySelector("#krcCompactQuoteCalc .krc-cqc-head h3");
+var ezMixWidthInput = document.getElementById("krcCqcEzMixWidth");
+var ezMixThicknessInput = document.getElementById("krcCqcEzMixThickness");
+var ezMixWasteInput = document.getElementById("krcCqcEzMixWaste");
+var ocBlockLengthInput = document.getElementById("krcCqcOcBlockLength");
+var ocBlockHeightInput = document.getElementById("krcCqcOcBlockHeight");
+var ocBlockWasteInput = document.getElementById("krcCqcOcBlockWaste");
+        function normalize(v){
+      return String(v || "")
+        .toLowerCase()
+        .replace(/[\-_\/]+/g, " ")
+        .replace(/\s+/g, " ")
+        .trim();
+    }
+    function cleanText(v){
+      return String(v || "").replace(/\s+/g, " ").trim();
+    }
+    function round2(num){
+      return Math.round(num * 100) / 100;
+    }
+    function roundUpQuarter(num){
+      return Math.ceil(num * 4) / 4;
+    }
+    function roundUpWhole(num){
+      return Math.ceil(num);
+    }
+    function showMessage(text, type){
+      if(!msg) return;
+      msg.textContent = text || "";
+      msg.className = "krc-cqc-msg is-visible" + (type === "error" ? " is-error" : "");
+    }
+    function clearMessage(){
+      if(!msg) return;
+      msg.textContent = "";
+      msg.className = "krc-cqc-msg";
+    }
+    function getQuoteItems(){
+      try{
+        var raw = localStorage.getItem(STORAGE_KEY);
+        var parsed = raw ? JSON.parse(raw) : [];
+        return Array.isArray(parsed) ? parsed : [];
+      }catch(e){
+        return [];
+      }
+    }
+    function setQuoteItems(items){
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(items));
+      syncQuoteIndicators(items);
+    }
+    function getCartCount(items){
+      var list = Array.isArray(items) ? items : getQuoteItems();
+      return list.length;
+    }
+    function syncQuoteIndicators(items){
+      var count = getCartCount(items);
+      var selectors = [
+        "[data-krc-quote-count]",
+        ".krc-quote-count",
+        ".quote-count",
+        ".cart-count",
+        "[class*='quote-count']"
+      ];
+      selectors.forEach(function(selector){
+        document.querySelectorAll(selector).forEach(function(el){
+          el.textContent = count;
+          el.classList.remove("krc-quote-count-pulse");
+          void el.offsetWidth;
+          el.classList.add("krc-quote-count-pulse");
+        });
+      });
+      document.dispatchEvent(new CustomEvent("krc:quoteCartUpdated", {
+        detail: { count: count, items: items || getQuoteItems() }
+      }));
+    }
+    function animateSuccessButton(btn, successText){
+      if(!btn) return;
+      if(btn.dataset.krcBusy === "1") return;
+      btn.dataset.krcBusy = "1";
+      var originalText = btn.dataset.krcOriginalText || btn.textContent;
+      btn.dataset.krcOriginalText = originalText;
+      btn.classList.remove("krc-cqc-btn-pop");
+      void btn.offsetWidth;
+      btn.classList.add("krc-cqc-btn-pop");
+      btn.classList.add("krc-cqc-btn-success");
+      btn.textContent = successText || "✓ Added to Quote";
+      setTimeout(function(){
+        btn.classList.remove("krc-cqc-btn-success");
+        btn.textContent = originalText;
+        btn.dataset.krcBusy = "0";
+      }, 1900);
+    }
+    function textFromSelectors(selectors){
+      for(var i = 0; i < selectors.length; i++){
+        var el = document.querySelector(selectors[i]);
+        if(el){
+          var txt = cleanText(el.textContent || "");
+          if(txt) return txt;
+        }
+      }
+      return "";
+    }
+    function cleanUrl(url){
+      return String(url || "").trim();
+    }
+    function parseSrcset(srcset){
+      var raw = String(srcset || "").trim();
+      if(!raw) return "";
+      var first = raw.split(",")[0].trim();
+      return first.split(" ")[0].trim();
+    }
+    function getSelectedText(selectEl){
+      if(!selectEl) return "";
+      var option = selectEl.options[selectEl.selectedIndex];
+      if(!option) return "";
+      var value = cleanText(option.textContent || option.value || "");
+      if(!value) return "";
+      if(/^select/i.test(value)) return "";
+      return value;
+    }
+    function findSelectByHeadingText(labelText){
+      var wanted = normalize(labelText);
+      var headings = Array.from(document.querySelectorAll("h1,h2,h3,h4,h5,h6,label,strong"));
+      for(var i = 0; i < headings.length; i++){
+        var heading = headings[i];
+        var text = normalize(heading.textContent || "");
+        if(text !== wanted) continue;
+        var node = heading.nextElementSibling;
+        var hops = 0;
+        while(node && hops < 8){
+          if(node.matches && node.matches("select")) return node;
+          var nestedSelect = node.querySelector ? node.querySelector("select") : null;
+          if(nestedSelect) return nestedSelect;
+          node = node.nextElementSibling;
+          hops++;
+        }
+      }
+      return null;
+    }
+    function getBackgroundImageUrl(el){
+      if(!el) return "";
+      var bg = window.getComputedStyle(el).backgroundImage || "";
+      var match = bg.match(/url\((['"]?)(.*?)\1\)/i);
+      return match && match[2] ? match[2].trim() : "";
+    }
+    function scoreImage(el, url){
+      if(!url || url.indexOf("data:") === 0) return -1;
+      var score = 0;
+      var rect = el && typeof el.getBoundingClientRect === "function"
+        ? el.getBoundingClientRect()
+        : { width:0, height:0, top:99999 };
+      if(rect.width > 120) score += 3;
+      if(rect.height > 120) score += 3;
+      if(rect.top >= 0 && rect.top < window.innerHeight * 1.5) score += 2;
+      var classIdText = String(
+        (el.className || "") + " " + (el.id || "") + " " + ((el.getAttribute && el.getAttribute("data-element-type")) || "")
+      ).toLowerCase();
+      ["product","gallery","slider","image","main","hero","store"].forEach(function(hint){
+        if(classIdText.indexOf(hint) > -1) score += 2;
+      });
+      if(url.indexOf("dummyimage.com") > -1) score -= 20;
+      return score;
+    }
+    function getBestProductImage(){
+      var candidates = [];
+      [
+        "img[src]",
+        "img[data-src]",
+        "img[data-lazy-src]",
+        "img[srcset]",
+        ".dmStore img",
+        ".store-product img",
+        ".product-gallery img",
+        ".dmStoreGallery img",
+        ".dmStoreGalleryContainer img",
+        ".slick-slide img",
+        ".swiper-slide img"
+      ].forEach(function(selector){
+        document.querySelectorAll(selector).forEach(function(el){
+          [
+            el.currentSrc,
+            el.getAttribute("src"),
+            el.getAttribute("data-src"),
+            el.getAttribute("data-lazy-src"),
+            parseSrcset(el.getAttribute("srcset"))
+          ].forEach(function(url){
+            var clean = cleanUrl(url);
+            if(clean && clean.indexOf("data:") !== 0){
+              candidates.push({
+                url: clean,
+                score: scoreImage(el, clean)
+              });
+            }
+          });
+        });
+      });
+      [
+        ".dmStoreGallery",
+        ".dmStoreGalleryContainer",
+        ".store-product",
+        ".product-gallery",
+        "[class*='gallery']",
+        "[class*='slider']",
+        "[class*='product']"
+      ].forEach(function(selector){
+        document.querySelectorAll(selector).forEach(function(el){
+          var bgUrl = cleanUrl(getBackgroundImageUrl(el));
+          if(bgUrl){
+            candidates.push({
+              url: bgUrl,
+              score: scoreImage(el, bgUrl) - 1
+            });
+          }
+        });
+      });
+      var og = document.querySelector('meta[property="og:image"]');
+      if(og){
+        var ogUrl = cleanUrl(og.getAttribute("content"));
+        if(ogUrl){
+          candidates.push({ url: ogUrl, score: 1 });
+        }
+      }
+      if(!candidates.length) return FALLBACK_IMG;
+      candidates.sort(function(a, b){ return b.score - a.score; });
+      return candidates[0].url || FALLBACK_IMG;
+    }
+    function getCurrentProduct(){
+      return {
+        name: textFromSelectors([
+          "h1",
+          ".store-product-title",
+          ".dmNewParagraph h1",
+          ".dmRespRow h1"
+        ]) || "Product",
+        category: textFromSelectors([
+          "#krcBreadcrumbCategoryLink",
+          ".dmBreadcrumb li:nth-last-child(2)",
+          ".breadcrumb li:nth-last-child(2)"
+        ]) || "Product",
+        url: window.location.href,
+        img: getBestProductImage()
+      };
+    }
+    function getPageSignals(){
+      var product = getCurrentProduct();
+      var breadcrumbSub = textFromSelectors(["#krcBreadcrumbSubcategoryLink"]);
+      var slug = normalize(window.location.pathname || "");
+      var title = normalize(document.title || "");
+      var name = normalize(product.name || "");
+      var category = normalize(product.category || "");
+      var subcategory = normalize(breadcrumbSub || "");
+      return {
+        slug: slug,
+        title: title,
+        name: name,
+        category: category,
+        subcategory: subcategory,
+        combined: normalize([slug, title, name, category, subcategory].join(" "))
+      };
+    }
+    function containsAny(text, list){
+      text = normalize(text || "");
+      for(var i = 0; i < list.length; i++){
+        if(text.indexOf(normalize(list[i])) > -1) return true;
+      }
+      return false;
+    }
+    function isStrictPoolCoping(){
+      var s = getPageSignals();
+      var exactCopingProducts = [
+        "autumn leaves",
+        "cordoba cream",
+        "desert sand",
+        "noce",
+        "noche",
+        "silver",
+        "tundra",
+        "tundra marble",
+        "verona",
+        "verona marble",
+        "white marble"
+      ];
+      var hasPoolCopingBreadcrumb = normalize(s.subcategory) === "pool coping";
+      var normalizedName = normalize(s.name);
+      var isKnownCopingProduct = exactCopingProducts.indexOf(normalizedName) > -1;
+      return hasPoolCopingBreadcrumb && isKnownCopingProduct;
+    }
+    function getMaterialMode(){
+  if(isStrictPoolCoping()) return "coping";
+  var s = getPageSignals();
+        var QUOTE_ONLY_TERMS = [
+          "landscape fabric",
+          "weed fabric",
+          "weed barrier",
+          "weed control fabric",
+          "filter fabric",
+          "geotextile",
+          "fabric roll",
+          "non woven fabric",
+          "woven fabric",
+          "drainage fabric",
+          "landscape staples",
+          "staples",
+          "fabric staples",
+          "srw",
+          "expert general landscape",
+          "general landscape",
+          "ez mix",
+          "ezmix",
+          "rapid set",
+          "concrete mix",
+          "mortar mix",
+          "mason mix",
+          "sand mix",
+          "sand topping mix",
+          "cement all",
+          "concrete repair mortar",
+          "stucco mix",
+          "base coat stucco",
+          "sprayer"
+        ];
+        
+var EZ_MIX_TERMS = [
+  "ez mix",
+  "ezmix",
+  "rapid set",
+  "concrete mix",
+  "mortar mix",
+  "mason mix",
+  "sand mix",
+  "sand topping mix",
+  "cement all",
+  "concrete repair mortar",
+  "stucco mix",
+  "base coat stucco"
+];
+  var OC_BLOCK_TERMS = [
+    "oc block",
+    "cmu",
+    "cmu block",
+    "concrete block",
+    "bond beam",
+    "screen block",
+    "pilaster",
+    "lintel block",
+    "half block",
+    "split face block",
+    "precision block",
+    "8x8x16",
+    "8 x 8 x 16",
+    "8x8x8",
+    "8 x 8 x 8",
+    "6x8x8",
+    "6 x 8 x 8",
+    "6x8x16",
+    "6 x 8 x 16",
+    "12x8x16",
+    "12 x 8 x 16"
+  ];
+  var STONE_VENEER_TERMS = [
+    "stone veneer","veneer","ledge stone","stack stone","castle stone"
+  ];
+  var FLAGSTONE_TERMS = [
+    "flagstone","flag stone","quartzite","flagstone quartzite",
+    "arizona buckskin","arizona chocolate","arizona classic oak","arizona rosa",
+    "arizona sedona red","autumn gold","big horn","cameron brown","castle ridge",
+    "cherokee charcoal","cordova platinum","earthtone","fossil creek",
+    "platinum blend","platinum gold","quartz silver","red mountain",
+    "red sockeye","sunset gold","whiskey ridge"
+  ];
+  var BOULDER_TERMS = [
+    "boulder","boulders","baja gray","baja red","blue moon",
+    "california gold boulder","moss landscape boulders","desert marble",
+    "desert select","glacier turquoise boulder","honey onyx",
+    "honey quartz boulder","lava pot rock","montana moss",
+    "napa canyon","sunrise","twin oaks"
+  ];
+  var TON_TERMS = [
+    "beach pebble","cobble pebble","mexican sunburst","sunburst pebble","sunburst"
+  ];
+  var YARD_TERMS = [
+    "crushed decorative","decorative rock","crushed decorative rock",
+    "construction rock","soil bark","soil","bark","mulch","sand",
+    "decomposed granite","dg"
+  ];
+  var SEALER_TERMS = [
+    "sealers & stone care",
+    "sealers and stone care",
+    "sealers cleaners",
+    "sealers - cleaners",
+    "sealer",
+    "cleaner",
+    "stone care"
+  ];
+  var categoryText = s.category + " " + s.subcategory + " " + s.slug;
+  var productText = s.name + " " + s.title + " " + s.slug + " " + s.category + " " + s.subcategory;
+        if(containsAny(productText, EZ_MIX_TERMS)) return "ezmix";
+        if(containsAny(productText, QUOTE_ONLY_TERMS)) return "quoteonly";
+        if(containsAny(categoryText, QUOTE_ONLY_TERMS)) return "quoteonly";
+        if(containsAny(s.combined, QUOTE_ONLY_TERMS)) return "quoteonly";
+  if(containsAny(productText, OC_BLOCK_TERMS) && !containsAny(productText, STONE_VENEER_TERMS)) return "ocblock";
+  if(containsAny(s.subcategory, SEALER_TERMS)) return "sealers";
+  if(containsAny(categoryText, SEALER_TERMS)) return "sealers";
+  if(containsAny(productText, SEALER_TERMS)) return "sealers";
+  if(containsAny(categoryText, STONE_VENEER_TERMS)) return "veneer";
+  if(containsAny(productText, STONE_VENEER_TERMS)) return "veneer";
+  if(containsAny(categoryText, FLAGSTONE_TERMS)) return "flagstone";
+  if(containsAny(categoryText, BOULDER_TERMS)) return "boulder";
+  if(containsAny(categoryText, TON_TERMS)) return "tons";
+  if(containsAny(categoryText, YARD_TERMS)) return "yards";
+  if(containsAny(productText, FLAGSTONE_TERMS)) return "flagstone";
+  if(containsAny(productText, BOULDER_TERMS)) return "boulder";
+  if(containsAny(productText, TON_TERMS)) return "tons";
+  if(containsAny(productText, YARD_TERMS)) return "yards";
+  return "yards";
+}
+        function ensureVeneerFields(){
+      var existing = document.getElementById("krcCqcVeneerWrap");
+      if(existing) return existing;
+      var wrap = document.createElement("div");
+      wrap.id = "krcCqcVeneerWrap";
+      wrap.style.display = "none";
+      wrap.innerHTML = `
+        <div class="krc-cqc-row" style="grid-template-columns:1fr 1fr;">
+          <div class="krc-cqc-block">
+            <label for="krcCqcVeneerWidth">Wall Width (ft)</label>
+            <input id="krcCqcVeneerWidth" type="number" min="0" step="0.1" placeholder="Ex: 20">
+          </div>
+          <div class="krc-cqc-block">
+            <label for="krcCqcVeneerHeight">Wall Height (ft)</label>
+            <input id="krcCqcVeneerHeight" type="number" min="0" step="0.1" placeholder="Ex: 8">
+          </div>
+        </div>
+        <div class="krc-cqc-row" style="grid-template-columns:1fr 1fr;">
+          <div class="krc-cqc-block">
+            <label for="krcCqcVeneerOpenings">Openings Total (sq ft)</label>
+            <input id="krcCqcVeneerOpenings" type="number" min="0" step="0.1" placeholder="Ex: 12">
+          </div>
+          <div class="krc-cqc-block">
+            <label for="krcCqcVeneerWaste">Waste %</label>
+            <select id="krcCqcVeneerWaste">
+              <option value="10">10%</option>
+              <option value="12" selected>12%</option>
+              <option value="15">15%</option>
+              <option value="20">20%</option>
+            </select>
+          </div>
+        </div>
+        <div class="krc-cqc-row" style="grid-template-columns:1fr 1fr;">
+          <div class="krc-cqc-block">
+            <label for="krcCqcVeneerCorners">Outside Corners</label>
+            <input id="krcCqcVeneerCorners" type="number" min="0" step="1" placeholder="Ex: 2">
+          </div>
+          <div class="krc-cqc-block">
+            <label>Unit</label>
+            <div class="krc-cqc-unit">SQ FT + LF</div>
+          </div>
+        </div>
+      `;
+      var insertBeforeNode = calcActions || areaWrap;
+      insertBeforeNode.parentNode.insertBefore(wrap, insertBeforeNode);
+      return wrap;
+    }
+    function refreshModeUI(){
+  var mode = getMaterialMode();
+  var veneerWrap = ensureVeneerFields();
+  var ezMixWrap = document.getElementById("krcCqcEzMixWrap");
+  var ocBlockWrap = document.getElementById("krcCqcOcBlockWrap");
+        if(mode === "quoteonly"){
+          if(areaWrap) areaWrap.style.display = "none";
+          if(sealerWrap) sealerWrap.style.display = "none";
+          if(standardRow) standardRow.style.display = "none";
+          if(flagThicknessWrap) flagThicknessWrap.style.display = "none";
+          if(boulderNote) boulderNote.style.display = "none";
+          if(copingWrap) copingWrap.style.display = "none";
+          if(veneerWrap) veneerWrap.style.display = "none";
+          if(ezMixWrap) ezMixWrap.style.display = "none";
+          if(ocBlockWrap) ocBlockWrap.style.display = "none";
+          if(calcActions) calcActions.style.display = "none";
+          if(resultWrap) resultWrap.style.display = "none";
+          if(subResultWrap) subResultWrap.style.display = "none";
+          if(addEstimateBtn) addEstimateBtn.style.display = "none";
+
+          /* keep quantity visible */
+          if(divider) divider.style.display = "block";
+          if(qtyWrap) qtyWrap.style.display = "block";
+
+          if(calcTitle) calcTitle.textContent = "Add to Quote";
+          if(tip && tip.querySelector(".krc-cqc-tip-text")){
+            tip.querySelector(".krc-cqc-tip-text").textContent = "Select your product options and quantity, then add it directly to your quote.";
+          }
+          if(qtyLabel) qtyLabel.textContent = "Quantity";
+          if(addCustomBtn) addCustomBtn.textContent = "Add to Quote";
+
+          qtyInput.step = "1";
+          qtyInput.min = "1";
+          if(!qtyInput.value || parseFloat(qtyInput.value) < 1) qtyInput.value = "1";
+
+          return;
+        }
+  if(mode === "sealers"){
+    if(areaWrap) areaWrap.style.display = "block";
+    if(sealerWrap) sealerWrap.style.display = "block";
+    if(standardRow) standardRow.style.display = "none";
+    if(flagThicknessWrap) flagThicknessWrap.style.display = "none";
+    if(boulderNote) boulderNote.style.display = "none";
+    if(copingWrap) copingWrap.style.display = "none";
+    if(veneerWrap) veneerWrap.style.display = "none";
+    if(ezMixWrap) ezMixWrap.style.display = "none";
+    if(ocBlockWrap) ocBlockWrap.style.display = "none";
+    if(calcActions) calcActions.style.display = "grid";
+    if(unitBadge) unitBadge.textContent = "GALLONS";
+    if(resultLabel) resultLabel.textContent = "Estimated Gallons";
+    if(subResultLabel) subResultLabel.textContent = "Suggested Size";
+    if(qtyLabel) qtyLabel.textContent = "Custom Gallons";
+    qtyInput.step = "0.5";
+    qtyInput.min = "0.5";
+    return;
+  }
+  if(mode === "coping"){
+    if(areaWrap) areaWrap.style.display = "none";
+    if(sealerWrap) sealerWrap.style.display = "none";
+    if(standardRow) standardRow.style.display = "none";
+    if(flagThicknessWrap) flagThicknessWrap.style.display = "none";
+    if(boulderNote) boulderNote.style.display = "none";
+    if(veneerWrap) veneerWrap.style.display = "none";
+    if(ezMixWrap) ezMixWrap.style.display = "none";
+    if(ocBlockWrap) ocBlockWrap.style.display = "none";
+    if(copingWrap) copingWrap.style.display = "block";
+    if(calcActions) calcActions.style.display = "grid";
+    if(unitBadge) unitBadge.textContent = "PIECES";
+    if(resultLabel) resultLabel.textContent = "Estimated Pieces";
+    if(subResultLabel) subResultLabel.textContent = "Estimated Linear Feet";
+    if(qtyLabel) qtyLabel.textContent = "Custom Pieces";
+    qtyInput.step = "1";
+    qtyInput.min = "1";
+    return;
+  }
+  if(mode === "veneer"){
+    if(areaWrap) areaWrap.style.display = "none";
+    if(sealerWrap) sealerWrap.style.display = "none";
+    if(standardRow) standardRow.style.display = "none";
+    if(flagThicknessWrap) flagThicknessWrap.style.display = "none";
+    if(boulderNote) boulderNote.style.display = "none";
+    if(copingWrap) copingWrap.style.display = "none";
+    if(ezMixWrap) ezMixWrap.style.display = "none";
+    if(ocBlockWrap) ocBlockWrap.style.display = "none";
+    if(calcActions) calcActions.style.display = "grid";
+    if(veneerWrap) veneerWrap.style.display = "block";
+    if(unitBadge) unitBadge.textContent = "SQ FT";
+    if(resultLabel) resultLabel.textContent = "Estimated Flats";
+    if(subResultLabel) subResultLabel.textContent = "Estimated Corners";
+    if(qtyLabel) qtyLabel.textContent = "Custom Square Feet";
+    qtyInput.step = "0.5";
+    qtyInput.min = "0.5";
+    return;
+  }
+  if(mode === "ezmix"){
+    if(areaWrap) areaWrap.style.display = "none";
+    if(sealerWrap) sealerWrap.style.display = "none";
+    if(standardRow) standardRow.style.display = "none";
+    if(flagThicknessWrap) flagThicknessWrap.style.display = "none";
+    if(boulderNote) boulderNote.style.display = "none";
+    if(copingWrap) copingWrap.style.display = "none";
+    if(veneerWrap) veneerWrap.style.display = "none";
+    if(ezMixWrap) ezMixWrap.style.display = "block";
+    if(ocBlockWrap) ocBlockWrap.style.display = "none";
+    if(calcActions) calcActions.style.display = "grid";
+    if(unitBadge) unitBadge.textContent = "BAGS";
+    if(resultLabel) resultLabel.textContent = "Estimated 90 LB Bags";
+    if(subResultLabel) subResultLabel.textContent = "Estimated Volume";
+    if(qtyLabel) qtyLabel.textContent = "Custom Bags";
+    qtyInput.step = "1";
+    qtyInput.min = "1";
+    return;
+  }
+  if(mode === "ocblock"){
+    if(areaWrap) areaWrap.style.display = "none";
+    if(sealerWrap) sealerWrap.style.display = "none";
+    if(standardRow) standardRow.style.display = "none";
+    if(flagThicknessWrap) flagThicknessWrap.style.display = "none";
+    if(boulderNote) boulderNote.style.display = "none";
+    if(copingWrap) copingWrap.style.display = "none";
+    if(veneerWrap) veneerWrap.style.display = "none";
+    if(ezMixWrap) ezMixWrap.style.display = "none";
+    if(ocBlockWrap) ocBlockWrap.style.display = "block";
+    if(calcActions) calcActions.style.display = "grid";
+    if(unitBadge) unitBadge.textContent = "BLOCKS";
+    if(resultLabel) resultLabel.textContent = "Estimated Blocks";
+    if(subResultLabel) subResultLabel.textContent = "Estimated Wall Area";
+    if(qtyLabel) qtyLabel.textContent = "Custom Blocks";
+    qtyInput.step = "1";
+    qtyInput.min = "1";
+    return;
+  }
+  if(copingWrap) copingWrap.style.display = "none";
+  if(sealerWrap) sealerWrap.style.display = "none";
+  if(veneerWrap) veneerWrap.style.display = "none";
+  if(ezMixWrap) ezMixWrap.style.display = "none";
+  if(ocBlockWrap) ocBlockWrap.style.display = "none";
+  if(mode === "flagstone"){
+    if(areaWrap) areaWrap.style.display = "block";
+    if(standardRow) standardRow.style.display = "none";
+    if(flagThicknessWrap) flagThicknessWrap.style.display = "block";
+    if(boulderNote) boulderNote.style.display = "none";
+    if(calcActions) calcActions.style.display = "grid";
+    if(unitBadge) unitBadge.textContent = "TONS";
+    if(resultLabel) resultLabel.textContent = "Estimated Tons";
+    if(subResultLabel) subResultLabel.textContent = "Estimated Pallets";
+    if(qtyLabel) qtyLabel.textContent = "Custom Quantity";
+  } else if(mode === "boulder"){
+    if(areaWrap) areaWrap.style.display = "none";
+    if(standardRow) standardRow.style.display = "none";
+    if(flagThicknessWrap) flagThicknessWrap.style.display = "none";
+    if(boulderNote) boulderNote.style.display = "block";
+    if(calcActions) calcActions.style.display = "none";
+    if(resultWrap) resultWrap.style.display = "none";
+    if(subResultWrap) subResultWrap.style.display = "none";
+    if(addEstimateBtn) addEstimateBtn.style.display = "none";
+    if(qtyLabel) qtyLabel.textContent = "Estimated Tons";
+  } else {
+    if(areaWrap) areaWrap.style.display = "block";
+    if(standardRow) standardRow.style.display = "grid";
+    if(flagThicknessWrap) flagThicknessWrap.style.display = "none";
+    if(boulderNote) boulderNote.style.display = "none";
+    if(calcActions) calcActions.style.display = "grid";
+    if(subResultWrap) subResultWrap.style.display = "none";
+    if(unitBadge) unitBadge.textContent = mode.toUpperCase();
+    if(resultLabel) resultLabel.textContent = mode === "tons" ? "Estimated Tons" : "Estimated Cubic Yards";
+    if(qtyLabel) qtyLabel.textContent = "Custom Quantity";
+  }
+  qtyInput.step = "0.5";
+  qtyInput.min = "0.5";
+}
+      function getCustomQty(){
+        var mode = getMaterialMode();
+        var wholeNumberMode = (
+          mode === "quoteonly" ||
+          mode === "coping" ||
+          mode === "ezmix" ||
+          mode === "ocblock"
+        );
+        var step = wholeNumberMode ? 1 : 0.5;
+        var min = wholeNumberMode ? 1 : 0.5;
+        var val = parseFloat(qtyInput.value);
+
+        if(isNaN(val) || val <= 0){
+          val = min;
+        }
+        if(wholeNumberMode){
+          val = Math.ceil(val);
+        }
+
+        qtyInput.value = val;
+        return val;
+      }
+    function calculateEstimate(){
+      var mode = getMaterialMode();
+      if(mode === "ezmix"){
+  var length = parseFloat(ezMixLengthInput && ezMixLengthInput.value);
+  var width = parseFloat(ezMixWidthInput && ezMixWidthInput.value);
+  var thickness = parseFloat(ezMixThicknessInput && ezMixThicknessInput.value);
+  var wastePctEz = parseFloat(ezMixWasteInput && ezMixWasteInput.value);
+  if(isNaN(length) || length <= 0 || isNaN(width) || width <= 0){
+    if(resultWrap) resultWrap.style.display = "none";
+    if(addEstimateBtn) addEstimateBtn.style.display = "none";
+    showMessage("Enter a valid length and width.", "error");
+    return null;
+  }
+  if(isNaN(thickness) || thickness <= 0) thickness = 4;
+  if(isNaN(wastePctEz) || wastePctEz < 0) wastePctEz = 5;
+  var cubicFeetEz = length * width * (thickness / 12);
+  var cubicFeetWithWasteEz = cubicFeetEz * (1 + (wastePctEz / 100));
+  var bags90 = roundUpWhole(cubicFeetWithWasteEz / 0.675);
+  clearMessage();
+  resultLabel.textContent = "Estimated 90 LB Bags";
+  resultValue.textContent = bags90;
+  subResultLabel.textContent = "Estimated Volume";
+  subResultValue.textContent = round2(cubicFeetWithWasteEz) + " cu ft";
+  subResultWrap.style.display = "block";
+  resultWrap.style.display = "block";
+  addEstimateBtn.textContent = "Add " + bags90 + " bags to Quote";
+  addEstimateBtn.style.display = "block";
+  return {
+    qty: bags90,
+    unit: "bags",
+    wastePct: wastePctEz,
+    estimatedVolume: round2(cubicFeetWithWasteEz)
+  };
+}
+if(mode === "ocblock"){
+  var wallLength = parseFloat(ocBlockLengthInput && ocBlockLengthInput.value);
+  var wallHeight = parseFloat(ocBlockHeightInput && ocBlockHeightInput.value);
+  var wastePctBlock = parseFloat(ocBlockWasteInput && ocBlockWasteInput.value);
+  if(isNaN(wallLength) || wallLength <= 0 || isNaN(wallHeight) || wallHeight <= 0){
+    if(resultWrap) resultWrap.style.display = "none";
+    if(addEstimateBtn) addEstimateBtn.style.display = "none";
+    showMessage("Enter a valid wall length and height.", "error");
+    return null;
+  }
+  if(isNaN(wastePctBlock) || wastePctBlock < 0) wastePctBlock = 5;
+  var wallArea = wallLength * wallHeight;
+  var blockFaceArea = getOcBlockFaceArea();
+  var rawBlocks = wallArea / blockFaceArea;
+  var finalBlocks = roundUpWhole(rawBlocks * (1 + (wastePctBlock / 100)));
+  clearMessage();
+  resultLabel.textContent = "Estimated Blocks";
+  resultValue.textContent = finalBlocks;
+  subResultLabel.textContent = "Estimated Wall Area";
+  subResultValue.textContent = round2(wallArea) + " sq ft";
+  subResultWrap.style.display = "block";
+  resultWrap.style.display = "block";
+  addEstimateBtn.textContent = "Add " + finalBlocks + " blocks to Quote";
+  addEstimateBtn.style.display = "block";
+  return {
+    qty: finalBlocks,
+    unit: "blocks",
+    wastePct: wastePctBlock,
+    wallArea: round2(wallArea)
+  };
+}
+      if(mode === "sealers"){
+        var areaSealer = parseFloat(areaInput && areaInput.value);
+        var coverage = parseFloat(sealerSurfaceInput && sealerSurfaceInput.value);
+        var coats = parseFloat(sealerCoatsInput && sealerCoatsInput.value);
+        var wastePctSealer = parseFloat(sealerWasteInput && sealerWasteInput.value);
+        if(isNaN(areaSealer) || areaSealer <= 0){
+          if(resultWrap) resultWrap.style.display = "none";
+          if(addEstimateBtn) addEstimateBtn.style.display = "none";
+          showMessage("Enter a valid area first.", "error");
+          return null;
+        }
+        if(isNaN(coverage) || coverage <= 0) coverage = 150;
+        if(isNaN(coats) || coats <= 0) coats = 2;
+        if(isNaN(wastePctSealer) || wastePctSealer < 0) wastePctSealer = 5;
+        var gallons = (areaSealer * coats) / coverage;
+        gallons = gallons * (1 + (wastePctSealer / 100));
+        gallons = roundUpQuarter(gallons);
+        var suggestedSize = gallons >= 5
+          ? (Math.ceil(gallons / 5) * 5) + " Gallons"
+          : gallons + " Gallons";
+        clearMessage();
+        resultLabel.textContent = "Estimated Gallons";
+        resultValue.textContent = gallons.toFixed(2);
+        subResultLabel.textContent = "Suggested Size";
+        subResultValue.textContent = suggestedSize;
+        subResultWrap.style.display = "block";
+        resultWrap.style.display = "block";
+        addEstimateBtn.textContent = "Add " + gallons.toFixed(2) + " gallons to Quote";
+        addEstimateBtn.style.display = "block";
+        return {
+          qty: gallons,
+          unit: "gallons",
+          coats: coats,
+          coverage: coverage,
+          wastePct: wastePctSealer,
+          suggestedSize: suggestedSize
+        };
+      }
+      if(mode === "coping"){
+        var lf = parseFloat(copingLfInput && copingLfInput.value);
+        var wastePct = parseFloat(copingWasteInput && copingWasteInput.value);
+        var pieceLengthInches = parseFloat(copingSizeInput && copingSizeInput.value);
+        if(isNaN(lf) || lf <= 0){
+          if(resultWrap) resultWrap.style.display = "none";
+          if(addEstimateBtn) addEstimateBtn.style.display = "none";
+          showMessage("Enter a valid total linear footage.", "error");
+          return null;
+        }
+        if(isNaN(wastePct) || wastePct < 0) wastePct = 10;
+        if(isNaN(pieceLengthInches) || pieceLengthInches <= 0) pieceLengthInches = 24;
+        var coveragePerPieceLf = pieceLengthInches / 12;
+        var basePieces = lf / coveragePerPieceLf;
+        var finalPieces = roundUpWhole(basePieces * (1 + (wastePct / 100)));
+        clearMessage();
+        resultLabel.textContent = "Estimated Pieces";
+        resultValue.textContent = finalPieces;
+        subResultLabel.textContent = "Estimated Linear Feet";
+        subResultValue.textContent = round2(lf) + " LF";
+        subResultWrap.style.display = "block";
+        resultWrap.style.display = "block";
+        addEstimateBtn.textContent = "Add Coping Estimate to Quote";
+        addEstimateBtn.style.display = "block";
+        return {
+          qty: finalPieces,
+          unit: "pieces",
+          linearFeet: round2(lf),
+          wastePct: wastePct,
+          selectedSize: getSelectedText(copingSizeInput)
+        };
+      }
+      if(mode === "veneer"){
+        var widthEl = document.getElementById("krcCqcVeneerWidth");
+        var heightEl = document.getElementById("krcCqcVeneerHeight");
+        var openingsEl = document.getElementById("krcCqcVeneerOpenings");
+        var wasteEl = document.getElementById("krcCqcVeneerWaste");
+        var cornersEl = document.getElementById("krcCqcVeneerCorners");
+        var width = parseFloat(widthEl && widthEl.value);
+        var height = parseFloat(heightEl && heightEl.value);
+        var openings = parseFloat(openingsEl && openingsEl.value);
+        var wastePct2 = parseFloat(wasteEl && wasteEl.value);
+        var cornerCount = parseFloat(cornersEl && cornersEl.value);
+        if(isNaN(width) || width <= 0 || isNaN(height) || height <= 0){
+          if(resultWrap) resultWrap.style.display = "none";
+          if(addEstimateBtn) addEstimateBtn.style.display = "none";
+          showMessage("Enter a valid wall width and height.", "error");
+          return null;
+        }
+        if(isNaN(openings) || openings < 0) openings = 0;
+        if(isNaN(wastePct2) || wastePct2 < 0) wastePct2 = 12;
+        if(isNaN(cornerCount) || cornerCount < 0) cornerCount = 0;
+        var grossArea = width * height;
+        var netArea = Math.max(0, grossArea - openings);
+        var finalFlats = roundUpWhole(netArea * (1 + (wastePct2 / 100)));
+        var cornerLf = roundUpWhole(cornerCount * height);
+        clearMessage();
+        resultLabel.textContent = "Estimated Flats";
+        resultValue.textContent = finalFlats + " sq ft";
+        subResultLabel.textContent = "Estimated Corners";
+        subResultValue.textContent = cornerLf + " lf";
+        subResultWrap.style.display = "block";
+        resultWrap.style.display = "block";
+        addEstimateBtn.textContent = "Add Veneer Estimate to Quote";
+        addEstimateBtn.style.display = "block";
+        return {
+          qty: finalFlats,
+          unit: "sq ft",
+          corners: cornerLf,
+          cornerUnit: "lf",
+          wastePct: wastePct2
+        };
+      }
+      var area = parseFloat(areaInput.value);
+      if(mode === "boulder"){
+        clearMessage();
+        showMessage("Boulders are quoted by quantity, size, and placement rather than coverage.", "error");
+        return null;
+      }
+      if(isNaN(area) || area <= 0){
+        if(resultWrap) resultWrap.style.display = "none";
+        if(addEstimateBtn) addEstimateBtn.style.display = "none";
+        if(subResultWrap) subResultWrap.style.display = "none";
+        showMessage("Enter a valid area first.", "error");
+        return null;
+      }
+      clearMessage();
+      if(mode === "flagstone"){
+        var coveragePerTon = parseFloat(flagThicknessInput.value);
+        if(isNaN(coveragePerTon) || coveragePerTon <= 0){
+          showMessage("Select a valid flagstone thickness.", "error");
+          return null;
+        }
+        var rawTons = area / coveragePerTon;
+        var roundedTons = roundUpQuarter(rawTons);
+        var pallets = Math.ceil(roundedTons / FLAGSTONE_TONS_PER_PALLET);
+        resultLabel.textContent = "Estimated Tons";
+        resultValue.textContent = roundedTons.toFixed(2);
+        subResultLabel.textContent = "Estimated Pallets";
+        subResultValue.textContent = pallets;
+        subResultWrap.style.display = "block";
+        addEstimateBtn.textContent = "Add " + roundedTons.toFixed(2) + " tons to Quote";
+        resultWrap.style.display = "block";
+        addEstimateBtn.style.display = "block";
+        return { qty: roundedTons, unit: "tons", pallets: pallets };
+      }
+      var depth = parseFloat(depthInput.value);
+      if(isNaN(depth) || depth <= 0){
+        if(resultWrap) resultWrap.style.display = "none";
+        if(addEstimateBtn) addEstimateBtn.style.display = "none";
+        showMessage("Select a valid depth.", "error");
+        return null;
+      }
+      var cubicFeet = area * (depth / 12);
+      var cubicYards = cubicFeet / 27;
+      var finalQty = mode === "tons" ? cubicYards * TONS_PER_CUBIC_YARD : cubicYards;
+      finalQty = round2(finalQty);
+      resultLabel.textContent = mode === "tons" ? "Estimated Tons" : "Estimated Cubic Yards";
+      resultValue.textContent = finalQty;
+      subResultWrap.style.display = "none";
+      addEstimateBtn.textContent = "Add " + finalQty + " " + mode + " to Quote";
+      resultWrap.style.display = "block";
+      addEstimateBtn.style.display = "block";
+      return { qty: finalQty, unit: mode };
+    }
+    function getOcBlockFaceArea(){
+  var s = getPageSignals();
+  var text = normalize([s.name, s.title, s.slug, s.category, s.subcategory].join(" "));
+  if(text.indexOf("8x8x8") > -1 || text.indexOf("8 x 8 x 8") > -1){
+    return (8 * 8) / 144; // 0.4444 sq ft per block face
+  }
+  if(text.indexOf("6x8x8") > -1 || text.indexOf("6 x 8 x 8") > -1){
+    return (8 * 8) / 144; // treated as 8x8 face
+  }
+  if(text.indexOf("6x8x16") > -1 || text.indexOf("6 x 8 x 16") > -1){
+    return (16 * 8) / 144; // 0.8889 sq ft
+  }
+  if(text.indexOf("8x8x16") > -1 || text.indexOf("8 x 8 x 16") > -1){
+    return (16 * 8) / 144; // 0.8889 sq ft
+  }
+  if(text.indexOf("12x8x16") > -1 || text.indexOf("12 x 8 x 16") > -1){
+    return (16 * 8) / 144; // face still 16x8
+  }
+  return (16 * 8) / 144;
+}
+    function addToQuote(qty, triggerBtn, extra){
+      var product = getCurrentProduct();
+      var mode = getMaterialMode();
+        var pageText = normalize([
+          product.name,
+          product.category,
+          window.location.pathname,
+          document.title
+        ].join(" "));
+
+        var unit =
+          mode === "flagstone" ? "tons" :
+          mode === "boulder" ? "tons" :
+          mode === "veneer" ? "sq ft" :
+          mode === "coping" ? "pieces" :
+          mode === "sealers" ? "gallons" :
+          mode === "ezmix" ? "bags" :
+          mode === "ocblock" ? "blocks" :
+          mode === "quoteonly" && (
+            pageText.indexOf("fabric") > -1 ||
+            pageText.indexOf("weed barrier") > -1 ||
+            pageText.indexOf("geotextile") > -1 ||
+            pageText.indexOf("srw") > -1
+          ) ? "rolls" :
+          mode === "quoteonly" && (
+            pageText.indexOf("staples") > -1
+          ) ? "boxes" :
+          mode === "quoteonly" ? "each" :
+          mode;      var quantity = parseFloat(qty);
+      if(isNaN(quantity) || quantity <= 0){
+        quantity = 1;
+      }
+        function findSelectByAnyHeadingText(labels){
+          for(var i = 0; i < labels.length; i++){
+            var found = findSelectByHeadingText(labels[i]);
+            if(found) return found;
+          }
+          return null;
+        }
+
+        var sizeSelect = findSelectByAnyHeadingText([
+          "Size",
+          "Roll Size",
+          "Fabric Size",
+          "Dimensions",
+          "Dimension",
+          "Coverage",
+          "Product Size",
+          "Option"
+        ]);
+        var deliverySelect = findSelectByHeadingText("Delivery Type");
+        var packagingSelect = findSelectByHeadingText("Packaging");
+        var unitSelect = findSelectByHeadingText("Unit of Measure");
+        var mode = getMaterialMode();
+        var sizeValue = "";
+
+        // ONLY allow size detection for these modes
+        if(mode === "quoteonly" || mode === "veneer" || mode === "flagstone"){
+          sizeValue = getSelectedText(sizeSelect);
+
+          if(!sizeValue){
+            var allSelects = Array.from(document.querySelectorAll("select"));
+            for(var i = 0; i < allSelects.length; i++){
+              var testValue = getSelectedText(allSelects[i]);
+              if(!testValue) continue;
+
+              var normalizedValue = normalize(testValue);
+              if(
+                normalizedValue.indexOf("x") > -1 ||
+                normalizedValue.indexOf("ft") > -1 ||
+                normalizedValue.indexOf("roll") > -1
+              ){
+                sizeValue = testValue;
+                break;
+              }
+            }
+          }
+        }
+      var deliveryValue = getSelectedText(deliverySelect);
+      var packagingValue = getSelectedText(packagingSelect);
+      var unitValue = getSelectedText(unitSelect);
+      var options = {
+        detected_unit: { label: "Unit", value: unit }
+      };
+      if(sizeValue) options.size = { label: "Size", value: sizeValue };
+      if(deliveryValue) options.delivery_type = { label: "Delivery Type", value: deliveryValue };
+      if(packagingValue) options.packaging = { label: "Packaging", value: packagingValue };
+      if(unitValue) options.unit_of_measure = { label: "Unit of Measure", value: unitValue };
+      if(extra && extra.corners > 0) options.veneer_corners = { label: "Corners", value: extra.corners + " lf" };
+      if(extra && extra.wastePct >= 0) options.waste = { label: "Waste", value: extra.wastePct + "%" };
+      if(extra && extra.linearFeet > 0) options.linear_feet = { label: "Estimated Linear Feet", value: extra.linearFeet + " LF" };
+      if(extra && extra.selectedSize) options.estimate_size = { label: "Estimate Size", value: extra.selectedSize };
+      if(extra && extra.coats) options.coats = { label: "Coats", value: extra.coats };
+      if(extra && extra.coverage) options.coverage_rate = { label: "Coverage Rate", value: extra.coverage + " sqft/gal" };
+      if(extra && extra.suggestedSize) options.suggested_size = { label: "Suggested Size", value: extra.suggestedSize };
+      if(extra && extra.estimatedVolume) options.estimated_volume = { label: "Estimated Volume", value: extra.estimatedVolume + " cu ft" };
+if(extra && extra.wallArea) options.wall_area = { label: "Estimated Wall Area", value: extra.wallArea + " sq ft" };
+      var items = getQuoteItems();
+var signature = JSON.stringify({
+  url: product.url,
+  size: sizeValue || "",
+  delivery: deliveryValue || "",
+  packaging: packagingValue || "",
+  uom: unitValue || "",
+  unit: unit,
+  corners: extra && extra.corners ? extra.corners : 0,
+  waste: extra && extra.wastePct ? extra.wastePct : 0,
+  lf: extra && extra.linearFeet ? extra.linearFeet : 0,
+  estimateSize: extra && extra.selectedSize ? extra.selectedSize : "",
+  coats: extra && extra.coats ? extra.coats : 0,
+  coverage: extra && extra.coverage ? extra.coverage : 0,
+  suggestedSize: extra && extra.suggestedSize ? extra.suggestedSize : "",
+  volume: extra && extra.estimatedVolume ? extra.estimatedVolume : 0,
+  wallArea: extra && extra.wallArea ? extra.wallArea : 0
+});
+      var item = {
+        id: "quote_" + Date.now(),
+        name: product.name,
+        category: product.category,
+        url: product.url,
+        img: product.img,
+        image: product.img,
+        qty: quantity,
+        quantity: quantity,
+        unit: unit,
+        options: options,
+        optionSignature: signature,
+        addedFrom: "product_page"
+      };
+      if(extra && extra.corners > 0){
+        item.cornerQty = extra.corners;
+        item.cornerUnit = "lf";
+      }
+      var existingIndex = items.findIndex(function(existing){
+        return existing.optionSignature === signature;
+      });
+      if(existingIndex > -1){
+        items[existingIndex].qty = quantity;
+        items[existingIndex].quantity = quantity;
+        items[existingIndex].unit = unit;
+        items[existingIndex].img = product.img;
+        items[existingIndex].image = product.img;
+        items[existingIndex].options = options;
+        if(extra && extra.corners > 0){
+          items[existingIndex].cornerQty = extra.corners;
+          items[existingIndex].cornerUnit = "lf";
+        }
+        setQuoteItems(items);
+        animateSuccessButton(triggerBtn, "✓ Updated");
+        showMessage("Quote item updated successfully.");
+        return;
+      }
+      items.push(item);
+      setQuoteItems(items);
+      animateSuccessButton(triggerBtn, "✓ Added to Quote");
+      showMessage("Added to quote successfully.");
+    }
+    function stopTipAttention(){
+      if(!tip) return;
+      tip.classList.remove("is-attention");
+    }
+    if(calcBtn){
+      calcBtn.onclick = function(){
+        stopTipAttention();
+        calculateEstimate();
+      };
+    }
+    if(resetBtn){
+      resetBtn.onclick = function(){
+        stopTipAttention();
+        clearMessage();
+        if(areaInput) areaInput.value = "";
+        if(sealerSurfaceInput) sealerSurfaceInput.value = "150";
+        if(sealerCoatsInput) sealerCoatsInput.value = "2";
+        if(sealerWasteInput) sealerWasteInput.value = "5";
+        if(depthInput) depthInput.value = "1";
+        if(flagThicknessInput) flagThicknessInput.selectedIndex = 0;
+        if(copingLfInput) copingLfInput.value = "";
+        if(copingWasteInput) copingWasteInput.value = "10";
+        if(copingSizeInput) copingSizeInput.selectedIndex = 0;
+        if(ezMixLengthInput) ezMixLengthInput.value = "";
+if(ezMixWidthInput) ezMixWidthInput.value = "";
+if(ezMixThicknessInput) ezMixThicknessInput.value = "4";
+if(ezMixWasteInput) ezMixWasteInput.value = "5";
+if(ocBlockLengthInput) ocBlockLengthInput.value = "";
+if(ocBlockHeightInput) ocBlockHeightInput.value = "";
+if(ocBlockWasteInput) ocBlockWasteInput.value = "5";
+        var widthEl = document.getElementById("krcCqcVeneerWidth");
+        var heightEl = document.getElementById("krcCqcVeneerHeight");
+        var openingsEl = document.getElementById("krcCqcVeneerOpenings");
+        var wasteEl = document.getElementById("krcCqcVeneerWaste");
+        var cornersEl = document.getElementById("krcCqcVeneerCorners");
+        if(widthEl) widthEl.value = "";
+        if(heightEl) heightEl.value = "";
+        if(openingsEl) openingsEl.value = "";
+        if(wasteEl) wasteEl.value = "12";
+        if(cornersEl) cornersEl.value = "";
+        if(resultValue) resultValue.textContent = "0";
+        if(subResultValue) subResultValue.textContent = "0";
+        if(resultWrap) resultWrap.style.display = "none";
+        if(subResultWrap) subResultWrap.style.display = "none";
+        if(addEstimateBtn) addEstimateBtn.style.display = "none";
+        refreshModeUI();
+      };
+    }
+    if(addEstimateBtn){
+      addEstimateBtn.onclick = function(){
+        stopTipAttention();
+        var result = calculateEstimate();
+        if(result && result.qty > 0){
+          addToQuote(result.qty, addEstimateBtn, result);
+        }
+      };
+    }
+      if(minusBtn){
+        minusBtn.onclick = function(){
+          stopTipAttention();
+          clearMessage();
+          var current = getCustomQty();
+          var mode = getMaterialMode();
+          var wholeNumberMode = (
+            mode === "quoteonly" ||
+            mode === "coping" ||
+            mode === "ezmix" ||
+            mode === "ocblock"
+          );
+          var step = wholeNumberMode ? 1 : 0.5;
+          var min = wholeNumberMode ? 1 : 0.5;
+          qtyInput.value = Math.max(min, current - step);
+        };
+      }
+      if(plusBtn){
+        plusBtn.onclick = function(){
+          stopTipAttention();
+          clearMessage();
+          var current = getCustomQty();
+          var mode = getMaterialMode();
+          var wholeNumberMode = (
+            mode === "quoteonly" ||
+            mode === "coping" ||
+            mode === "ezmix" ||
+            mode === "ocblock"
+          );
+          var step = wholeNumberMode ? 1 : 0.5;
+          qtyInput.value = current + step;
+        };
+      }
+      if(addCustomBtn){
+        addCustomBtn.onclick = function(){
+          stopTipAttention();
+          clearMessage();
+          addToQuote(getCustomQty(), addCustomBtn);
+        };
+      }
+    if(depthInput){
+      depthInput.onchange = function(){
+        stopTipAttention();
+        refreshModeUI();
+      };
+    }
+    if(flagThicknessInput){
+      flagThicknessInput.onchange = function(){
+        stopTipAttention();
+        refreshModeUI();
+      };
+    }
+    if(copingSizeInput){
+      copingSizeInput.onchange = function(){
+        stopTipAttention();
+        refreshModeUI();
+      };
+    }
+    if(sealerSurfaceInput){
+      sealerSurfaceInput.onchange = function(){
+        stopTipAttention();
+        refreshModeUI();
+      };
+    }
+    if(sealerCoatsInput){
+      sealerCoatsInput.onchange = function(){
+        stopTipAttention();
+        refreshModeUI();
+      };
+    }
+    if(sealerWasteInput){
+      sealerWasteInput.onchange = function(){
+        stopTipAttention();
+        refreshModeUI();
+      };
+    }
+    [
+  areaInput,
+  qtyInput,
+  copingLfInput,
+  copingWasteInput,
+  depthInput,
+  flagThicknessInput,
+  copingSizeInput,
+  sealerSurfaceInput,
+  sealerCoatsInput,
+  sealerWasteInput,
+  ezMixLengthInput,
+  ezMixWidthInput,
+  ezMixThicknessInput,
+  ezMixWasteInput,
+  ocBlockLengthInput,
+  ocBlockHeightInput,
+  ocBlockWasteInput
+].forEach(function(el){
+      if(!el) return;
+      ["focus","input","change","click","touchstart"].forEach(function(evt){
+        el.addEventListener(evt, stopTipAttention, { passive:true });
+      });
+    });
+    syncQuoteIndicators(getQuoteItems());
+    if(tip){
+      tip.classList.add("is-attention");
+    }
+    window.setTimeout(refreshModeUI, 250);
+    window.setTimeout(refreshModeUI, 1000);
+    window.setTimeout(refreshModeUI, 2000);
+  })();
+ </script>
