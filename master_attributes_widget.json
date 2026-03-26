@@ -269,15 +269,16 @@
     "sizeRange": "<p><strong>Size Range</strong></p><p>Shredded wood pieces, typically 1”–3”</p>",
     "durability": "<p><strong>Durability</strong></p><p>Long-lasting color compared to natural mulches; will gradually fade over time and require refreshing</p>"
   },
-  "blue-moon": {
-    "coverage": "<p><strong>Coverage</strong></p><p>Sold by the ton or selected by individual piece • Sizes and weights vary by boulder • Coverage depends on spacing and landscape design</p>",
-    "color": "<p><strong>Color Range</strong></p><p>Blue-Gray • Charcoal Gray • Slate Blue • Natural Weathered Stone Tones</p>",
-    "bestUses": "<p><strong>Best Uses</strong></p><p>Landscape Focal Points • Dry Creek Beds • Water Features • Natural Boulder Groupings • Modern &amp; Rustic Landscape Designs</p>",
-    "installationTips": "<p><strong>Installation Tips</strong></p><p>Use machinery for safe placement • Partially bury base for a natural appearance • Position to highlight natural texture and color variation</p>",
-    "stoneType": "<p><strong>Stone Type</strong></p><p>Granite Boulder</p>",
-    "weight": "<p><strong>Weight</strong></p><p>Varies by piece • hundreds of pounds to several tons</p>",
-    "sizeRange": "<p><strong>Size Range</strong></p><p>1–5 ft landscape boulders</p>"
-  },
+"bluestone": {
+  "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–120 sq ft per ton depending on thickness and spacing</p>",
+  "color": "<p><strong>Color Range</strong></p><p>Blue-Gray • Cool Tones • Subtle Charcoal Variation • Natural Earthy Undertones</p>",
+  "bestUses": "<p><strong>Best Uses</strong></p><p>Patios • Walkways • Stepping Stones • Outdoor Living Areas • Garden Paths • Modern Landscapes</p>",
+  "installationTips": "<p><strong>Installation Tips</strong></p><p>Install on compacted base or decomposed granite; can also be dry-laid or mortared depending on application. Allow spacing for a natural look or tight joints for a more formal finish.</p>",
+  "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Flagstone</p>",
+  "weight": "<p><strong>Weight</strong></p><p>Sold by the ton; approx. 1.5–2 tons per pallet depending on thickness</p>",
+  "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular pieces, typically 1”–2” thick (varies by pallet)</p>",
+  "durability": "<p><strong>Durability</strong></p><p>Highly durable, weather-resistant, and suitable for long-term outdoor use</p>"
+},
   "bluestone": {
     "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–120 sq ft per ton depending on thickness and spacing</p>",
     "color": "<p><strong>Color Range</strong></p><p>Blue-Gray • Cool Tones • Subtle Charcoal Variation • Natural Earthy Undertones</p>",
