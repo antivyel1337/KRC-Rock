@@ -666,40 +666,40 @@
   {
     "name": "Amended Top Soil",
     "category": "Soil, Sand & Bark",
-    "thumb": "",
-    "pdf": "krc-rock-amended-topsoil-spec-sheet.pdf",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Topsoil.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-amended-topsoil-spec-sheet.pdf",
     "type": "Spec Sheet (PDF)",
     "slug": "amended-top-soil"
   },
   {
     "name": "Forest Floor Mulch",
     "category": "Soil, Sand & Bark",
-    "thumb": "",
-    "pdf": "krc-rock-forest-floor-mulch-spec-sheet.pdf",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Forest+Floor+Mulch.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-forest-floor-mulch-spec-sheet-9605dcd0.pdf",
     "type": "Spec Sheet (PDF)",
     "slug": "forest-floor-mulch"
   },
   {
     "name": "Gorilla Hair",
     "category": "Soil, Sand & Bark",
-    "thumb": "",
-    "pdf": "krc-rock-gorilla-hair-spec-sheet.pdf",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Gorilla+Hair.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-gorilla-hair-spec-sheet.pdf",
     "type": "Spec Sheet (PDF)",
     "slug": "gorilla-hair"
   },
   {
     "name": "Medium Decorative Bark",
     "category": "Soil, Sand & Bark",
-    "thumb": "",
-    "pdf": "krc-rock-medium-decorative-bark-spec-sheet.pdf",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Medium+Bark.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-medium-decorative-bark-spec-sheet.pdf",
     "type": "Spec Sheet (PDF)",
     "slug": "medium-decorative-bark"
   },
   {
     "name": "Shredded Bark",
     "category": "Soil, Sand & Bark",
-    "thumb": "",
-    "pdf": "krc-rock-shredded-bark-spec-sheet.pdf",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Shredded+Bark.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-shredded-bark-spec-sheet.pdf",
     "type": "Spec Sheet (PDF)",
     "slug": "shredded-bark"
   }
