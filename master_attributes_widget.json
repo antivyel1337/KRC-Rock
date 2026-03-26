@@ -278,6 +278,16 @@
     "weight": "<p><strong>Weight</strong></p><p>Varies by piece • hundreds of pounds to several tons</p>",
     "sizeRange": "<p><strong>Size Range</strong></p><p>1–5 ft landscape boulders</p>"
   },
+  "bluestone": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–120 sq ft per ton depending on thickness and spacing</p>",
+    "color": "<p><strong>Color Range</strong></p><p>Blue-Gray • Cool Tones • Subtle Charcoal Variation • Natural Earthy Undertones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios • Walkways • Stepping Stones • Outdoor Living Areas • Garden Paths • Modern Landscapes</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install on compacted base or decomposed granite; can also be dry-laid or mortared depending on application. Allow spacing for a natural look or tight joints for a more formal finish.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Flagstone</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Sold by the ton; approx. 1.5–2 tons per pallet depending on thickness</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Irregular pieces, typically 1”–2” thick (varies by pallet)</p>"
+    "durability": "<p><strong>Durability</strong></p><p>Highly durable, weather-resistant, and suitable for long-term outdoor use</p>"
+  },
   "brown-dye-mulch": {
     "coverage": "<p><strong>Coverage</strong></p><p>Approximately 90–110 sq ft per cubic yard depending on depth</p>",
     "color": "<p><strong>Color</strong></p><p>Deep brown with rich, consistent color and subtle natural tones</p>",
