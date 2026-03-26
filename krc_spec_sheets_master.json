@@ -1,0 +1,706 @@
+[
+  {
+    "name": "Baja Grey",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Baja+Gray+6-a4dd08d7.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Baja Grey.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "baja-grey"
+  },
+  {
+    "name": "Baja Grey Rubble",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Baja+Gray+Rubble-3926f303.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Baja Grey Rubble.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "baja-grey-rubble"
+  },
+  {
+    "name": "Baja Red",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Baja+Red+10.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Baja Red.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "baja-red"
+  },
+  {
+    "name": "Blue Moon",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Blue+Moon+1.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Blue Moon.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "blue-moon"
+  },
+  {
+    "name": "Butte Moss",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Montana+Moss+2.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Butte Moss.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "butte-moss"
+  },
+  {
+    "name": "Cal Gold Boulder",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/California+Gold+Boulder+2-8b2e5e42.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Cal Gold Boulder.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "cal-gold-boulder"
+  },
+  {
+    "name": "Copper Canyon Boulder",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Copper+Canyon+Boulder.png",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Copper Canyon Boulder.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "copper-canyon-boulder"
+  },
+  {
+    "name": "Desert Gold Boulder",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Desert+Gold+Boulder.png",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Desert Gold Boulder.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "desert-gold-boulder"
+  },
+  {
+    "name": "Desert Marble",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Desert+Marble+1-688d5946.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Desert Marble.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "desert-marble"
+  },
+  {
+    "name": "Desert Select",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Desert+Select+3.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Desert Select.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "desert-select"
+  },
+  {
+    "name": "Featherock",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Feather+Rock+1.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Featherrock.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "featherock"
+  },
+  {
+    "name": "Glacier Turquoise",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Glacier+Turquoise+Boulder+6.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Glacier Turquoise.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "glacier-turquoise"
+  },
+  {
+    "name": "Honey Onyx",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Honey+Onyx+1.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Honey Onyx.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "honey-onyx"
+  },
+  {
+    "name": "Honey Quartz",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Honey+Quartz+Boulder+3.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Honey Quartz.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "honey-quartz"
+  },
+  {
+    "name": "Honey Quartz Rubble",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Honey+Quartz+Rubble+1-8d20a83a.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Honey Quartz Rubble.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "honey-quartz-rubble"
+  },
+  {
+    "name": "Lava Pot Rock",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Lava+Pot+Rock+3.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Lava Pot Rock.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "lava-pot-rock"
+  },
+  {
+    "name": "Napa Canyon",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Napa+Canyon+3.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Napa Canyon.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "napa-canyon"
+  },
+  {
+    "name": "Sunrise",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Sunrise+4.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Sunrise.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "sunrise"
+  },
+  {
+    "name": "Twin Oaks",
+    "category": "Boulders",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Twin+Oaks+5.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Twin Oaks.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "twin-oaks"
+  },
+  {
+    "name": "Arizona River Rock",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Arizona+River+Rock1.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-arizona-river-rock-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "arizona-river-rock"
+  },
+  {
+    "name": "Beach Pebble Black",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Beach+Pebble+Black+2.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-beach-pebble-black-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "beach-pebble-black"
+  },
+  {
+    "name": "Beach Pebble Buff",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Beach+Pebble+Buff+2.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-beach-pebble-buff-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "beach-pebble-buff"
+  },
+  {
+    "name": "Beach Pebble Buttons Black",
+    "category": "Cobble & Pebble",
+    "thumb": "",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-beach-pebble-buttons-black-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "beach-pebble-buttons-black"
+  },
+  {
+    "name": "Beach Pebble Buttons Mix",
+    "category": "Cobble & Pebble",
+    "thumb": "",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-beach-pebble-buttons-mix-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "beach-pebble-buttons-mix"
+  },
+  {
+    "name": "Beach Pebble La Paz",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/La+Paz+4.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-beach-pebble-la-paz-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "beach-pebble-la-paz"
+  },
+  {
+    "name": "Beach Pebble Mix",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Beach+Pebble+Mix+2-b63666e7.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-beach-pebble-mix-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "beach-pebble-mix"
+  },
+  {
+    "name": "Beach Pebble Red",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Beach+Pebble+Red+2.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-beach-pebble-red-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "beach-pebble-red"
+  },
+  {
+    "name": "Birdseye Brown",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Birdseye+Brown+1.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-birdseye-brown-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "birdseye-brown"
+  },
+  {
+    "name": "Decco Rio",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Decco+Rio.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-decco-rio-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "decco-rio"
+  },
+  {
+    "name": "Del Rio",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Del+Rio+2.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-del-rio-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "del-rio"
+  },
+  {
+    "name": "Del Rio 3/8",
+    "category": "Cobble & Pebble",
+    "thumb": "",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-del-rio-3-8-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "del-rio-3-8"
+  },
+  {
+    "name": "Mexican Sunburst",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Mexican+Sunburst+2.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-mexican-sunburst-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "mexican-sunburst"
+  },
+  {
+    "name": "Mini Black Pearl",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Mini+Black+Pearl.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-mini-black-pearl-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "mini-black-pearl"
+  },
+  {
+    "name": "Mini White Criva",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/White+Criva.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-mini-white-criva-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "mini-white-criva"
+  },
+  {
+    "name": "Mission Mountain",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Mission+Mountain+4.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-mission-mountain-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "mission-mountain"
+  },
+  {
+    "name": "Rainbow Pebble",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Rainbow+2.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-rainbow-pebble-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "rainbow-pebble"
+  },
+  {
+    "name": "Robins Eggs",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Robins+Egg+2.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-robins-eggs-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "robins-eggs"
+  },
+  {
+    "name": "Salmon Bay",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Salmon+Bay+1.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-salmon-bay-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "salmon-bay"
+  },
+  {
+    "name": "Salt & Pepper",
+    "category": "Cobble & Pebble",
+    "thumb": "",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-salt-pepper-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "salt-pepper"
+  },
+  {
+    "name": "San Joaquin Tan",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/San+Joaquin+Tan+2.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-san-joaquin-tan-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "san-joaquin-tan"
+  },
+  {
+    "name": "Sierra Cobble",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Sierra+Cobble.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-sierra-cobble-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "sierra-cobble"
+  },
+  {
+    "name": "Sonora Shine",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Sonora+Shine+1.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-sonora-shine-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "sonora-shine"
+  },
+  {
+    "name": "Sunburst Pebble",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Sunburst+Pebble+1.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-sunburst-pebble-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "sunburst-pebble"
+  },
+  {
+    "name": "Tan Cobble",
+    "category": "Cobble & Pebble",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Tan+Cobble+1.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-tan-cobble-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "tan-cobble"
+  },
+  {
+    "name": "Amber Cloud",
+    "category": "Crushed Rock",
+    "thumb": "",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-amber-cloud-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "amber-cloud"
+  },
+  {
+    "name": "Apache Brown",
+    "category": "Crushed Rock",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Apache_Brown.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-apache-brown-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "apache-brown"
+  },
+  {
+    "name": "Arizona Coral",
+    "category": "Crushed Rock",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Arizona_Coral.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-arizona-coral-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "arizona-coral"
+  },
+  {
+    "name": "Aztec Red",
+    "category": "Crushed Rock",
+    "thumb": "",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-aztec-red-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "aztec-red"
+  },
+  {
+    "name": "Barkwood",
+    "category": "Crushed Rock",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Barkwood-d5fab7c2.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-barkwood-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "barkwood"
+  },
+  {
+    "name": "Basalt",
+    "category": "Crushed Rock",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Basalt.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-basalt-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "basalt"
+  },
+  {
+    "name": "Black Cinder",
+    "category": "Crushed Rock",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Black_Cinder.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-black-cinder-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "black-cinder"
+  },
+  {
+    "name": "Burgundy",
+    "category": "Crushed Rock",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Burgundy.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-burgundy-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "burgundy"
+  },
+  {
+    "name": "California Gold",
+    "category": "Crushed Rock",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/California_Gold_1.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-california-gold-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "california-gold"
+  },
+  {
+    "name": "Carroll Canyon",
+    "category": "Crushed Rock",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Carroll_Canyon.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-carroll-canyon-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "carroll-canyon"
+  },
+  {
+    "name": "Class II Road Base Recycled",
+    "category": "Crushed Rock",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Road+Base.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-class-ii-road-base-recycled-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "class-ii-road-base-recycled"
+  },
+  {
+    "name": "Baja Brown DG",
+    "category": "Decomposed Granite",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Baja+Brown+DG.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-baja-brown-dg-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "baja-brown-dg"
+  },
+  {
+    "name": "Campo Gold",
+    "category": "Decomposed Granite",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Campo+Gold+DG.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-campo-gold-dg-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "campo-gold"
+  },
+  {
+    "name": "Coyote Gold DG",
+    "category": "Decomposed Granite",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Coyote+Gold+DG.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-coyote-gold-dg-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "coyote-gold-dg"
+  },
+  {
+    "name": "Desert Gold DG",
+    "category": "Decomposed Granite",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Desert+Gold+DG-afc5d5f2.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-desert-gold-dg-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "desert-gold-dg"
+  },
+  {
+    "name": "Palm Springs Gold DG",
+    "category": "Decomposed Granite",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Palm+Springs+Gold+DG.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-palm-springs-gold-dg-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "palm-springs-gold-dg"
+  },
+  {
+    "name": "Paradise Gold DG",
+    "category": "Decomposed Granite",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Paradise+Gold+DG.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-paradise-gold-dg-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "paradise-gold-dg"
+  },
+  {
+    "name": "Pewter Gray DG",
+    "category": "Decomposed Granite",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Pewter+Gray+DG.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-pewter-gray-dg-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "pewter-gray-dg"
+  },
+  {
+    "name": "White Ice DG",
+    "category": "Decomposed Granite",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/White+Ice+DG.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-white-ice-dg-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "white-ice-dg"
+  },
+  {
+    "name": "Arizona Buckskin",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Arizona+Buckskin+3-0c94a4c8.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-arizona-buckskin-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "arizona-buckskin"
+  },
+  {
+    "name": "Arizona Chocolate",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Arizona+Chocolate+3.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-arizona-chocolate-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "arizona-chocolate"
+  },
+  {
+    "name": "Arizona Classic Oak",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Arizona+Classic+Oak+3.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-arizona-classic-oak-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "arizona-classic-oak"
+  },
+  {
+    "name": "Arizona Rosa",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Arizona+Rosa+3.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-arizona-rosa-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "arizona-rosa"
+  },
+  {
+    "name": "Arizona Sedona Red",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Arizona+Sedona+Red+1.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-arizona-sedona-red-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "arizona-sedona-red"
+  },
+  {
+    "name": "Autumn Gold",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Autumn+Gold+3.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-autumn-gold-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "autumn-gold"
+  },
+  {
+    "name": "Bighorn Creek",
+    "category": "Flagstone",
+    "thumb": "",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-bighorn-creek-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "bighorn-creek"
+  },
+  {
+    "name": "Bluestone Blue",
+    "category": "Flagstone",
+    "thumb": "",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-bluestone-blue-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "bluestone-blue"
+  },
+  {
+    "name": "Bluestone Full Color",
+    "category": "Flagstone",
+    "thumb": "",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-bluestone-full-color-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "bluestone-full-color"
+  },
+  {
+    "name": "Cameron Brown",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Cameron+5.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-cameron-brown-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "cameron-brown"
+  },
+  {
+    "name": "Castle Ridge",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Castle+Ridge+3.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-castle-ridge-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "castle-ridge"
+  },
+  {
+    "name": "Cherokee Charcoal",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Cherokee+Charcoal+2.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-cherokee-charcoal-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "cherokee-charcoal"
+  },
+  {
+    "name": "Cordova Platinum",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Cordova+Platinum+8.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-cordova-platinum-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "cordova-platinum"
+  },
+  {
+    "name": "Earthtone",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Earthtone+3.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-earthtone-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "earthtone"
+  },
+  {
+    "name": "Platinum Gold",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Platinum+Gold+5.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-platinum-gold-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "platinum-gold"
+  },
+  {
+    "name": "Quartz Silver",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Quartz+Silver+2.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-quartz-silver-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "quartz-silver"
+  },
+  {
+    "name": "Red Mountain",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Red+Mountain+2.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-red-mountain-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "red-mountain"
+  },
+  {
+    "name": "Red Sockeye",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Red+Sockeye+11.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-red-sockeye-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "red-sockeye"
+  },
+  {
+    "name": "Sunset Gold",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Sunset+Gold+6.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-sunset-gold-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "sunset-gold"
+  },
+  {
+    "name": "Whiskey Ridge",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Whiskey+Ridge+10.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-whiskey-ridge-flagstone-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "whiskey-ridge"
+  },
+  {
+    "name": "Amended Top Soil",
+    "category": "Soil, Sand & Bark",
+    "thumb": "",
+    "pdf": "krc-rock-amended-topsoil-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "amended-top-soil"
+  },
+  {
+    "name": "Forest Floor Mulch",
+    "category": "Soil, Sand & Bark",
+    "thumb": "",
+    "pdf": "krc-rock-forest-floor-mulch-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "forest-floor-mulch"
+  },
+  {
+    "name": "Gorilla Hair",
+    "category": "Soil, Sand & Bark",
+    "thumb": "",
+    "pdf": "krc-rock-gorilla-hair-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "gorilla-hair"
+  },
+  {
+    "name": "Medium Decorative Bark",
+    "category": "Soil, Sand & Bark",
+    "thumb": "",
+    "pdf": "krc-rock-medium-decorative-bark-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "medium-decorative-bark"
+  },
+  {
+    "name": "Shredded Bark",
+    "category": "Soil, Sand & Bark",
+    "thumb": "",
+    "pdf": "krc-rock-shredded-bark-spec-sheet.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "shredded-bark"
+  }
+]
