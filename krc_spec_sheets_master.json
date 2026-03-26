@@ -376,14 +376,6 @@
     "slug": "arizona-coral"
   },
   {
-    "name": "Aztec Red",
-    "category": "Crushed Rock",
-    "thumb": "",
-    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-aztec-red-spec-sheet.pdf",
-    "type": "Spec Sheet (PDF)",
-    "slug": "aztec-red"
-  },
-  {
     "name": "Barkwood",
     "category": "Crushed Rock",
     "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Barkwood-d5fab7c2.jpg",
@@ -554,7 +546,7 @@
   {
     "name": "Bighorn Creek",
     "category": "Flagstone",
-    "thumb": "",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Big+Horn+4.jpg",
     "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-bighorn-creek-flagstone-spec-sheet.pdf",
     "type": "Spec Sheet (PDF)",
     "slug": "bighorn-creek"
@@ -562,7 +554,7 @@
   {
     "name": "Bluestone Blue",
     "category": "Flagstone",
-    "thumb": "",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Bluestone+1.png",
     "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-bluestone-blue-flagstone-spec-sheet.pdf",
     "type": "Spec Sheet (PDF)",
     "slug": "bluestone-blue"
