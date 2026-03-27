@@ -2267,28 +2267,6 @@
       "bestFor": ""
     },
     {
-      "id": "honey-quartz",
-      "name": "Honey Quartz",
-      "category": "Crushed Decorative Rock",
-      "subcategory": "",
-      "price": 0.0,
-      "wasPrice": null,
-      "unit": "per 3/4\"",
-      "sku": "nan",
-      "rating": null,
-      "reviews": null,
-      "stock": "in",
-      "delivery": true,
-      "pickup": true,
-      "isNew": false,
-      "isSale": false,
-      "featuredRank": null,
-      "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Honey+Quartz.jpg",
-      "url": "https://krc-rock-5.dudasites.com/product/honey-quartz",
-      "shortDesc": "Hard quartz-based decorative stone offering long-lasting color and excellent durability.",
-      "bestFor": ""
-    },
-    {
       "id": "honey-quartz-boulder",
       "name": "Honey Quartz Boulder",
       "category": "Boulders",
