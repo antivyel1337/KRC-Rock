@@ -3257,6 +3257,28 @@
       "bestFor": ""
     },
     {
+  "id": "se-30-sand",
+  "name": "SE-30 Sand",
+  "category": "Construction Materials",
+  "subcategory": "",
+  "price": 0.0,
+  "wasPrice": null,
+  "unit": "per ton",
+  "sku": "nan",
+  "rating": null,
+  "reviews": null,
+  "stock": "in",
+  "delivery": true,
+  "pickup": true,
+  "isNew": false,
+  "isSale": false,
+  "featuredRank": null,
+  "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/SE-30+Sand.jpeg",
+  "url": "https://krc-rock-5.dudasites.com/product/se-30-sand",
+  "shortDesc": "Compacting construction sand ideal for base prep, trench backfill, and general building applications.",
+  "bestFor": "Base material • Paver prep • Trenching • Utility backfill • Construction use"
+   },
+    {
       "id": "shredded-bark",
       "name": "Shredded Bark",
       "category": "Soils & Bark",
