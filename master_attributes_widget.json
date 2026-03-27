@@ -1438,6 +1438,16 @@
     "sizeRange": "<p><strong>Size Range</strong></p><p>Mixed shredded pieces, typically 1”–3” with some finer material</p>",
     "durability": "<p><strong>Durability</strong></p><p>Breaks down over time to enrich soil; holds in place better than loose bark but may need periodic refreshing</p>"
   },
+  "se-30-sand": {
+  "color": "<p><strong>Color</strong></p><p>Natural brown tones with subtle variation</p>",
+  "bestUses": "<p><strong>Best Uses</strong></p><p>Base material • Trench backfill • Paver base prep • Utility work • General construction applications</p>",
+  "coverage": "<p><strong>Coverage</strong></p><p>Approximately 100–120 sq ft per cubic yard at 2–3” depth (varies by compaction)</p>",
+  "installationTips": "<p><strong>Installation Tips</strong></p><p>Spread evenly and compact thoroughly for a stable base; can be used under pavers or as fill material</p>",
+  "stoneType": "<p><strong>Stone Type</strong></p><p>Screened Construction Sand</p>",
+  "sizeRange": "<p><strong>Size Range</strong></p><p>Fine sand with small aggregate particles</p>",
+  "weight": "<p><strong>Weight</strong></p><p>Sold by the cubic yard; approx. 1.2–1.5 tons per cubic yard depending on moisture</p>",
+  "durability": "<p><strong>Durability</strong></p><p>Compacts well for a stable base and long-term structural support</p>"
+ },
   "sierra-cobble": {
     "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–120 sq ft per cubic yard depending on depth and stone size</p>",
     "color": "<p><strong>Color</strong></p><p>Blend of gray, taupe, brown, and subtle earth tones with natural variation</p>",
