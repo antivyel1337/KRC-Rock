@@ -361,13 +361,45 @@
   },
   {
     "name": "Class II Road Base Recycled",
-    "category": "Construction Rock",
-    "thumb": "",
+    "category": "Construction Rock & Sand",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Road+Base.jpg",
     "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-class-ii-road-base-recycled-spec-sheet.pdf",
     "type": "Spec Sheet (PDF)",
     "slug": "class-ii-road-base-recycled"
   },
   {
+  "name": "C-Mix",
+  "category": "Construction Rock",
+  "thumb": "",
+  "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/C-Mix.pdf",
+  "type": "Spec Sheet (PDF)",
+  "slug": "c-mix"
+},
+{
+  "name": "Masonry Washed Plaster Sand",
+  "category": "Construction Rock",
+  "thumb": "",
+  "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Masonry Washed Plaster Sand.pdf",
+  "type": "Spec Sheet (PDF)",
+  "slug": "masonry-washed-plaster-sand"
+},
+{
+  "name": "Playground Sand",
+  "category": "Construction Rock",
+  "thumb": "",
+  "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Playground Sand.pdf",
+  "type": "Spec Sheet (PDF)",
+  "slug": "playground-sand"
+},
+{
+  "name": "Concrete Sand",
+  "category": "Construction Rock",
+  "thumb": "",
+  "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Concrete Sand.pdf",
+  "type": "Spec Sheet (PDF)",
+  "slug": "concrete-sand"
+},
+{
     "name": "Amber Cloud",
     "category": "Crushed Rock",
     "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Honey+Quartz.jpg",
@@ -769,7 +801,7 @@
   },
   {
     "name": "Amended Top Soil",
-    "category": "Soil, Sand & Bark",
+    "category": "Soil & Bark",
     "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Topsoil.jpg",
     "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-amended-topsoil-spec-sheet.pdf",
     "type": "Spec Sheet (PDF)",
@@ -777,7 +809,7 @@
   },
   {
     "name": "Forest Floor Mulch",
-    "category": "Soil, Sand & Bark",
+    "category": "Soil & Bark",
     "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Forest+Floor+Mulch.jpg",
     "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-forest-floor-mulch-spec-sheet-9605dcd0.pdf",
     "type": "Spec Sheet (PDF)",
@@ -785,7 +817,7 @@
   },
   {
     "name": "Gorilla Hair",
-    "category": "Soil, Sand & Bark",
+    "category": "Soil & Bark",
     "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Gorilla+Hair.jpg",
     "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-gorilla-hair-spec-sheet.pdf",
     "type": "Spec Sheet (PDF)",
@@ -793,7 +825,7 @@
   },
   {
     "name": "Medium Decorative Bark",
-    "category": "Soil, Sand & Bark",
+    "category": "Soil & Bark",
     "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Medium+Bark.jpg",
     "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-medium-decorative-bark-spec-sheet.pdf",
     "type": "Spec Sheet (PDF)",
@@ -801,7 +833,7 @@
   },
   {
     "name": "Shredded Bark",
-    "category": "Soil, Sand & Bark",
+    "category": "Soil & Bark",
     "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Shredded+Bark.jpg",
     "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-shredded-bark-spec-sheet.pdf",
     "type": "Spec Sheet (PDF)",
