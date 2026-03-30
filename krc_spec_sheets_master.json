@@ -403,7 +403,7 @@
   "name": "SE-30 Sand",
   "category": "Construction Rock & Sand",
   "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/SE-30+Sand.jpeg",
-  "pdf": "",
+  "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/SE-30+Sand.pdf",
   "type": "Spec Sheet (PDF)",
   "slug": "se-30-sand"
 },
@@ -550,6 +550,14 @@
     "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-gray-granite-spec-sheet.pdf",
     "type": "Spec Sheet (PDF)",
     "slug": "gray-granite"
+  },
+  {
+    "name": "Honey Quartz Gravel",
+    "category": "Crushed Rock",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Honey_Quartz_Gravel.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Honey+Quartz+Gravel.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "honey-quartz-gravel"
   },
   {
     "name": "Imperial Gray",
