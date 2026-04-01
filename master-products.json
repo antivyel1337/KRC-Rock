@@ -3742,7 +3742,7 @@
   "bestFor": "",
   "tags": "architectural cut stone, indiana"
 },
-        {
+{
   "id": "briarcliff",
   "name": "Briarcliff",
   "category": "Architectural Cut Stone",
@@ -3763,9 +3763,32 @@
   "url": "https://krc-rock-5.dudasites.com/briarcliff",
   "shortDesc": "",
   "bestFor": "",
-  "tags": "architectural cut stone, indiana"
+  "tags": "architectural cut stone, briar"
 },
     {
+  "id": "solterra",
+  "name": "Solterra",
+  "category": "Architectural Cut Stone",
+  "subcategory": "",
+  "price": 0.0,
+  "wasPrice": null,
+  "unit": "per Select Thin",
+  "sku": "nan",
+  "rating": null,
+  "reviews": null,
+  "stock": "in",
+  "delivery": true,
+  "pickup": true,
+  "isNew": false,
+  "isSale": false,
+  "featuredRank": null,
+  "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Solterra-Granite-Honed-4x4-1.jpg",
+  "url": "https://krc-rock-5.dudasites.com/solterra",
+  "shortDesc": "",
+  "bestFor": "",
+  "tags": "architectural cut stone, solterra"
+},
+{
       "id": "yellowstone-veneer",
       "name": "Yellowstone Veneer",
       "category": "Stone Veneer",
