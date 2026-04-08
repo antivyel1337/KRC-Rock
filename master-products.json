@@ -4456,6 +4456,29 @@
     "bestFor": "",
     "tags": "stone furniture, slab 6"
   },
+      {
+    "id": "fire-pit-1",
+    "name": "Fire Pit 1",
+    "category": "Stone Furniture",
+    "subcategory": "",
+    "price": 0.0,
+    "wasPrice": null,
+    "unit": "",
+    "sku": "nan",
+    "rating": null,
+    "reviews": null,
+    "stock": "in",
+    "delivery": true,
+    "pickup": true,
+    "isNew": false,
+    "isSale": false,
+    "featuredRank": null,
+    "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/02c7b6bc0ea8c97db89817fa3e6e7a20a6656c0865ba636c5f939e2877435ea6.png",
+    "url": "https://krc-rock-5.dudasites.com/product/fire-pit-1",
+    "shortDesc": "",
+    "bestFor": "",
+    "tags": "stone furniture, fire pit 1"
+  },
 
 {
       "id": "yellowstone-veneer",
