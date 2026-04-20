@@ -1615,7 +1615,13 @@
     "weight": "<p><strong>Weight</strong></p><p>Approximately 16–20 lbs per piece (12”x24” 3CM) • 25–35 lbs per piece (12”x24” 5CM) • Heavier for 16”x24” formats</p>",
     "sizeRange": "<p><strong>Size Range</strong></p><p>12” x 24” • 16” x 24” • Available in 3CM and 5CM thickness</p>",
     "durability": "<p><strong>Durability</strong></p><p>Durable • Weather resistant • Suitable for exterior use • Ideal for high-end modern applications</p>"
-  },
+    },
+  "1-2-starfire-reflective-fire-glass": {
+  "stoneType": "<p><strong>Stone Type</strong></p><p>Tempered Reflective Fire Glass</p>",
+  "weight": "<p><strong>Weight</strong></p><p>Sold by the pound or bag depending on selection</p>",
+  "sizeRange": "<p><strong>Size Range</strong></p><p>1/2\" fire glass</p>",
+  "durability": "<p><strong>Durability</strong></p><p>Heat-resistant • Fade-proof • Designed for long-term outdoor use</p>"
+}
   "yellowstone-veneer": {
     "coverage": "<p><strong>Coverage</strong></p><p>Coverage based upon a 1/2” mortar joint. Approximately 13–15 lbs per square foot.</p>",
     "color": "<p><strong>Color</strong></p><p>Greens, bronze, browns, blues, tans, and slate grays with subtle sedimentary striations</p>",
