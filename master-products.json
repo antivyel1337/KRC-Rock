@@ -4319,8 +4319,8 @@
     "tags": "stone furniture, bench 2"
   },
   {
-    "id": "slab",
-    "name": "Slab",
+    "id": "chiseled-stone-block-seat",
+    "name": "Chiseled Stone Block Seat",
     "category": "Stone Furniture",
     "subcategory": "",
     "price": 0.0,
@@ -4336,10 +4336,10 @@
     "isSale": false,
     "featuredRank": null,
     "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/068828CD-1927-4B79-9E0D-F42CB3E790CD.png",
-    "url": "https://krc-rock-5.dudasites.com/product/slab",
+    "url": "https://krc-rock-5.dudasites.com/product/chiseled-stone-block-seat",
     "shortDesc": "",
     "bestFor": "",
-    "tags": "stone furniture, slab"
+    "tags": "stone furniture, Chiseled Stone Block Seat"
   },
   {
     "id": "slab-2",
