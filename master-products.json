@@ -4342,8 +4342,8 @@
     "tags": "stone furniture, Chiseled Stone Block Seat"
   },
   {
-    "id": "slab-2",
-    "name": "Slab 2",
+    "id": "natural-edge-sandstone-slab",
+    "name": "Natural Edge Sandstone Slab",
     "category": "Stone Furniture",
     "subcategory": "",
     "price": 0.0,
@@ -4359,14 +4359,14 @@
     "isSale": false,
     "featuredRank": null,
     "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/image5.png",
-    "url": "https://krc-rock-5.dudasites.com/product/slab-2",
+    "url": "https://krc-rock-5.dudasites.com/product/natural-edge-sandstone-slab",
     "shortDesc": "",
     "bestFor": "",
-    "tags": "stone furniture, slab 2"
+    "tags": "stone furniture, Natural Edge Sandstone Slab"
   },
   {
-    "id": "slab-3",
-    "name": "Slab 3",
+    "id": "vein-cut-travertine-block",
+    "name": "Vein Cut Travertine Block",
     "category": "Stone Furniture",
     "subcategory": "",
     "price": 0.0,
@@ -4382,14 +4382,14 @@
     "isSale": false,
     "featuredRank": null,
     "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/image4.png",
-    "url": "https://krc-rock-5.dudasites.com/product/slab-3",
+    "url": "https://krc-rock-5.dudasites.com/product/vein-cut-travertine-block",
     "shortDesc": "",
     "bestFor": "",
-    "tags": "stone furniture, slab 3"
+    "tags": "stone furniture, Vein Cut Travertine Block"
   },
   {
-    "id": "slab-4",
-    "name": "Slab 4",
+    "id": "golden-layered-travertine-slab",
+    "name": "Golden Layered Travertine Slab",
     "category": "Stone Furniture",
     "subcategory": "",
     "price": 0.0,
@@ -4405,37 +4405,14 @@
     "isSale": false,
     "featuredRank": null,
     "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/image3-0651870d.png",
-    "url": "https://krc-rock-5.dudasites.com/product/slab-4",
+    "url": "https://krc-rock-5.dudasites.com/product/golden-layered-travertine-slab",
     "shortDesc": "",
     "bestFor": "",
-    "tags": "stone furniture, slab 4"
-  },
-  {
-    "id": "slab-5",
-    "name": "Slab 5",
-    "category": "Stone Furniture",
-    "subcategory": "",
-    "price": 0.0,
-    "wasPrice": null,
-    "unit": "",
-    "sku": "nan",
-    "rating": null,
-    "reviews": null,
-    "stock": "in",
-    "delivery": true,
-    "pickup": true,
-    "isNew": false,
-    "isSale": false,
-    "featuredRank": null,
-    "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/image2.png",
-    "url": "https://krc-rock-5.dudasites.com/product/slab-5",
-    "shortDesc": "",
-    "bestFor": "",
-    "tags": "stone furniture, slab 5"
+    "tags": "stone furniture, Golden Layered Travertine Slab"
   },
   {
     "id": "slab-6",
-    "name": "Slab 6",
+    "name": " Strata Cut Stone Slab",
     "category": "Stone Furniture",
     "subcategory": "",
     "price": 0.0,
@@ -4454,7 +4431,7 @@
     "url": "https://krc-rock-5.dudasites.com/product/slab-6",
     "shortDesc": "",
     "bestFor": "",
-    "tags": "stone furniture, slab 6"
+    "tags": "stone furniture,  Strata Cut Stone Slab"
   },
      {
     "id": "tiki-path-light",
