@@ -4273,8 +4273,8 @@
   "tags": "architectural cut stone, veridian coast"
 },
   {
-    "id": "earthtone-bench",
-    "name": "Bench",
+    "id": "rustic-granite-bench",
+    "name": "Rustic Granite Bench",
     "category": "Stone Furniture",
     "subcategory": "",
     "price": 0.0,
@@ -4290,14 +4290,14 @@
     "isSale": false,
     "featuredRank": null,
     "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/4611DD21-D5B9-4C09-AAEA-B8A658D51F77.png",
-    "url": "https://krc-rock-5.dudasites.com/product/earthtone-bench",
+    "url": "https://krc-rock-5.dudasites.com/product/rustic-granite-bench",
     "shortDesc": "",
     "bestFor": "",
-    "tags": "stone furniture, bench"
+    "tags": "stone furniture, Rustic Granite Bench"
   },
   {
-    "id": "bench-2",
-    "name": "Bench 2",
+    "id": "weathered-limestone-bench",
+    "name": "Weathered Limestone Bench",
     "category": "Stone Furniture",
     "subcategory": "",
     "price": 0.0,
@@ -4313,10 +4313,10 @@
     "isSale": false,
     "featuredRank": null,
     "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/image6.png",
-    "url": "https://krc-rock-5.dudasites.com/product/bench-2",
+    "url": "https://krc-rock-5.dudasites.com/product/weathered-limestone-bench",
     "shortDesc": "",
     "bestFor": "",
-    "tags": "stone furniture, bench 2"
+    "tags": "stone furniture, Weathered Limestone Bench"
   },
   {
     "id": "chiseled-stone-block-seat",
