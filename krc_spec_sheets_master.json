@@ -720,12 +720,20 @@
     "slug": "bighorn-creek"
   },
   {
-    "name": "Bluestone",
+    "name": "Bluestone Blue",
     "category": "Flagstone",
-    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Bluestone+1.png",
-    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/krc-rock-bluestone-blue-flagstone-spec-sheet.pdf",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Bluestone+2.png",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Bluestone+Blue+Blue.pdf",
     "type": "Spec Sheet (PDF)",
     "slug": "bluestone-blue"
+  },
+  {
+    "name": "Bluestone Full Color",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Bluestone+5.png",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Bluestone+Full+Color.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "bluestone-blue-full"
   },
   {
     "name": "Cameron Brown",
