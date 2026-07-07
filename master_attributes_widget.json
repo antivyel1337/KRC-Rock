@@ -1631,6 +1631,25 @@
     "weight": "<p><strong>Pallet Weight</strong></p><p>Veneer pallets weigh approximately 2,600 – 3,000 lbs. Corner pallets weigh approximately 1,600 – 1,800 lbs.</p>",
     "sizeRange": "<p><strong>Size Range</strong></p><p>Thickness, 1” – 1.5”</p><p>Height, 2” – 12”+</p><p>Length, 3” – 36”</p>"
   },
+  "antalya-cream-marble": {
+
+  "coverage": "<p><strong>Coverage</strong></p><p>Sold by individual pieces or pallet; coverage varies depending on the selected size and installation pattern.</p>",
+
+  "color": "<p><strong>Color</strong></p><p>Soft cream, ivory, and light beige with subtle natural marble variation.</p>",
+
+  "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, pool decks, walkways, courtyards, outdoor kitchens, garden paths, entryways, and luxury outdoor living spaces.</p>",
+
+  "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared compacted base with recommended joint spacing. Suitable for sand-set or mortar-set installations depending on project requirements. Seal after installation for long-term protection.</p>",
+
+  "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Marble</p>",
+
+  "weight": "<p><strong>Weight</strong></p><p>Varies by size and thickness; approximately 6–8 lbs per sq ft.</p>",
+
+  "sizeRange": "<p><strong>Size Range</strong></p><p>Available in multiple modular sizes including French Pattern and large format pavers.</p>",
+
+  "durability": "<p><strong>Durability</strong></p><p>Dense natural marble with excellent longevity, weather resistance, and lasting beauty when properly installed and maintained.</p>"
+
+},
     "ferrara-series": {
 
     "coverage": "<p><strong>Coverage</strong></p><p>Coverage based upon a 1/2” mortar joint. Approximately 13–15 lbs per square foot.</p>",
@@ -1738,5 +1757,6 @@
     "sizeRange": "<p><strong>Size Range</strong></p><p>Thickness, 1” – 1 1/2”</p><p>Height, 2” – 7”+</p><p>Length, 6” – 16”+</p>"
 
   }
+  
 
 }
