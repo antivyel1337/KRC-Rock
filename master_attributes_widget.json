@@ -1725,6 +1725,57 @@
   "sizeRange": "<p><strong>Size Range</strong></p><p>Available in French Pattern, 12x12, and Roman Pattern layouts.</p>",
   "durability": "<p><strong>Durability</strong></p><p>Premium natural travertine providing excellent weather resistance, durability, and timeless character.</p>"
 },
+  
+  "chocolate-brown": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by individual pieces or pallet; total coverage depends on the selected paver size and installation pattern.</p>",
+    "color": "<p><strong>Color</strong></p><p>Warm brown, mocha, walnut, and tan with natural travertine movement and variation.</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, pool decks, walkways, courtyards, outdoor kitchens, garden paths, and outdoor living spaces.</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared compacted base with consistent joint spacing. Suitable for sand-set or mortar-set applications depending on project requirements. Seal after installation to deepen the color and protect the stone.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Travertine</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by size and thickness; approximately 6–8 lbs per sq ft.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Available in French Pattern, 16x24, and Roman Pattern layouts.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Premium natural travertine with strong weather resistance and dependable long-term outdoor performance.</p>"
+  },
+  "cordoba-cream-paver": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by individual pieces or pallet; total coverage depends on the selected paver size and installation pattern.</p>",
+    "color": "<p><strong>Color</strong></p><p>Soft cream, ivory, and pale beige with gentle natural travertine variation.</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, pool decks, walkways, courtyards, outdoor kitchens, garden paths, entry areas, and luxury outdoor living spaces.</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared compacted base with recommended joint spacing. Suitable for sand-set or mortar-set applications depending on the project. Seal after installation for stain resistance and long-term protection.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Travertine</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by size and thickness; approximately 6–8 lbs per sq ft.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Available in French Pattern, 16x24, and Roman Pattern layouts.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Dense natural travertine with excellent durability, weather resistance, and timeless exterior appeal.</p>"
+  },
+  "desert-sand-paver": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by individual pieces or pallet; total coverage depends on the selected paver size and installation pattern.</p>",
+    "color": "<p><strong>Color</strong></p><p>Ivory, cream, and warm sand tones with subtle natural travertine variation.</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, pool decks, walkways, courtyards, outdoor kitchens, garden paths, and outdoor living spaces.</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared compacted base with consistent joint spacing. Suitable for sand-set or mortar-set applications depending on project requirements. Seal after installation to protect the stone and enhance its warm natural tones.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Travertine</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by size and thickness; approximately 6–8 lbs per sq ft.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Available in French Pattern, 16x24, and Roman Pattern layouts.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Premium natural travertine with excellent durability, weather resistance, and lasting outdoor performance.</p>"
+  },
+  "silver-travertine": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by individual pieces or pallet; coverage varies depending on the selected size and installation pattern.</p>",
+    "color": "<p><strong>Color</strong></p><p>Silver, gray, charcoal, and soft taupe with flowing natural travertine veining.</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, pool decks, walkways, courtyards, outdoor kitchens, garden paths, and luxury outdoor living spaces.</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared compacted base with recommended joint spacing. Suitable for sand-set or mortar-set installations depending on project requirements. Seal after installation to preserve the stone's natural beauty.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Travertine</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by size and thickness; approximately 6–8 lbs per sq ft.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Available in French Pattern, 16x24, and Roman Pattern layouts.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Premium natural travertine offering exceptional durability, weather resistance, and timeless appeal.</p>"
+  },
+  "noce-toros": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Sold by individual pieces or pallet; coverage varies depending on the selected size and installation pattern.</p>",
+    "color": "<p><strong>Color</strong></p><p>Walnut, mocha, and warm earth tones with natural travertine variation.</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, pool decks, walkways, courtyards, outdoor kitchens, garden paths, and outdoor living spaces.</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared compacted base with recommended joint spacing. Suitable for sand-set or mortar-set installations depending on project requirements. Seal after installation to enhance the stone's rich natural tones and provide long-term protection.</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Travertine</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by size and thickness; approximately 6–8 lbs per sq ft.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Available in French Pattern, 12x12, and Roman Pattern layouts.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Premium natural travertine providing excellent weather resistance, durability, and timeless character.</p>"
+  }
     "ferrara-series": {
 
     "coverage": "<p><strong>Coverage</strong></p><p>Coverage based upon a 1/2” mortar joint. Approximately 13–15 lbs per square foot.</p>",
