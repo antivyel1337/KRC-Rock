@@ -1711,6 +1711,60 @@
     "sizeRange": "<p><strong>Size Range</strong></p><p>Available in French Pattern, 12x12, and Roman Pattern layouts.</p>",
     "durability": "<p><strong>Durability</strong></p><p>Premium natural travertine providing excellent weather resistance, durability, and timeless character.</p>"
   },
+  "indian-black": {
+  "coverage": "<p><strong>Coverage</strong></p><p>Sold by individual pieces or pallet; coverage varies depending on the selected size and installation pattern.</p>",
+  "color": "<p><strong>Color</strong></p><p>Deep charcoal, graphite, and rich black tones with subtle natural variation.</p>",
+  "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, pool decks, walkways, courtyards, outdoor kitchens, garden paths, and contemporary outdoor living spaces.</p>",
+  "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared compacted base with recommended joint spacing. Suitable for sand-set or mortar-set installations depending on project requirements. Sealing is recommended to preserve the stone's natural beauty and simplify maintenance.</p>",
+  "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Limestone</p>",
+  "weight": "<p><strong>Weight</strong></p><p>Varies by size.</p>",
+  "sizeRange": "<p><strong>Size Range</strong></p><p>French Pattern, 16x24 (availability varies)</p>",
+  "durability": "<p><strong>Durability</strong></p><p>Excellent</p>"
+},
+
+"indian-bluestone": {
+  "coverage": "<p><strong>Coverage</strong></p><p>Sold by individual pieces or pallet; coverage varies depending on the selected size and installation pattern.</p>",
+  "color": "<p><strong>Color</strong></p><p>Soft blue-gray, silver, and charcoal tones with subtle natural movement.</p>",
+  "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, pool decks, walkways, courtyards, outdoor kitchens, garden paths, and modern outdoor living spaces.</p>",
+  "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared compacted base with recommended joint spacing. Suitable for sand-set or mortar-set installations depending on project requirements. Sealing is recommended to preserve the stone's natural beauty and simplify maintenance.</p>",
+  "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Limestone</p>",
+  "weight": "<p><strong>Weight</strong></p><p>Varies by size.</p>",
+  "sizeRange": "<p><strong>Size Range</strong></p><p>French Pattern, 16x24 (availability varies)</p>",
+  "durability": "<p><strong>Durability</strong></p><p>Excellent</p>"
+},
+
+"tundra-marble-paver": {
+  "coverage": "<p><strong>Coverage</strong></p><p>Sold by individual pieces or pallet; coverage varies depending on the selected size and installation pattern.</p>",
+  "color": "<p><strong>Color</strong></p><p>Light gray, silver, and cool taupe tones with elegant natural marble veining.</p>",
+  "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, pool decks, walkways, courtyards, outdoor kitchens, luxury landscapes, and modern outdoor living spaces.</p>",
+  "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared compacted base with recommended joint spacing. Suitable for sand-set or mortar-set installations depending on project requirements. Sealing is recommended to preserve the marble's natural beauty and simplify maintenance.</p>",
+  "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Marble</p>",
+  "weight": "<p><strong>Weight</strong></p><p>Varies by size.</p>",
+  "sizeRange": "<p><strong>Size Range</strong></p><p>French Pattern, 16x24 (availability varies)</p>",
+  "durability": "<p><strong>Durability</strong></p><p>Excellent</p>"
+},
+
+"verona-marble-paver": {
+  "coverage": "<p><strong>Coverage</strong></p><p>Sold by individual pieces or pallet; coverage varies depending on the selected size and installation pattern.</p>",
+  "color": "<p><strong>Color</strong></p><p>Warm ivory, beige, cream, and soft taupe tones with flowing natural marble veining.</p>",
+  "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, pool decks, walkways, courtyards, outdoor kitchens, luxury landscapes, and elegant outdoor living spaces.</p>",
+  "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared compacted base with recommended joint spacing. Suitable for sand-set or mortar-set installations depending on project requirements. Sealing is recommended to preserve the marble's natural beauty and simplify maintenance.</p>",
+  "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Marble</p>",
+  "weight": "<p><strong>Weight</strong></p><p>Varies by size.</p>",
+  "sizeRange": "<p><strong>Size Range</strong></p><p>French Pattern, 16x24 (availability varies)</p>",
+  "durability": "<p><strong>Durability</strong></p><p>Excellent</p>"
+},
+
+"white-marble-paver": {
+  "coverage": "<p><strong>Coverage</strong></p><p>Sold by individual pieces or pallet; coverage varies depending on the selected size and installation pattern.</p>",
+  "color": "<p><strong>Color</strong></p><p>Crisp white, soft ivory, and light gray tones with subtle natural marble veining.</p>",
+  "bestUses": "<p><strong>Best Uses</strong></p><p>Patios, pool decks, walkways, courtyards, outdoor kitchens, luxury landscapes, and upscale outdoor living spaces.</p>",
+  "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over a properly prepared compacted base with recommended joint spacing. Suitable for sand-set or mortar-set installations depending on project requirements. Sealing is recommended to preserve the marble's natural beauty and simplify maintenance.</p>",
+  "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Marble</p>",
+  "weight": "<p><strong>Weight</strong></p><p>Varies by size.</p>",
+  "sizeRange": "<p><strong>Size Range</strong></p><p>French Pattern, 16x24 (availability varies)</p>",
+  "durability": "<p><strong>Durability</strong></p><p>Excellent</p>"
+}
   "ferrara-series": {
     "coverage": "<p><strong>Coverage</strong></p><p>Coverage based upon a 1/2” mortar joint. Approximately 13–15 lbs per square foot.</p>",
     "color": "<p><strong>Color</strong></p><p>Soft beiges, light grays, and warm neutral tones with subtle natural variation</p>",
