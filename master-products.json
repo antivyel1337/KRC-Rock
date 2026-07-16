@@ -4573,8 +4573,8 @@
     "tags": "stone furniture, Chiseled Stone Block Seat"
   },
   {
-    "id": "natural-edge-sandstone-slab",
-    "name": "Natural Edge Sandstone Slab",
+    "id": "desert-linen-limestone-bench",
+    "name": "Desert Linen Limestone Bench",
     "category": "Stone Furniture",
     "subcategory": "",
     "price": 0.0,
@@ -4590,10 +4590,10 @@
     "isSale": false,
     "featuredRank": null,
     "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/image5.png",
-    "url": "https://krc-rock-5.dudasites.com/product/natural-edge-sandstone-slab",
+    "url": "https://krc-rock-5.dudasites.com/product/desert-linen-limestone-bench",
     "shortDesc": "",
     "bestFor": "",
-    "tags": "stone furniture, Natural Edge Sandstone Slab"
+    "tags": "stone furniture, Desert Linen Limestone Bench"
   },
   {
     "id": "vein-cut-travertine-block",
