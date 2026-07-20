@@ -5652,6 +5652,28 @@
   "shortDesc": "Black Basalt Ledger Panel features deep charcoal-gray coloring and a rugged split-face texture. Its clean horizontal lines and subtle natural variations create a bold, modern stacked-stone appearance for interior and exterior applications.",
   "bestFor": "Fireplaces • Accent Walls • Exterior Facades • Outdoor Kitchens • Columns • Entryways • Water Features"
 },
+    {
+  "id": "black-rockface",
+  "name": "Black Rockface",
+  "category": "Stone Veneer",
+  "subcategory": "Ledger Panels",
+  "price": 1.0,
+  "wasPrice": null,
+  "unit": "per sq ft",
+  "sku": "",
+  "rating": null,
+  "reviews": null,
+  "stock": "in",
+  "delivery": true,
+  "pickup": true,
+  "isNew": false,
+  "isSale": false,
+  "featuredRank": null,
+  "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Black-Rockface-8x18-IMG_5215.jpg",
+  "url": "https://www.krcrock.com/product/black-rockface",
+  "shortDesc": "Black Rockface features deep charcoal and black tones with silver-gray mineral movement and a rugged natural texture. Its varied rectangular pieces create a bold, dimensional stone finish for interior and exterior applications.",
+  "bestFor": "Fireplaces • Accent Walls • Exterior Facades • Outdoor Kitchens • Columns • Entryways • Landscape Walls"
+},
 {
       "id": "yellowstone-veneer",
       "name": "Yellowstone Veneer",
