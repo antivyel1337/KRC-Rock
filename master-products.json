@@ -5630,6 +5630,28 @@
     "bestFor": "Patios, pool decks, walkways, courtyards",
     "tags": "porcelain pavers, white porcelain paver, white porcelain, contemporary porcelain pavers, patio pavers, pool deck"
   },
+    {
+  "id": "black-basalt-panel",
+  "name": "Black Basalt Panel",
+  "category": "Stone Veneer",
+  "subcategory": "Ledger Panels",
+  "price": 1.0,
+  "wasPrice": null,
+  "unit": "per sq ft",
+  "sku": "",
+  "rating": null,
+  "reviews": null,
+  "stock": "in",
+  "delivery": true,
+  "pickup": true,
+  "isNew": false,
+  "isSale": false,
+  "featuredRank": null,
+  "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/basalt-IMG_1319.jpg",
+  "url": "https://www.krcrock.com/product/black-basalt-panel",
+  "shortDesc": "Black Basalt Ledger Panel features deep charcoal-gray coloring and a rugged split-face texture. Its clean horizontal lines and subtle natural variations create a bold, modern stacked-stone appearance for interior and exterior applications.",
+  "bestFor": "Fireplaces • Accent Walls • Exterior Facades • Outdoor Kitchens • Columns • Entryways • Water Features"
+},
 {
       "id": "yellowstone-veneer",
       "name": "Yellowstone Veneer",
