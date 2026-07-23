@@ -759,6 +759,14 @@
     "type": "Spec Sheet (PDF)",
     "slug": "cherokee-charcoal"
   },
+    {
+    "name": "Fossil Creek",
+    "category": "Flagstone",
+    "thumb": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Fossil+Creek+6.jpg",
+    "pdf": "https://irp.cdn-website.com/9589f359/files/uploaded/Fossil+Creek.pdf",
+    "type": "Spec Sheet (PDF)",
+    "slug": "fossil-creek"
+  },
   {
     "name": "Cordova Platinum",
     "category": "Flagstone",
