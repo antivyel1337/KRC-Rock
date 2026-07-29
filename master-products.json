@@ -6334,6 +6334,28 @@
     "shortDesc": "White Quartz Ledger Panel features bright white and soft pearl-gray tones with subtle natural shading and delicate mineral sparkle. Its split-face texture and staggered rectangular pieces create a clean, luminous dimensional finish.",
     "bestFor": "Fireplaces • Accent Walls • Exterior Facades • Outdoor Kitchens • Columns • Entryways • Contemporary Features"
   },
+    {
+  "id": "baja-gray-rubble",
+  "name": "Baja Gray Rubble",
+  "category": "Boulders",
+  "subcategory": "",
+  "price": 1.0,
+  "wasPrice": null,
+  "unit": "per bulk",
+  "sku": "",
+  "rating": null,
+  "reviews": null,
+  "stock": "in",
+  "delivery": true,
+  "pickup": true,
+  "isNew": false,
+  "isSale": false,
+  "featuredRank": null,
+  "img": "",
+  "url": "https://krc-rock-5.dudasites.com/product/baja-gray-rubble",
+  "shortDesc": "Baja Gray Rubble features rugged, angular stone in a natural blend of cool gray, charcoal, tan, and earthy brown tones. Its varied coloring and rough texture create a bold, organic appearance for residential and commercial landscapes.",
+  "bestFor": "Dry creek beds, erosion control, landscape borders, drainage areas, and decorative accents."
+},
 {
       "id": "yellowstone-veneer",
       "name": "Yellowstone Veneer",
