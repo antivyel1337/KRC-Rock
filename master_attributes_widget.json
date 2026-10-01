@@ -9,6 +9,15 @@
     "sizeRange": "<p><strong>Size Range</strong></p><p>Fine soil with small organic particles and minimal debris</p>",
     "durability": "<p><strong>Durability</strong></p><p>Nutrient-rich and ideal for plant growth; may settle over time and require additional material for leveling</p>"
   },
+    "rustic-moon": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Coverage depends on boulder size, quantity, and placement spacing • Confirm available pieces and ordering units with our team</p>",
+    "color": "<p><strong>Color Range</strong></p><p>Natural color variations occur between pieces • View current inventory to select your preferred tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Accent Boulders • Landscape Focal Points • Dry Creek Beds • Rock Gardens • Natural Stone Groupings</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Set on a firm, stable base • Bury part of the boulder for stability and a natural appearance • Plan equipment access before delivery</p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Landscape Boulder</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Varies by individual piece • Confirm selected boulder weights before delivery and placement</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>Sizes vary by available inventory • Contact our team for current dimensions</p>"
+  },
   "apache-brown": {
     "coverage": "<p><strong>Coverage</strong></p><p>Approximately 80–100 square feet per ton at 2\" depth</p>",
     "color": "<p><strong>Color</strong></p><p>Rich Brown • Cocoa Tones • Warm Earthy Highlights • Subtle Tan Variation</p>",
