@@ -6356,6 +6356,28 @@
   "shortDesc": "Baja Gray Rubble features rugged, angular stone in a natural blend of cool gray, charcoal, tan, and earthy brown tones. Its varied coloring and rough texture create a bold, organic appearance for residential and commercial landscapes.",
   "bestFor": "Dry creek beds, erosion control, landscape borders, drainage areas, and decorative accents."
 },
+    {
+  "id": "rustic-moon",
+  "name": "Rustic Moon",
+  "category": "Boulders",
+  "subcategory": "",
+  "price": 1.0,
+  "wasPrice": null,
+  "unit": "per boulder",
+  "sku": "nan",
+  "rating": null,
+  "reviews": null,
+  "stock": "in",
+  "delivery": true,
+  "pickup": true,
+  "isNew": true,
+  "isSale": false,
+  "featuredRank": null,
+  "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/IMG_9507.jpeg",
+  "url": "https://www.krcrock.com/product/rustic-moon",
+  "shortDesc": "Rustic Moon boulders blend warm tan, earthy brown, and soft gray tones with touches of rust and cream. Their rugged surfaces and irregular shapes bring natural texture and character to garden beds, rock gardens, and landscape focal points. Each boulder features unique variations in color, shape, and surface texture.",
+  "bestFor": "Landscape Focal Points • Rock Gardens • Garden Bed Accents • Natural Boulder Groupings • Rustic Landscape Designs"
+},
 {
       "id": "yellowstone-veneer",
       "name": "Yellowstone Veneer",
