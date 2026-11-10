@@ -1427,6 +1427,16 @@
     "sizeRange": "<p><strong>Size Range</strong></p><p>2–5” rounded cobble stones.</p>",
     "durability": "<p><strong>Durability</strong></p><p>Naturally weathered river cobble with excellent durability and long-lasting natural color suitable for a variety of outdoor landscape applications.</p>"
   },
+    "pacific-cobble": {
+    "coverage": "<p><strong>Coverage</strong></p><p>Approx. 70–90 sq ft per ton at 2” depth depending on stone size.</p>",
+    "color": "<p><strong>Color</strong></p><p>Warm Tan • Sandy Brown • Soft Taupe • Natural Earth Tones</p>",
+    "bestUses": "<p><strong>Best Uses</strong></p><p>Dry Creek Beds • Landscape Accents • Garden Borders • Decorative Ground Cover • Natural Landscape Designs</p>",
+    "installationTips": "<p><strong>Installation Tips</strong></p><p>Install over landscape fabric or compacted base to prevent soil mixing and reduce weed growth. Larger cobbles work especially well for dry creek beds and erosion control areas.</p><p><br></p>",
+    "stoneType": "<p><strong>Stone Type</strong></p><p>Natural Rounded River Cobble</p>",
+    "weight": "<p><strong>Weight</strong></p><p>Approx. 2,600–2,800 lbs per cubic yard.</p>",
+    "sizeRange": "<p><strong>Size Range</strong></p><p>2–5” rounded cobble stones.</p>",
+    "durability": "<p><strong>Durability</strong></p><p>Naturally weathered river cobble with excellent durability and long-lasting natural color suitable for a variety of outdoor landscape applications.</p>"
+  },
   "san-joaquin-tan": {
     "coverage": "<p><strong>Coverage</strong></p><p>Approx. 80–100 sq ft per ton at 2” depth depending on stone size.</p>",
     "color": "<p><strong>Color</strong></p><p>Soft Blue Gray • Light Tan • Warm Taupe • Natural River Stone Blend</p>",
