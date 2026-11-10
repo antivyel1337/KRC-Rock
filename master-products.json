@@ -3329,6 +3329,28 @@
       "bestFor": ""
     },
     {
+      "id": "pacific-cobble",
+      "name": "Pacific Cobble",
+      "category": "River Rock & Pebble",
+      "subcategory": "",
+      "price": 1.0,
+      "wasPrice": null,
+      "unit": "per 2-5\"",
+      "sku": "nan",
+      "rating": null,
+      "reviews": null,
+      "stock": "in",
+      "delivery": true,
+      "pickup": true,
+      "isNew": false,
+      "isSale": false,
+      "featuredRank": null,
+      "img": "https://irp.cdn-website.com/9589f359/dms3rep/multi/Tan+Cobble+1.jpg",
+      "url": "https://krc-rock-5.dudasites.com/product/pacific-cobble",
+      "shortDesc": "Warm, earthy tones including shades of light brown, beige, and soft gray, with naturally rounded and smoothed surfaces.",
+      "bestFor": ""
+    },
+    {
       "id": "san-joaquin-tan",
       "name": "San Joaquin Tan",
       "category": "River Rock & Pebble",
